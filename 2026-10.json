@@ -1,0 +1,302 @@
+[
+  {
+    "year": 2026,
+    "subject": "Polity & Governance",
+    "passage": "The Supreme Court has reiterated the constitutional boundaries governing gubernatorial assent to state legislation under Article 200. The court emphasized that the Governor cannot sit indefinitely on bills passed by the state legislature. Article 200 mandates that when a Bill passed by the Legislature is presented to the Governor, they must either declare assent, withhold assent, or reserve the Bill for the consideration of the President, doing so 'as soon as possible'. If the Governor returns a non-Money Bill requesting reconsideration, and the House passes it again with or without amendments, the Governor is constitutionally bound to grant assent. The phrase 'as soon as possible' has been judicially interpreted to enforce constitutional accountability, ensuring that an unelected dignitary cannot stifle the legislative will of an elected house through pocket vetoes.",
+    "date": "2026-10-27",
+    "qno": 1,
+    "question": "With reference to the constitutional powers of the Governor regarding State Bills under Article 200, consider the following statements:\n1. The Governor can exercise an absolute pocket veto by withholding assent indefinitely without any constitutional timeline constraints.\n2. When a reconsidered non-Money Bill is presented again to the Governor after being re-passed by the state legislature, granting assent is mandatory.\n3. The Governor has discretionary authority to reserve any state bill affecting the powers of the High Court for the consideration of the President.\n\nHow many of the statements given above are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Economy",
+    "passage": "The Reserve Bank of India has expanded the offline functionality of the Central Bank Digital Currency (CBDC-Retail), also known as the Digital Rupee (e₹). Operating as a tokenized digital alternative to physical legal tender, the e₹ appears as a direct sovereign liability on the central bank's balance sheet, distinct from commercial bank deposits. To bridge the digital divide in rural and transit environments, proximity-based near-field communication (NFC) and sound-wave technology are utilized for peer-to-peer and peer-to-merchant transactions without active cellular data connectivity. In line with the recommendations of the RBI Working Group, retail CBDC balances do not accrue interest, thereby preventing the disintermediation of commercial bank deposits during periods of financial stress.",
+    "date": "2026-10-27",
+    "qno": 2,
+    "question": "Consider the following statements regarding the Central Bank Digital Currency (CBDC-Retail) in India:\n1. Unlike commercial bank deposits, the Digital Rupee represents a direct liability of the Reserve Bank of India.\n2. Retail digital rupee balances held in non-custodial wallets accrue interest benchmarked to the overnight repo rate.\n3. Offline CBDC transactions can be executed without active internet connectivity using Near Field Communication (NFC).\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2
+  },
+  {
+    "year": 2026,
+    "subject": "Environment & Ecology",
+    "passage": "India's voluntary domestic carbon market, notified under the Carbon Credit Trading Scheme (CCTS) pursuant to the Energy Conservation (Amendment) Act, 2022, is transitioning from baseline compliance to market-wide trading. The Bureau of Energy Efficiency (BEE) acts as the administrator, while the Central Electricity Regulatory Commission (CERC) is the regulator for trading carbon credit certificates (CCCs). Obligated entities in designated energy-intensive sectors that surpass their greenhouse gas emission reduction targets are awarded CCCs, which non-compliant entities must purchase to offset deficits. The mechanism replaces the earlier Perform, Achieve and Trade (PAT) scheme, synchronizing domestic carbon intensity verification with India's updated Nationally Determined Contributions (NDCs) under the Paris Agreement.",
+    "date": "2026-10-27",
+    "qno": 3,
+    "question": "With reference to the Carbon Credit Trading Scheme (CCTS) in India, consider the following statements:\n1. The scheme is framed under the statutory mandate of the Environment (Protection) Act, 1986.\n2. The Bureau of Energy Efficiency functions as the administrator, while the Central Electricity Regulatory Commission acts as the trading regulator.\n3. Entities that fail to achieve their designated GHG emission reduction targets can purchase Carbon Credit Certificates to ensure compliance.\n\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Science & Technology",
+    "passage": "Advances in Quantum Key Distribution (QKD) have enabled secure satellite-to-ground optical communications using entangled photons. QKD relies on the foundational principles of quantum mechanics, specifically the Heisenberg Uncertainty Principle and the No-Cloning Theorem. Unlike classical asymmetric cryptography, which relies on the mathematical complexity of prime factorization, QKD derives its security from physical laws: any interception or measurement by an eavesdropper intrinsically disturbs the quantum states of the photons, introducing detectable quantum bit error rates (QBER) and alerting the legitimate communicators. The technique generates a shared, random secret key between distant nodes to encrypt and decrypt classical messages via one-time pads.",
+    "date": "2026-10-27",
+    "qno": 4,
+    "question": "Which of the following physical principles forms the fundamental basis of security in Quantum Key Distribution (QKD)?",
+    "options": [
+      "Computational hardness of finding discrete logarithms in finite fields",
+      "Inability to measure a quantum system without altering its state and the impossibility of cloning unknown quantum states",
+      "Deterministic routing of polarized photons across fiber-optic Bragg gratings",
+      "Superconducting magnetic levitation of topological qubits at near-absolute zero temperatures"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "International Relations",
+    "passage": "The ongoing tensions in the Bab-el-Mandeb Strait have disrupted international maritime commerce through the Suez Canal route, forcing container vessels to circumnavigate the Cape of Good Hope. The Bab-el-Mandeb Strait serves as a vital geostrategic choke point linking the Red Sea to the Gulf of Aden and the broader Indian Ocean. Bordered by Djibouti and Eritrea on the African coast and Yemen on the Arabian Peninsula, its narrow shipping channel is flanked by Perim Island (Mayyun). Prolonged freight diversion around the southern tip of Africa has led to a sharp escalation in maritime insurance premiums, bunker fuel consumption, and transit times for merchandise trade moving between Asia and Western Europe.",
+    "date": "2026-10-27",
+    "qno": 5,
+    "question": "Consider the following geographical entities:\n1. Red Sea\n2. Persian Gulf\n3. Gulf of Aden\n4. Gulf of Oman\n\nThe Bab-el-Mandeb Strait directly connects which of the water bodies listed above?",
+    "options": [
+      "1 and 3 only",
+      "2 and 4 only",
+      "1 and 4 only",
+      "2 and 3 only"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Geography & Agriculture",
+    "passage": "The adoption of Direct Seeded Rice (DSR) with targeted pre-emergence herbicides has expanded across the Indo-Gangetic Plains as a groundwater-saving cultivation technique. Conventional puddled transplanted rice requires continuous field inundation for up to four weeks after transplanting to suppress weed growth, resulting in significant evaporative loss and methane emission from anaerobic microbial digestion. Under DSR, pre-germinated or dry seeds are drilled directly into unpuddled soil using seed-cum-fertilizer drills. While DSR reduces labor requirements, diesel expenditure, and irrigation water use by up to 25–30%, it requires weed management in the initial post-sowing phase and can elevate the risk of iron chlorosis in light-textured, alkaline soils.",
+    "date": "2026-10-27",
+    "qno": 6,
+    "question": "Consider the following statements regarding the Direct Seeded Rice (DSR) technique:\n1. It significantly lowers methane emissions compared to conventional puddled transplanted rice cultivation.\n2. It completely eliminates the risk of weed infestation during the nursery and vegetative stages without chemical inputs.\n3. Rice crops grown under DSR are susceptible to iron deficiency (chlorosis) in highly permeable, alkaline soils.\n\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Economy",
+    "passage": "To manage liquidity variations and anchor the weighted average call rate (WACR), the Reserve Bank of India utilizes the Standing Deposit Facility (SDF) and the Marginal Standing Facility (MSF). Introduced in 2022 on the recommendations of the Urjit Patel Committee, the SDF serves as the floor of the liquidity adjustment facility (LAF) corridor, while the MSF represents the ceiling. The distinct operational feature of the SDF is that it allows the central bank to absorb surplus liquidity from commercial banks without providing government securities as collateral. In contrast, standard Reverse Repo operations require the central bank to transfer collateral securities to eligible banks.",
+    "date": "2026-10-27",
+    "qno": 7,
+    "question": "What is the primary difference between the Standing Deposit Facility (SDF) and the traditional Reverse Repo facility operated by the RBI?",
+    "options": [
+      "SDF requires eligible commercial banks to pledge statutory liquidity ratio (SLR) securities to the central bank.",
+      "SDF absorbs surplus liquidity without requiring the RBI to provide government collateral securities to lenders.",
+      "SDF is available exclusively to Regional Rural Banks and Primary Urban Co-operative Banks.",
+      "SDF carries an interest rate fixed permanently at 100 basis points above the prevailing marginal standing facility."
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Polity & Governance",
+    "passage": "The implementation of the Bharatiya Nyaya Sanhita (BNS), Bharatiya Nagarik Suraksha Sanhita (BNSS), and Bharatiya Sakshya Adhiniyam (BSA) has updated India's statutory criminal jurisprudence. The BNSS has codified provisions for Zero FIRs, mandating that an FIR can be registered at any police station regardless of jurisdictional competence, to be transferred subsequently to the jurisdictional station. Furthermore, the BNSS formalizes forensic investigation mandates for offenses punishable with seven years of imprisonment or more, permits the use of audio-video electronic recording during searches and seizures, and institutionalizes specific timelines for framing charges and delivering judgments after the conclusion of arguments.",
+    "date": "2026-10-27",
+    "qno": 8,
+    "question": "With reference to the provisions codified under the Bharatiya Nagarik Suraksha Sanhita (BNSS), consider the following statements:\n1. A 'Zero FIR' must be registered by a police officer even if the alleged crime occurred outside the territorial jurisdiction of that police station.\n2. Forensic examination of crime scenes is made mandatory for all criminal offenses regardless of the severity of the prescribed punishment.\n3. The use of audio-video electronic recording is permissible during search and seizure operations to ensure procedural integrity.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2
+  },
+  {
+    "year": 2026,
+    "subject": "Environment & Ecology",
+    "passage": "Recent reports from the Convention on the Conservation of Migratory Species of Wild Animals (CMS) have highlighted that nearly half of migratory species globally are experiencing population declines, with extinction risk intensifying among migratory fish and birds. Migratory species play critical ecological roles, including seed dispersal, pollination, nutrient transport across biomes, and pest regulation. The Central Asian Flyway (CAF), which covers a large continental area between the Arctic Ocean and the Indian Ocean, includes the Indian subcontinent as an important wintering ground. Anthropogenic barriers, such as non-insulated overhead high-voltage power lines, continuous coastal wetland reclamation, and light pollution, have fragmented these migratory corridors.",
+    "date": "2026-10-27",
+    "qno": 9,
+    "question": "With reference to the Convention on the Conservation of Migratory Species of Wild Animals (Bonn Convention), consider the following statements:\n1. It functions as an environmental treaty under the aegis of the United Nations Environment Programme (UNEP).\n2. Appendix I of the Convention lists migratory species that are in danger of extinction throughout all or a significant portion of their range.\n3. India is a non-signatory to the convention, participating only as an ad-hoc observer in Conference of the Parties (COP) sessions.\n\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Science & Technology",
+    "passage": "The Department of Space has expanded private sector participation in the commercialization of the Small Satellite Launch Vehicle (SSLV) through the Indian National Space Promotion and Authorization Centre (IN-SPACe) and NewSpace India Limited (NSIL). The SSLV is a three-stage launch vehicle designed to deliver payloads up to 500 kg into low Earth orbit (LEO). All three primary stages of the SSLV utilize solid propellant, while the terminal stage incorporates a liquid-propellant-based Velocity Trimming Module (VTM). The VTM provides propulsion to achieve precise orbital injection parameters, offering launch-on-demand capabilities for commercial small satellite constellations.",
+    "date": "2026-10-27",
+    "qno": 10,
+    "question": "Consider the following statements regarding the Small Satellite Launch Vehicle (SSLV) developed by ISRO:\n1. All three primary stages of the vehicle operate using solid propellant stages.\n2. The terminal stage utilizes a liquid-propulsion Velocity Trimming Module (VTM) for precise satellite insertion.\n3. It is designed to deploy heavy payloads of up to 4,000 kg into Geosynchronous Transfer Orbits (GTO).\n\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "History, Art & Culture",
+    "passage": "Archaeological excavations at key coastal and deltaic sites in Peninsular India have brought to light early Sangam-era iron implements, semi-precious carnelian beads, and Tamil-Brahmi potsherds. Carbon dating of organic residues recovered from sites along the Vaigai and Porunai (Thamirabarani) river basins has pushed the antiquity of the Sangam culture back to the middle of the first millennium BCE. These excavations have revealed organized urban brick settlements, advanced water drainage systems, weave-spinning whorls, and extensive overseas trade linkages with Egypt, the Levant, and Rome, corroborating epigraphic accounts regarding the antiquity of maritime commerce across the ancient Indian Ocean.",
+    "date": "2026-10-27",
+    "qno": 11,
+    "question": "With reference to the Keeladi and Porunai excavations in southern India, which of the following inferences is most accurate?",
+    "options": [
+      "They confirm that the Sangam civilization was completely devoid of literacy and maintained no overseas maritime contacts.",
+      "They provide empirical evidence pushing the antiquity of an urbanized Sangam culture and Tamil-Brahmi script into the mid-first millennium BCE.",
+      "They establish that the Iron Age culture in southern India developed exclusively after the Mauryan expansion under Ashoka.",
+      "They demonstrate that terracotta and ceramic wares were imported entirely from Roman workshops without indigenous manufacturing."
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Geography",
+    "passage": "The ongoing warming of the Arctic Ocean, occurring at more than three times the global average rate—a phenomenon known as Arctic Amplification—has significant impacts on mid-latitude weather extremes. The loss of sea ice reduces surface albedo, converting reflective ice into heat-absorbing dark open ocean. Climate scientists link this uneven warming to a weakening of the thermal gradient between the polar and tropical regions. Consequently, the Northern Hemisphere polar jet stream becomes slower and adopts a more meandering, high-amplitude wavy pattern. These 'Rossby waves' can become stationary, leading to persistent atmospheric blocking patterns that cause heatwaves, droughts, and unseasonal rainfall in Eurasia and North America.",
+    "date": "2026-10-27",
+    "qno": 12,
+    "question": "Which of the following processes describes the mechanism connecting 'Arctic Amplification' to persistent extreme weather events in mid-latitudes?",
+    "options": [
+      "Strengthening of the polar vortex leading to rapid linear, straight propagation of tropospheric jet streams.",
+      "Reduction of the equator-to-pole thermal gradient, causing the polar jet stream to meander in slow-moving Rossby wave configurations.",
+      "Immediate cessation of deep Atlantic thermohaline circulation driven solely by Pacific decadal oscillations.",
+      "Permanent expansion of the Hadley cell up to the subpolar low-pressure belts, preventing tropical cyclogenesis."
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "International Relations",
+    "passage": "The formal operationalization of the Indian Ocean Rim Association (IORA) Maritime Safety and Security framework reflects a growing focus on regional maritime governance. Established in 1997 through the Mauritius Declaration, IORA operates on consensus-based multilateral diplomacy and non-binding cooperation. Its priority areas include maritime safety, trade facilitation, fisheries management, disaster risk mitigation, academic cooperation, and the sustainable development of the Blue Economy. With its Secretariat located in Ebene, Mauritius, the association links littoral states across Africa, South Asia, Southeast Asia, and Australasia. Member states emphasize the United Nations Convention on the Law of the Sea (UNCLOS) as the primary legal regime governing navigational rights and maritime boundary delimitations.",
+    "date": "2026-10-27",
+    "qno": 13,
+    "question": "Consider the following statements regarding the Indian Ocean Rim Association (IORA):\n1. It was established under the aegis of the UN Security Council as a legally binding maritime security tribunal.\n2. The Coordinating Secretariat of IORA is situated in Mauritius.\n3. The association relies on consensus for decision-making and excludes bilateral contentious issues from its deliberations.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Economy",
+    "passage": "The Securities and Exchange Board of India (SEBI) has revised the regulatory norms governing Index Derivatives to curb excessive retail speculative exposure in the futures and options (F&O) segment. Key measures include increasing minimum contract values, limiting weekly derivative expiries to a single benchmark index per exchange, and mandating the upfront collection of intraday options premiums. The regulator noted that high trading turnover in derivative markets, when detached from hedging needs in the underlying cash equity market, increases systemic volatility and leads to net financial losses for retail participants, impacting household capital allocation into long-term savings instruments.",
+    "date": "2026-10-27",
+    "qno": 14,
+    "question": "With reference to capital markets in India, what is the primary economic objective of derivative instruments such as Futures and Options (F&O)?",
+    "options": [
+      "To completely replace trading in the cash equity segment by offering guaranteed capital yields.",
+      "To provide market participants with financial mechanisms to hedge against price volatility and manage portfolio risk.",
+      "To eliminate credit risk across inter-bank repo transactions through physical settlement.",
+      "To enable central banks to directly intervene in corporate bond valuations without open market operations."
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Environment & Ecology",
+    "passage": "The National Biodiversity Authority (NBA), constituted pursuant to the Biological Diversity Act, 2002 (as amended in 2023), oversees access to biological resources and associated traditional knowledge to secure Fair and Equitable Benefit Sharing (FEBS). The amended legislation exempts registered AYUSH practitioners and cultivated medicinal plants from prior intimation and benefit-sharing obligations, while maintaining regulatory oversight on foreign commercial entities. Biodiversity Management Committees (BMCs) established at the local Panchayati Raj and urban local body levels are legally mandated to prepare People’s Biodiversity Registers (PBRs), documenting local flora, fauna, and indigenous genetic conservation practices.",
+    "date": "2026-10-27",
+    "qno": 15,
+    "question": "With reference to the Biological Diversity Act, 2002 and its statutory architecture in India, consider the following statements:\n1. People's Biodiversity Registers (PBRs) are prepared by State Biodiversity Boards without the involvement of local local bodies.\n2. The National Biodiversity Authority is a statutory autonomous body headquartered in Chennai.\n3. Under the provisions of the Act, equitable benefit sharing can include transfer of technology and monetary royalty allocations.\n\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Science & Technology",
+    "passage": "Monoclonal antibodies (mAbs) are laboratory-manufactured molecules designed to serve as substitute antibodies that can restore, enhance, or mimic the immune system's attack on specific cells. Produced through the hybridoma technology first developed by Köhler and Milstein, identical B-cells are fused with immortal myeloma cells to produce clones targeting a single, specific epitope of an antigen. Monoclonal antibodies are widely deployed in targeted oncological therapies, autoimmune disease interventions, and emerging therapies against infectious viral pathogens. Their clinical utility lies in target specificity, minimizing off-target cytotoxicity compared to traditional chemotherapeutic agents.",
+    "date": "2026-10-27",
+    "qno": 16,
+    "question": "Consider the following statements regarding Monoclonal Antibodies:\n1. They are homogeneous antibodies produced by a single clone of cells and are directed against a single antigen epitope.\n2. They are produced through hybridoma technology by fusing antibody-producing B lymphocytes with myeloma cells.\n3. Unlike polyclonal antibodies, they recognize a wide variety of multiple disparate antigenic determinants across different pathogens.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Polity & Governance",
+    "passage": "The Law Commission of India has submitted recommendations concerning the institutional parameters of concurrent elections, commonly designated as 'One Nation, One Election'. The proposal seeks to synchronize the electoral cycles of the Lok Sabha, all State Legislative Assemblies, and subsequently local Panchayats and Municipalities. Achieving this objective would require constitutional amendments affecting Article 83 (duration of Houses of Parliament), Article 85 (dissolution of the Lok Sabha), Article 172 (duration of State Legislatures), Article 174 (dissolution of State Assemblies), and Article 356. Several constitutional scholars point out that adjusting the fixed tenures of state assemblies to achieve synchronization raises questions regarding federal balance and the parliamentary convention where an executive requires the continuous confidence of the house.",
+    "date": "2026-10-27",
+    "qno": 17,
+    "question": "Which of the following Articles of the Constitution of India would require amendment to synchronize the tenures of State Legislative Assemblies with the Lok Sabha?",
+    "options": [
+      "Articles 72 and 161",
+      "Articles 172 and 174",
+      "Articles 280 and 281",
+      "Articles 324 and 329 only"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Environment & Ecology",
+    "passage": "Coral bleaching events observed across the Lakshadweep and Andaman archipelagos have been linked to prolonged marine heatwaves in the northern Indian Ocean. Marine heatwaves are periods of persistent, anomalously warm sea surface temperatures (SSTs) exceeding the 90th percentile of historic regional baselines for at least five consecutive days. Under thermal stress, scleractinian reef-building corals expel their endosymbiotic photosynthetic algae (zooxanthellae) residing in their gastrodermal tissues. The expulsion reveals the translucent calcium carbonate skeleton, leading to bleaching. If elevated thermal anomalies persist for extended periods, the corals face mortality, impacting the structural complexity and biodiversity of reef ecosystems.",
+    "date": "2026-10-27",
+    "qno": 18,
+    "question": "Consider the following statements regarding coral bleaching and marine ecosystems:\n1. Marine heatwaves require sea surface temperatures to remain anomalously high for at least five consecutive days relative to baseline climatology.\n2. Coral bleaching occurs when corals expel their endosymbiotic zooxanthellae due to environmental stressors such as elevated sea surface temperatures.\n3. Bleached corals are dead organisms that cannot recover or regain symbiotic zooxanthellae even if ambient water temperatures return to normal within weeks.\n\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Economy",
+    "passage": "India's External Commercial Borrowings (ECB) framework, monitored under the Foreign Exchange Management Act (FEMA), 1999, regulates commercial debt sourced by domestic entities from non-resident lenders. Under the automatic route, eligible corporate entities can borrow up to $750 million per financial year without prior central bank approval, provided the borrowing meets minimum average maturity periods (MAMP). ECB funds cannot be deployed for speculative activities, real estate investment, or domestic on-lending, except under specified exemptions. The policy balances capital account openness with external vulnerability management, helping mitigate currency mismatch risks on corporate balance sheets during volatile global interest rate environments.",
+    "date": "2026-10-27",
+    "qno": 19,
+    "question": "Under the External Commercial Borrowings (ECB) guidelines administered by the Reserve Bank of India, eligible Indian borrowers are generally prohibited from utilizing ECB proceeds for which of the following avenues?",
+    "options": [
+      "Import of capital equipment and modern industrial plant machinery",
+      "Investment in real estate activities and stock market equity speculation",
+      "Capital expenditures for setting up overseas wholly-owned subsidiaries",
+      "Refinancing of existing domestic rupee loans taken for verified infrastructure projects"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Geography & Disaster Management",
+    "passage": "The recurring occurrence of Glacial Lake Outburst Floods (GLOFs) in the higher reaches of the Himalayas highlights the geomorphic instability of the cryosphere. As temperatures rise, proglacial and supraglacial lakes expand behind unstable terminal or lateral moraine dams. These natural moraine barriers consist of unconsolidated glacial till and ice-cored debris. GLOF triggers include ice or rock avalanches dropping into the lake, calving glaciers, seismic shocks, or hydrostatic pressure weakening internal permafrost cores. When a breach occurs, it releases impounded meltwater, creating high-velocity debris flows that threaten downstream hydro-infrastructure, human habitations, and river valley ecosystems.",
+    "date": "2026-10-27",
+    "qno": 20,
+    "question": "With reference to Glacial Lake Outburst Floods (GLOFs) in the Himalayan region, consider the following statements:\n1. Moraine-dammed glacial lakes are prone to breach because the natural dams are composed of poorly consolidated sediments and ice-cored till.\n2. Seismicity and rapid ice or rock avalanches entering a glacial lake can trigger displacement waves sufficient to overtop and erode moraine dams.\n3. GLOFs typically feature low-density fluid flows devoid of coarse sediment, boulders, or bedload gravels.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  }
+]

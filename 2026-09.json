@@ -1,0 +1,302 @@
+[
+  {
+    "year": 2026,
+    "subject": "Polity & Governance",
+    "passage": "Judicial review of administrative discretion has increasingly focused on the proportionality test over the traditional Wednesbury unreasonableness standard. The doctrine of proportionality requires that any state action infringing upon a fundamental right must satisfy four cumulative prongs: legitimacy of purpose, rational connection between the measure and the objective, necessity (ensuring no less restrictive alternative exists), and balancing of interests (the social benefits of the measure must outweigh the harm caused to individual rights). In landmark rulings concerning preventive detention, digital privacy, and internet suspensions, the Supreme Court has underscored that executive convenience cannot override procedural due process under Article 21.",
+    "date": "2026-09-27",
+    "qno": 1,
+    "question": "With reference to the 'Doctrine of Proportionality' applied by the Indian judiciary, consider the following statements:\n1. It mandates that any executive restriction on fundamental rights must employ the least intrusive means to achieve a legitimate state aim.\n2. Unlike the Wednesbury principle, which focuses on procedural irrationality, the proportionality test enables the court to examine the substantive balance between fundamental rights and state interest.\n3. The test was held inapplicable to state actions involving national security and preventive detention under Article 22.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Economy",
+    "passage": "India's inclusion in global emerging market sovereign bond indices, such as the JPMorgan GBI-EM Global Diversified Index, has facilitated non-resident investment in Government of India Datable Securities via the Fully Accessible Route (FAR). Under the FAR framework introduced in 2020 by the Reserve Bank of India, designated central government securities are eligible for unlimited foreign portfolio investment without individual or aggregate limits. While passive index-tracking foreign inflows reduce sovereign borrowing yields and broaden the domestic debt investor base, they also elevate domestic bond markets' sensitivity to global interest rate cycles, foreign exchange fluctuations, and abrupt capital outflows during geopolitical shocks.",
+    "date": "2026-09-27",
+    "qno": 2,
+    "question": "Consider the following statements regarding the 'Fully Accessible Route' (FAR) for government securities:\n1. Foreign Portfolio Investors (FPIs) are subject to a strict 15% aggregate holding ceiling in FAR-eligible government securities.\n2. All newly issued 5-year, 10-year, and 30-year benchmark government dated securities are designated under the FAR framework.\n3. Securities acquired under the FAR pathway can be settled through international central securities depositories.\n\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "2 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Environment & Ecology",
+    "passage": "The High Seas Treaty, formally known as the Agreement on Biodiversity Beyond National Jurisdiction (BBNJ) under UNCLOS, creates a comprehensive international legal regime for maritime areas outside Exclusive Economic Zones (EEZs), which cover nearly two-thirds of the global ocean. The treaty establishes legally binding mechanisms for creating Marine Protected Areas (MPAs) in international waters, mandates environmental impact assessments (EIAs) for high-seas commercial activities, and creates a fair framework for sharing benefits derived from Marine Genetic Resources (MGRs). A contentious pillar remains the treatment of Digital Sequence Information (DSI) derived from deep-sea extremophiles, balancing intellectual property rights against benefit-sharing obligations for developing countries.",
+    "date": "2026-09-27",
+    "qno": 3,
+    "question": "Which of the following is NOT a core thematic pillar of the BBNJ (High Seas) Treaty adopted under UNCLOS?",
+    "options": [
+      "Establishment of area-based management tools, including Marine Protected Areas in international waters.",
+      "Fair and equitable sharing of monetary and non-monetary benefits arising from Marine Genetic Resources.",
+      "Allocation of deep-seabed polymetallic nodule mining quotas exclusively by regional fisheries management bodies.",
+      "Conducting comprehensive Environmental Impact Assessments prior to significant high-seas activities."
+    ],
+    "answer": 2
+  },
+  {
+    "year": 2026,
+    "subject": "Science & Technology",
+    "passage": "Perovskite-silicon tandem solar cells have set new efficiency benchmarks in photovoltaic energy generation, exceeding the theoretical Shockley-Queisser limit of traditional single-junction crystalline silicon cells (~29.4%). In a tandem architecture, a wide-bandgap metal-halide perovskite top cell absorbs the high-energy blue and green wavelengths of the solar spectrum, while the underlying narrow-bandgap silicon bottom cell captures longer, red and near-infrared wavelengths. Despite laboratory power conversion efficiencies surpassing 33%, commercial deployment faces challenges related to operational thermal stability, moisture degradation, and the long-term chemical durability of lead-halide perovskite lattices under continuous solar irradiation.",
+    "date": "2026-09-27",
+    "qno": 4,
+    "question": "With reference to Perovskite-silicon tandem photovoltaic cells, consider the following statements:\n1. Tandem solar cells overcome the theoretical efficiency limits of single-junction silicon cells by absorbing different complementary regions of the solar spectrum.\n2. The perovskite layer is typically placed at the bottom because it specializes in absorbing low-energy, long-wavelength infrared radiation.\n3. Susceptibility to ambient moisture and heat-induced lattice degradation remains a major impediment to their mass commercialization.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2
+  },
+  {
+    "year": 2026,
+    "subject": "International Relations",
+    "passage": "The India-Mercosur Preferential Trade Agreement (PTA) expansion negotiations have centered on lowering tariffs across chemicals, pharmaceuticals, agricultural commodities, and automotive components. Mercosur, established under the 1991 Treaty of Asunción, operates as a South American customs union comprising Brazil, Argentina, Uruguay, and Paraguay, with Bolivia having formally integrated as a full member. Unlike a Comprehensive Economic Partnership Agreement (CEPA), which covers services, investment, government procurement, and intellectual property, a basic PTA primarily grants preferential tariff reductions on a specified positive list of traded goods, functioning as a stepping stone toward deeper regional economic integration.",
+    "date": "2026-09-27",
+    "qno": 5,
+    "question": "Consider the following South American nations:\n1. Bolivia\n2. Colombia\n3. Paraguay\n4. Peru\n5. Uruguay\n\nHow many of the nations listed above are full members of the Mercosur trading bloc?",
+    "options": [
+      "Only two",
+      "Only three",
+      "Only four",
+      "All five"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Geography & Agriculture",
+    "passage": "Biochar incorporation into degraded alfisols and lateritic soils has emerged as an effective land restoration strategy to enhance soil organic carbon (SOC) and nutrient retention. Biochar is a highly stable, carbon-rich solid coproduct produced by thermochemical pyrolytic biomass conversion under limited oxygen conditions. Its extensive internal surface area, microporous honeycomb structure, and abundant oxygen-containing surface functional groups impart a high cation exchange capacity (CEC). Consequently, biochar improves soil moisture retention, reduces fertilizer leaching into ground aquifers, neutralizes soil acidity, and sequesters atmospheric carbon in recalcitrant aromatic forms for centuries.",
+    "date": "2026-09-27",
+    "qno": 6,
+    "question": "Consider the following statements regarding the use of 'Biochar' in agricultural systems:\n1. It is synthesized through the complete combustion of biomass in an oxygen-rich open atmosphere.\n2. It increases the cation exchange capacity (CEC) of acidic, highly weathered soils, thereby minimizing nutrient leaching.\n3. The aromatic carbon structure of biochar resists microbial breakdown, allowing it to act as a stable long-term carbon sink.\n\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Economy",
+    "passage": "India's Current Account Deficit (CAD) dynamics are significantly shaped by the trade deficit in merchandise alongside the offsetting surplus in invisibles. While crude petroleum, edible oils, and electronics account for a significant share of import expenditures, exports of software services, business consulting, and personal remittances keep the net invisibles surplus resilient. According to World Bank remittance tracking, India remains the leading global recipient of inward worker remittances, driven by a diversified diaspora across Gulf Cooperation Council (GCC) countries and North America. Under the balance of payments methodology, unilateral personal transfers from abroad are credited directly under the Current Account (Secondary Income), without generating external debt liabilities.",
+    "date": "2026-09-27",
+    "qno": 7,
+    "question": "In the Balance of Payments (BoP) accounting framework of a nation, inward worker remittances from the diaspora are classified under which of the following accounts?",
+    "options": [
+      "Capital Account as Foreign Direct Investment inflows",
+      "Current Account under Secondary Income (Invisibles)",
+      "Financial Account as non-debt portfolio flows",
+      "Capital Account under External Commercial Borrowings"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Polity & Governance",
+    "passage": "The institutional autonomy and functional independence of the Election Commission of India (ECI) under Article 324 have been subject to statutory restructuring. Under the Chief Election Commissioner and other Election Commissioners (Appointment, Conditions of Service and Term of Office) Act, 2023, the selection committee comprises the Prime Minister as Chairperson, a Union Cabinet Minister, and the Leader of the Opposition (or leader of the largest single opposition party) in the Lok Sabha. The legislation also provides that the Chief Election Commissioner and Election Commissioners cannot be removed from office except in like manner and on like grounds as a Judge of the Supreme Court, ensuring parity in removal protections.",
+    "date": "2026-09-27",
+    "qno": 8,
+    "question": "With reference to the statutory framework governing the Election Commission of India, consider the following statements:\n1. The Selection Committee for appointing Election Commissioners includes the Chief Justice of India as an ex-officio statutory member.\n2. An Election Commissioner cannot be removed from office except in like manner and on like grounds as a Judge of the Supreme Court.\n3. The Constitution of India explicitly prescribes the administrative and legal qualifications required for appointment as an Election Commissioner.\n\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Environment & Ecology",
+    "passage": "The notification of eco-sensitive zones (ESZs) around national parks and wildlife sanctuaries under the Environment (Protection) Act, 1986, is intended to create transition buffers around protected areas. ESZs regulate anthropogenic pressures on core wildlife habitats by categorizing activities into prohibited, regulated, and permitted classes. Commercial mining, major polluting industrial plants, and commercial sawmills are strictly prohibited within ESZs. Regulated activities, such as commercial tourism and tree felling, are governed by site-specific Zonal Master Plans prepared by State Governments in consultation with local Panchayats and Forest Departments, ensuring ecological connectivity across contiguous wildlife corridors.",
+    "date": "2026-09-27",
+    "qno": 9,
+    "question": "Consider the following activities in relation to Eco-Sensitive Zones (ESZs) notified around protected wildlife habitats:\n1. Commercial mining and stone quarrying\n2. Rainwater harvesting and organic farming\n3. Establishment of large commercial sawmills\n4. Erection of major polluting brick kilns\n\nHow many of the activities listed above are strictly prohibited within an Eco-Sensitive Zone?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 2
+  },
+  {
+    "year": 2026,
+    "subject": "Science & Technology",
+    "passage": "Direct-acting antiviral (DAA) medications and therapeutic monoclonal regimens targeting the Hepatitis D Virus (HDV) highlight unique aspects of subviral pathology. Hepatitis D is a defective single-stranded circular negative-sense RNA subviral satellite that can replicate only in the presence of the Hepatitis B Virus (HBV). The viral genome of HDV is encapsulated within an outer lipoprotein envelope composed entirely of Hepatitis B surface antigens (HBsAg). Consequently, individuals cannot contract Hepatitis D without an active Hepatitis B co-infection or super-infection. Preventive immunization against Hepatitis B with the recombinant HBV vaccine therefore confers indirect, effective protection against Hepatitis D transmission.",
+    "date": "2026-09-27",
+    "qno": 10,
+    "question": "Which of the following statements correctly explains why administration of the Hepatitis B vaccine confers protective immunity against Hepatitis D infection as well?",
+    "options": [
+      "Hepatitis B and Hepatitis D viruses share identical reverse-transcribing DNA polymerase enzymes.",
+      "Hepatitis D virus cannot propagate or assemble infectious virions without the surface antigen envelope supplied by Hepatitis B virus.",
+      "The Hepatitis B vaccine consists of live-attenuated Hepatitis D viral particles that induce broad neutralizing mucosal antibodies.",
+      "Hepatitis D is an autoimmune disorder triggered exclusively by cross-reactive antibodies developed during Hepatitis B recovery."
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "History, Art & Culture",
+    "passage": "The architectural and sculptural traditions of the Hoysala temples—specifically the Chennakeshava temple at Belur, the Hoysaleshwara temple at Halebidu, and the Keshava temple at Somanathapura, inscribed on the UNESCO World Heritage List—represent the maturity of the Vesara style. These temples are characterized by their star-shaped (stellate) ground plans, elevated platform circumambulation plinths (jagati), and construction using soft soapstone (chloritic schist), which permitted deep undercutting and intricate frieze sculpting. The temple plinths display horizontal tiers featuring sequential bands of elephants, lions, floral scrolls, cavalry, and narrative relief friezes depicting episodes from the Mahabharata, Ramayana, and Bhagavata Purana.",
+    "date": "2026-09-27",
+    "qno": 11,
+    "question": "With reference to the Hoysala temple architectural style, consider the following statements:\n1. Temples are constructed primarily on stellate (star-shaped) ground plans resting on elevated plinths called jagati.\n2. Hard unyielding granite was preferred over soft chloritic schist (soapstone) to prevent delicate ornamental undercutting.\n3. The horizontal frieze bands on the base walls depict a strict sequential hierarchy of animal symbolism and epical narratives.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Geography",
+    "passage": "The South Asian Summer Monsoon transition involves significant interactions between the Inter-Tropical Convergence Zone (ITCZ), mid-latitude baroclinic disturbances, and sea surface temperature anomalies across the Indian Ocean. The Indian Ocean Dipole (IOD) refers to an anomalous sea-surface temperature gradient between the western equatorial Indian Ocean and the eastern Indian Ocean south of Indonesia. A positive IOD phase is characterized by warmer-than-normal sea surface temperatures in the western Indian Ocean and cooler waters off Sumatra. This configuration enhances atmospheric convection over the western basin and East Africa, often offsetting the drying impacts of a co-occurring El Niño over the Indian landmass.",
+    "date": "2026-09-27",
+    "qno": 12,
+    "question": "With reference to the Indian Ocean Dipole (IOD), consider the following statements:\n1. A positive IOD is characterized by cooler sea surface temperatures in the western Indian Ocean and anomalous warming near the Indonesian coast.\n2. A positive IOD phase generally exerts a favorable, reinforcing influence on the southwest monsoon precipitation over the Indian subcontinent.\n3. Unlike the El Niño-Southern Oscillation (ENSO), the IOD phenomenon is entirely confined to the Pacific Ocean basin.\n\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 3 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Polity & Governance",
+    "passage": "The doctrine of Basic Structure, enunciated by the Supreme Court in the landmark Kesavananda Bharati case (1973), limits the amending power of Parliament under Article 368. The court established that while Parliament has broad constituent powers to amend any provision of the Constitution—including the Fundamental Rights in Part III—it cannot alter, damage, or emasculate the core identity and basic framework of the document. Judicial review, secularism, the federal character of the polity, the rule of law, and free and fair elections have been recognized as non-derogable components of the basic structure, acting as a judicial check against constitutional overreach by transient legislative majorities.",
+    "date": "2026-09-27",
+    "qno": 13,
+    "question": "Which of the following statements regarding the 'Basic Structure Doctrine' in Indian constitutional law is correct?",
+    "options": [
+      "It is explicitly defined and listed under Article 368 of the Constitution of India.",
+      "Parliament can abrogate judicial review through an amendment passed with a special majority under Article 368.",
+      "The Supreme Court can invalidate any constitutional amendment if it infringes upon core constitutional features, including the federal balance and the rule of law.",
+      "The doctrine applies exclusively to ordinary statutory legislation and not to constitutional amendment acts."
+    ],
+    "answer": 2
+  },
+  {
+    "year": 2026,
+    "subject": "Economy",
+    "passage": "To improve debt recovery and address non-performing asset (NPA) resolution across the banking sector, the National Asset Reconstruction Company Limited (NARCL) operates in tandem with the India Debt Resolution Company Limited (IDRCL). Incorporated under an asset management model, NARCL functions as a 'bad bank' acquiring stressed commercial loan portfolios (predominantly accounts over ₹500 crore) from public and private sector banks. Loans are purchased against a consideration structure comprising 15% upfront cash and 85% in Security Receipts (SRs). The Union Government provides a sovereign guarantee backing the shortfall between the face value of the Security Receipts and the realized recovery amount, subject to a fixed liquidation window.",
+    "date": "2026-09-27",
+    "qno": 14,
+    "question": "Consider the following statements regarding the National Asset Reconstruction Company Limited (NARCL):\n1. It purchases stressed assets from commercial banks through a structure of 15% upfront cash and 85% Security Receipts.\n2. Security Receipts issued by NARCL are backed by a sovereign guarantee provided by the Government of India.\n3. NARCL is exclusively owned by private foreign institutional investors and excludes domestic public sector banks.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Environment & Ecology",
+    "passage": "The ongoing threat of invasive alien plant species—notably Prosopis juliflora, Lantana camara, Senna spectabilis, and Parthenium hysterophorus—is altering the trophic structure and wildlife habitats across protected reserves in the Western Ghats. These invasive woody weeds outcompete native palatable grasses and browse species, reduce native floral diversity, inhibit the natural regeneration of native canopies through allelopathic biochemical secretions, and degrade grazing conditions for native herbivores like the chital, gaur, and Asian elephant. Mechanical uprooting, root-stock eradication, and the ecological restoration of native flora are critical to preserving micro-habitat integrity.",
+    "date": "2026-09-27",
+    "qno": 15,
+    "question": "Consider the following plant species:\n1. Senna spectabilis\n2. Prosopis juliflora\n3. Lantana camara\n4. Pterocarpus santalinus\n\nHow many of the species listed above are widely recognized as invasive alien woody plants threatening natural forests in India?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 2
+  },
+  {
+    "year": 2026,
+    "subject": "Science & Technology",
+    "passage": "Small Modular Reactors (SMRs) are emerging as an option for industrial decarbonization, baseload power, and green hydrogen electrolysis. SMRs are advanced nuclear fission reactors that possess power generation capacities typically up to 300 MWe per module, which is about one-third of the generating capacity of traditional gigawatt-scale commercial reactors. Their modular, factory-fabricated design allows serial manufacturing and transport by rail or truck, reducing on-site construction timelines. SMRs rely heavily on passive safety systems—such as natural convection, gravity-driven coolant injection, and heat dissipation to ambient heat sinks—which can safely cool the core without active mechanical pumps or external AC power during severe accidents.",
+    "date": "2026-09-27",
+    "qno": 16,
+    "question": "With reference to Small Modular Reactors (SMRs) for nuclear energy, consider the following statements:\n1. They have an electrical power generation capacity generally capped at up to 300 Megawatts electric (MWe) per unit.\n2. They depend exclusively on high-voltage external alternating current (AC) pumps to prevent core meltdowns during emergency shutdowns.\n3. Their standardized components can be pre-fabricated in controlled factory environments and transported modularly to project sites.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "International Relations",
+    "passage": "The expansion of the North-South Transport Corridor (INSTC) via the Chabahar Port's Shahid Beheshti terminal provides India with an alternative transit route to landlocked Central Asian republics and Eurasia, bypassing overland transit through Pakistan. The trilateral agreement between India, Iran, and Afghanistan signed in 2016 established Chabahar as a transit hub. The deep-water port is situated in the Sistan-Baluchistan province of Iran on the Gulf of Oman, just outside the Strait of Hormuz. This strategic positioning provides access to open ocean shipping lanes, reducing maritime chokepoint vulnerabilities and transit times compared to traditional maritime routes through the Suez Canal and Baltic Sea.",
+    "date": "2026-09-27",
+    "qno": 17,
+    "question": "Consider the following statements regarding the Chabahar Port:\n1. It is situated on the Gulf of Oman, outside the maritime chokepoint of the Strait of Hormuz.\n2. The port provides India with multimodal transport access to Central Asia and Afghanistan, bypassing overland transit through Pakistan.\n3. The port is directly connected to the Red Sea via the Bab-el-Mandeb Strait without transiting the northern Indian Ocean.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Economy",
+    "passage": "The Insolvency and Bankruptcy Code (IBC), 2016, shifts corporate distress resolution from a 'debtor-in-possession' model to a 'creditor-in-control' regime. Upon admission of a corporate insolvency resolution process (CIRP) by the National Company Law Tribunal (NCLT), the board of directors of the corporate debtor is suspended, and management powers vest in an independent Interim Resolution Professional (IRP). A statutory moratorium under Section 14 takes effect, staying all judicial proceedings, enforcement of security interests, and recovery suits against the corporate debtor. The Committee of Creditors (CoC), comprising financial creditors, holds decision-making authority regarding resolution plan approvals or liquidation.",
+    "date": "2026-09-27",
+    "qno": 18,
+    "question": "Under the Insolvency and Bankruptcy Code (IBC), 2016, what is the legal effect of the declaration of a 'Moratorium' under Section 14 by the Adjudicating Authority?",
+    "options": [
+      "Immediate liquidation and auction of all physical assets belonging to the corporate debtor.",
+      "Prohibition of the institution of suits, recovery actions, and enforcement of any security interest against the corporate debtor.",
+      "Cancellation of all operational contracts and discharge of all financial liabilities without creditor voting.",
+      "Automatic transfer of the corporate entity's ownership equity to the Reserve Bank of India."
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Geography",
+    "passage": "The South China Sea is subject to multiple overlapping territorial and maritime claims, involving the Paracel Islands, Spratly Islands, Scarborough Shoal, and the Natuna Sea. Littoral states, including Vietnam, the Philippines, Malaysia, Brunei, and China, contest sovereignty over various low-tide elevations, cays, submerged reefs, and adjacent exclusive economic zones. In 2016, the Permanent Court of Arbitration (PCA) under UNCLOS Annex VII ruled in the South China Sea Arbitration that historic rights claims based on geographic 'nine-dash lines' are incompatible with UNCLOS. The tribunal clarified that low-tide elevations and artificial islands do not generate territorial seas or exclusive economic zones.",
+    "date": "2026-09-27",
+    "qno": 19,
+    "question": "With reference to the maritime geography of the South China Sea and international law (UNCLOS), consider the following statements:\n1. The Scarborough Shoal and the Spratly Islands are subject to overlapping sovereign claims by littoral states in the region.\n2. Under UNCLOS, artificial islands built upon submerged coral reefs generate a full 200-nautical-mile Exclusive Economic Zone.\n3. The South China Sea is connected to the East China Sea via the Taiwan Strait.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2
+  },
+  {
+    "year": 2026,
+    "subject": "Environment & Ecology",
+    "passage": "Peatlands cover only about 3% of the global land surface, yet they store nearly twice as much carbon as all the world's standing forests combined. Formed by the accumulation of partially decayed organic matter under water-saturated, anaerobic, and acidic conditions over millennia, peatlands act as long-term terrestrial carbon reservoirs. However, when peatlands are drained for agricultural monocultures, deforested, or ignited by subterranean peat fires, the stored organic matter oxidizes. This transforms these ecosystems from carbon sinks into major sources of greenhouse gas emissions, releasing carbon dioxide and nitrous oxide into the atmosphere.",
+    "date": "2026-09-27",
+    "qno": 20,
+    "question": "Which of the following conditions is primarily responsible for the long-term accumulation of undecomposed organic carbon in natural peatland ecosystems?",
+    "options": [
+      "Persistent hyper-saline conditions that accelerate aerobic microbial respiration.",
+      "Continuous waterlogging creating anaerobic conditions that inhibit microbial decomposition of plant matter.",
+      "High concentrations of dissolved alkaline minerals that neutralize all humic acids.",
+      "Extremely high soil temperatures promoting fast volcanic crystallization of carbon compounds."
+    ],
+    "answer": 1
+  }
+]
