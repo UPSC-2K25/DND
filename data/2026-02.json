@@ -1,0 +1,32 @@
+[
+  {
+    "year": 2026,
+    "subject": "Economy",
+    "passage": "The Central Bank Digital Currency (CBDC), known as the Digital Rupee (e₹), is a digital form of currency notes issued by the Reserve Bank of India. It is a legal tender and represents a direct sovereign liability on the central bank's balance sheet, identical to physical currency notes and coins. Unlike bank deposits, CBDC is held directly by individuals in digital token form via non-bank or bank-hosted digital wallets. To safeguard the stability of the commercial banking system and avoid bank disintermediation (wherein depositors might drain commercial banks during distress), central banks worldwide, including the RBI, do not pay interest on digital currency holdings.",
+    "date": "2026-02-15",
+    "qno": 1,
+    "question": "With reference to the Digital Rupee (e₹) issued by the Reserve Bank of India, consider the following statements:\n1. It appears as a liability on the balance sheet of the central bank.\n2. It can be converted into commercial bank deposits and physical cash.\n3. It earns a fixed interest rate credited directly to the user's digital wallet.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "International Relations",
+    "passage": "During the 15th BRICS Summit in Johannesburg and subsequent diplomatic ratifications, the BRICS grouping formalized an unprecedented expansion. Originally comprising Brazil, Russia, India, China, and South Africa, the intergovernmental forum invited six major economies to join. Saudi Arabia, the United Arab Emirates (UAE), Iran, Egypt, and Ethiopia formally integrated into the expanded BRICS bloc, while Argentina opted not to join following a change in government. The expansion substantially expands the bloc's footprint over global crude oil reserves, maritime choke points, and emerging market GDP.",
+    "date": "2026-02-28",
+    "qno": 2,
+    "question": "Consider the following countries:\n1. Egypt\n2. Ethiopia\n3. Iran\n4. United Arab Emirates\n\nWhich of the countries given above formally joined the BRICS grouping as new members during its recent expansions?",
+    "options": [
+      "1 and 2 only",
+      "3 and 4 only",
+      "1, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 3
+  }
+]

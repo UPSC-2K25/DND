@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>UPSC CSE Prelims — Current Affairs Mock Engine</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&family=Inter:wght@400;500;600;700&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <!-- Top Header -->
+  <header class="app-header">
+    <div class="header-left">
+      <div class="emblem">✦</div>
+      <div>
+        <h1 class="header-title">UPSC CSE GS-I CURRENT AFFAIRS</h1>
+        <p class="header-sub">Prelims Simulator & Passage Analysis Engine</p>
+      </div>
+    </div>
+    <div class="header-right">
+      <div id="timer-box" class="timer-box hidden">
+        <span class="timer-label">TIME REMAINING:</span>
+        <span id="timer-display" class="timer-digits">00:00</span>
+      </div>
+      <div id="mode-status-badge" class="badge badge-accent">PRACTICE MODE</div>
+    </div>
+  </header>
+
+  <!-- Filter & Controls Toolbar -->
+  <section class="controls-bar">
+    <div class="filter-group">
+      <label for="filter-month">Batch / Month:</label>
+      <select id="filter-month" class="select-input">
+        <option value="loading">Loading batches...</option>
+      </select>
+
+      <label for="filter-subject">Subject:</label>
+      <select id="filter-subject" class="select-input">
+        <option value="all">All Subjects</option>
+      </select>
+
+      <label for="filter-year">Year:</label>
+      <select id="filter-year" class="select-input">
+        <option value="all">All Years</option>
+      </select>
+    </div>
+
+    <div class="mode-group">
+      <span class="mode-label">Mode:</span>
+      <label class="radio-label">
+        <input type="radio" name="test-mode" value="practice" checked /> Practice (Passage Visible)
+      </label>
+      <label class="radio-label">
+        <input type="radio" name="test-mode" value="exam" /> Mock Test (Passage Hidden, Timed)
+      </label>
+      <button id="btn-restart" class="btn btn-outline">Apply & Reset</button>
+    </div>
+  </section>
+
+  <!-- Main Work Area -->
+  <main id="main-layout" class="test-layout layout-dual">
+    
+    <!-- Left Column: Source Passage (Visible in Practice & Review modes) -->
+    <section id="passage-container" class="passage-container">
+      <div class="passage-header">
+        <span class="passage-title">Context & Source Passage</span>
+        <span class="passage-hint">Editorial / Current Affairs Source</span>
+      </div>
+      <div id="passage-content" class="passage-content">
+        <!-- Injected via app.js -->
+      </div>
+    </section>
+
+    <!-- Center Column: Question & Options -->
+    <section class="question-container">
+      <div class="meta-tag-bar">
+        <span id="badge-qno" class="badge badge-accent">Q 1</span>
+        <span id="badge-subject" class="badge">Subject</span>
+        <span id="badge-date" class="badge">Date</span>
+        <span id="badge-year" class="badge">Year</span>
+      </div>
+
+      <div class="question-body">
+        <p id="question-text" class="question-text">Loading questions...</p>
+      </div>
+
+      <div id="options-container" class="options-container">
+        <!-- Rendered via app.js -->
+      </div>
+
+      <footer class="action-bar">
+        <div class="action-left">
+          <button id="btn-prev" class="btn btn-default">« Previous</button>
+          <button id="btn-next" class="btn btn-default">Next »</button>
+          <button id="btn-clear" class="btn btn-link">Clear Response</button>
+        </div>
+        <div class="action-right">
+          <button id="btn-mark" class="btn btn-review">Mark for Review</button>
+          <button id="btn-submit-exam" class="btn btn-danger hidden">Submit Test</button>
+        </div>
+      </footer>
+    </section>
+
+    <!-- Right Column: Question Palette -->
+    <aside class="palette-container">
+      <div class="palette-header">
+        <h3>Question Palette</h3>
+        <p id="palette-stats" class="palette-stats">Total: 0</p>
+      </div>
+
+      <div class="legend-grid">
+        <div class="legend-item"><span class="bullet answered"></span> Answered</div>
+        <div class="legend-item"><span class="bullet marked"></span> Review</div>
+        <div class="legend-item"><span class="bullet visited"></span> Visited</div>
+        <div class="legend-item"><span class="bullet unvisited"></span> Unvisited</div>
+      </div>
+
+      <div id="palette-grid" class="palette-grid">
+        <!-- Buttons rendered via app.js -->
+      </div>
+    </aside>
+
+  </main>
+
+  <!-- Scorecard Result Modal -->
+  <div id="scorecard-modal" class="modal-backdrop hidden">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h2>UPSC Prelims Mock Result</h2>
+        <button class="modal-close" id="btn-close-scorecard">✕</button>
+      </div>
+      <div class="modal-content">
+        <div class="score-summary-grid">
+          <div class="score-metric">
+            <span class="metric-title">Marks (Scaled 200)</span>
+            <span id="res-total-marks" class="metric-value font-highlight">0.00</span>
+            <span class="metric-caption">Benchmark</span>
+          </div>
+          <div class="score-metric">
+            <span class="metric-title">Accuracy</span>
+            <span id="res-accuracy" class="metric-value">0%</span>
+            <span class="metric-caption">Precision</span>
+          </div>
+          <div class="score-metric">
+            <span class="metric-title">Net Raw Score</span>
+            <span id="res-raw-score" class="metric-value">0.00</span>
+            <span class="metric-caption">+2.00 / -0.66</span>
+          </div>
+        </div>
+
+        <table class="table-breakdown">
+          <tbody>
+            <tr><td>Total Questions</td><td id="res-total-q" class="text-right">0</td></tr>
+            <tr><td>Attempted</td><td id="res-attempted" class="text-right">0</td></tr>
+            <tr class="text-success"><td>Correct (+2.00)</td><td id="res-correct" class="text-right">0</td></tr>
+            <tr class="text-danger"><td>Incorrect (-0.66)</td><td id="res-incorrect" class="text-right">0</td></tr>
+            <tr><td>Unattempted (0.00)</td><td id="res-unattempted" class="text-right">0</td></tr>
+          </tbody>
+        </table>
+
+        <div class="modal-footer-btns">
+          <button id="btn-review-answers" class="btn btn-primary">Review Answers with Passages</button>
+          <button id="btn-retake-test" class="btn btn-outline">Retake Test</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Cache-buster v=3 to avoid GitHub Pages caching issues -->
+  <script src="app.js?v=3"></script>
+</body>
+</html>

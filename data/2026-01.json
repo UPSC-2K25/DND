@@ -1,0 +1,32 @@
+[
+  {
+    "year": 2026,
+    "subject": "Polity",
+    "passage": "Delimitation literally means the act or process of fixing limits or boundaries of territorial constituencies in a country or a province having a legislative body. The job of delimitation is assigned to a high-power body known as the Delimitation Commission or a Boundary Commission, whose orders have the force of law and cannot be called into question before any court. In India, such Delimitation Commissions have been constituted 4 times — in 1952, 1963, 1973, and 2002. Under Article 82 of the Constitution, Parliament enacts a Delimitation Act after every Census. Once the Act is in force, the Union Government sets up the Commission. The Commission's orders are laid before the Lok Sabha and the respective State Legislative Assemblies, but no modifications are permissible.",
+    "date": "2026-01-20",
+    "qno": 1,
+    "question": "With reference to the Delimitation Commission in India, consider the following statements:\n1. The orders of the Delimitation Commission cannot be challenged in any court of law.\n2. When the orders of the Delimitation Commission are laid before the Lok Sabha or State Legislative Assembly, no modifications can be made by them.\n\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 2
+  },
+  {
+    "year": 2026,
+    "subject": "Science & Tech",
+    "passage": "Large Language Models (LLMs) represent a significant milestone in artificial intelligence, utilizing deep neural networks trained on petabytes of unstructured text data. These models, predominantly based on the Transformer architecture introduced in 2017, leverage self-attention mechanisms to determine contextual relationships between words over long textual sequences. Recent architectures like DeepSeek and modern open-weights models incorporate Mixture-of-Experts (MoE) techniques to activate only specialized subsets of parameters per token, drastically decreasing inference compute costs while retaining high reasoning fidelity across scientific, mathematical, and coding benchmarks.",
+    "date": "2026-01-25",
+    "qno": 2,
+    "question": "Which of the following best describes the term 'DeepSeek' or 'Large Language Models (LLMs)' frequently seen in recent technology news?",
+    "options": [
+      "Submarine optical fiber network for transcontinental data relay",
+      "Deep-sea mining robotic arms used to extract polymetallic nodules",
+      "Artificial intelligence architectures trained on vast text corpora for contextual inference",
+      "Autonomous drones used for real-time agricultural crop inspection"
+    ],
+    "answer": 2
+  }
+]

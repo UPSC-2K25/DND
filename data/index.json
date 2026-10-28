@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2026-01",
+    "label": "January 2026",
+    "file": "data/2026-01.json"
+  },
+  {
+    "id": "2026-02",
+    "label": "February 2026",
+    "file": "data/2026-02.json"
+  }
+]
