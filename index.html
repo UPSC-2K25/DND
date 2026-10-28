@@ -14,36 +14,47 @@
   <!-- Minimal Top Toolbar -->
   <header class="app-topbar">
     <div class="topbar-left">
-      <span class="compact-brand">UPSC CSE GS-I PRELIMS</span>
+      <span class="compact-brand">UPSC CSE GS-I</span>
       <span id="mode-badge" class="badge badge-accent">MOCK MODE</span>
     </div>
 
     <div class="topbar-center">
       <div class="filter-item">
         <label for="filter-month">Batch:</label>
-        <select id="filter-month" class="compact-select">
+        <select id="filter-month" class="compact-input">
           <option value="loading">Loading...</option>
         </select>
       </div>
+
+      <!-- Date Picker Filter -->
+      <div class="filter-item">
+        <label for="filter-date">Date:</label>
+        <input type="date" id="filter-date" class="compact-input date-picker" />
+        <button id="btn-clear-date" class="btn btn-icon" title="Clear Date Filter">✕</button>
+      </div>
+
       <div class="filter-item">
         <label for="filter-subject">Subject:</label>
-        <select id="filter-subject" class="compact-select">
+        <select id="filter-subject" class="compact-input">
           <option value="all">All</option>
         </select>
       </div>
+
       <div class="filter-item">
         <label for="filter-year">Year:</label>
-        <select id="filter-year" class="compact-select">
+        <select id="filter-year" class="compact-input">
           <option value="all">All</option>
         </select>
       </div>
+
       <button id="btn-restart" class="btn btn-xs btn-outline">Apply / Reset</button>
     </div>
 
     <div class="topbar-right">
       <div id="timer-box" class="timer-box">
-        <span class="timer-label">TIME:</span>
         <span id="timer-display" class="timer-digits">00:00</span>
+        <button id="btn-timer-toggle" class="btn btn-timer" title="Start / Pause Timer">▶ Start</button>
+        <button id="btn-timer-reset" class="btn btn-timer" title="Reset Timer">↺</button>
       </div>
       <button id="btn-submit-exam" class="btn btn-sm btn-danger">Submit Test</button>
     </div>
@@ -95,9 +106,8 @@
         <p id="palette-stats" class="palette-stats">Total: 0</p>
       </div>
 
-      <!-- Context-Aware Dynamic Legend -->
       <div id="legend-box" class="legend-grid">
-        <!-- Rendered dynamically via app.js depending on Mock or Review mode -->
+        <!-- Rendered dynamically via app.js -->
       </div>
 
       <div id="palette-grid" class="palette-grid">
@@ -143,14 +153,14 @@
           </tbody>
         </table>
 
+        <!-- Single clear CTA button; empty duplicate retake button removed -->
         <div class="modal-footer-btns">
-          <button id="btn-review-answers" class="btn btn-primary">Review Answers & Passages</button>
-          <button id="btn-retake-test" class="btn btn-outline">Retake Test</button>
+          <button id="btn-review-answers" class="btn btn-primary btn-block">Review Answers with Passages</button>
         </div>
       </div>
     </div>
   </div>
 
-  <script src="app.js?v=4"></script>
+  <script src="app.js?v=5"></script>
 </body>
 </html>
