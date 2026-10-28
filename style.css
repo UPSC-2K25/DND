@@ -38,19 +38,19 @@ body {
 .app-topbar {
   background-color: var(--primary-navy);
   color: #ffffff;
-  padding: 0.45rem 1.25rem;
+  padding: 0.45rem 1rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
   border-bottom: 2px solid var(--accent-gold);
   flex-wrap: wrap;
-  gap: 0.75rem;
+  gap: 0.65rem;
 }
 
 .topbar-left {
   display: flex;
   align-items: center;
-  gap: 0.6rem;
+  gap: 0.5rem;
 }
 
 .compact-brand {
@@ -63,39 +63,58 @@ body {
 .topbar-center {
   display: flex;
   align-items: center;
-  gap: 0.6rem;
-  font-size: 0.8rem;
+  gap: 0.5rem;
+  font-size: 0.78rem;
+  flex-wrap: wrap;
 }
 
 .filter-item {
   display: flex;
   align-items: center;
-  gap: 0.3rem;
+  gap: 0.25rem;
 }
 
 .filter-item label {
   color: #94a3b8;
-  font-size: 0.75rem;
+  font-size: 0.72rem;
 }
 
-.compact-select {
+.compact-input {
   border: 1px solid #475569;
-  padding: 0.2rem 0.45rem;
+  padding: 0.2rem 0.4rem;
   border-radius: 4px;
   background: var(--secondary-navy);
   color: #f8fafc;
   font-size: 0.75rem;
+  font-family: inherit;
 }
+
+/* Date picker specific styling */
+.date-picker {
+  color-scheme: dark;
+  cursor: pointer;
+}
+
+.btn-icon {
+  background: transparent;
+  border: none;
+  color: #94a3b8;
+  cursor: pointer;
+  padding: 0 0.2rem;
+  font-size: 0.75rem;
+}
+.btn-icon:hover { color: #f8fafc; }
 
 .topbar-right {
   display: flex;
   align-items: center;
-  gap: 0.75rem;
+  gap: 0.65rem;
 }
 
+/* Timer Controls */
 .timer-box {
-  background: rgba(255, 255, 255, 0.1);
-  padding: 0.25rem 0.65rem;
+  background: rgba(255, 255, 255, 0.08);
+  padding: 0.2rem 0.55rem;
   border-radius: 4px;
   border: 1px solid rgba(255, 255, 255, 0.2);
   display: flex;
@@ -103,20 +122,27 @@ body {
   gap: 0.4rem;
 }
 
-.timer-label {
-  font-size: 0.68rem;
-  color: #cbd5e1;
-  font-weight: 600;
-}
-
 .timer-digits {
   font-family: monospace;
   font-size: 1.1rem;
   font-weight: 700;
   color: #fef08a;
+  min-width: 3.5rem;
+  text-align: center;
 }
 
-/* Layout Engine */
+.btn-timer {
+  background: #334155;
+  color: #f8fafc;
+  border: 1px solid #64748b;
+  padding: 0.15rem 0.45rem;
+  font-size: 0.7rem;
+  border-radius: 3px;
+  cursor: pointer;
+}
+.btn-timer:hover { background: #475569; }
+
+/* Layout Grid */
 .test-layout {
   max-width: 1560px;
   width: 100%;
@@ -127,17 +153,15 @@ body {
   flex: 1;
 }
 
-/* Mock Mode: Question + Palette */
 .test-layout.layout-single {
   grid-template-columns: 1fr 280px;
 }
 
-/* Review Mode: Passage + Question + Palette */
 .test-layout.layout-dual {
   grid-template-columns: 420px 1fr 260px;
 }
 
-/* Left Column: Passage Container */
+/* Left Column: Passage */
 .passage-container {
   background: #ffffff;
   border: 1px solid var(--border-color);
@@ -173,7 +197,7 @@ body {
   white-space: pre-line;
 }
 
-/* Center Column: Question Container */
+/* Center Column: Question */
 .question-container {
   background: var(--card-bg);
   border: 1px solid var(--border-color);
@@ -252,7 +276,6 @@ body {
   font-weight: 500;
 }
 
-/* Review States for Options */
 .option-card.correct {
   border-color: var(--success) !important;
   background-color: var(--success-bg) !important;
@@ -359,7 +382,7 @@ body {
 .q-btn {
   aspect-ratio: 1;
   border: 1px solid var(--border-dark);
-  background: #ffffff; /* Default: unattempted has no color */
+  background: #ffffff;
   color: var(--text-main);
   border-radius: 4px;
   cursor: pointer;
@@ -371,16 +394,13 @@ body {
   transition: all 0.1s ease;
 }
 
-.q-btn:hover {
-  background: #f1f5f9;
-}
+.q-btn:hover { background: #f1f5f9; }
 
 .q-btn.current {
   border: 2px solid var(--primary-navy) !important;
   box-shadow: 0 0 0 2px rgba(15, 23, 42, 0.25);
 }
 
-/* Palette State Rules */
 .q-btn.state-green {
   background-color: var(--success) !important;
   color: #ffffff !important;
@@ -412,6 +432,7 @@ body {
 
 .btn-xs { padding: 0.2rem 0.5rem; font-size: 0.72rem; }
 .btn-sm { padding: 0.3rem 0.65rem; font-size: 0.78rem; }
+.btn-block { width: 100%; }
 .btn-primary { background: var(--primary-navy); color: #fff; }
 .btn-primary:hover { background: var(--secondary-navy); }
 .btn-outline { border-color: #475569; background: transparent; color: #f8fafc; }
@@ -438,7 +459,7 @@ body {
   background: #fff;
   border-radius: 6px;
   width: 100%;
-  max-width: 520px;
+  max-width: 500px;
   box-shadow: var(--shadow-md);
   max-height: 90vh;
   display: flex;
@@ -527,8 +548,7 @@ body {
 
 .modal-footer-btns {
   display: flex;
-  justify-content: flex-end;
-  gap: 0.65rem;
+  justify-content: center;
 }
 
 .hidden { display: none !important; }
