@@ -1,26 +1,21 @@
 /**
  * UPSC CSE Prelims Current Affairs Mock Test Engine
- * Dynamic Monthly Split Loader + Dual-View Passage Mode
+ * Clean Mock & Review Modes with Strict Color Hierarchy
  */
 
-// Global State
 var state = {
   monthsIndex: [],        // Manifest of month files loaded from data/index.json
-  loadedMonthData: {},    // Cache: { "2026-01": [ ...questions ] }
-  selectedMonth: 'all',   // 'all' or specific month id
-  rawQuestions: [],       // Combined questions for current filter
-  activeQuestions: [],    // Filtered pool based on Subject / Year
+  loadedMonthData: {},    // Cache of fetched json per month
+  selectedMonth: 'all',
+  rawQuestions: [],
+  activeQuestions: [],
   currentIndex: 0,
   userResponses: {},      // { [qIndex]: selectedOptionIndex }
-  markedForReview: new Set(),
-  visitedIndices: new Set(),
-  mode: 'practice',       // 'practice' | 'exam'
-  isReviewMode: false,    // true after exam is submitted
+  isReviewMode: false,    // false = Mock Mode, true = Review Mode
   timerSecondsRemaining: 0,
   timerInterval: null
 };
 
-// Cached DOM Elements
 var el = {
   mainLayout: document.getElementById('main-layout'),
   passageContainer: document.getElementById('passage-container'),
@@ -30,10 +25,11 @@ var el = {
   badgeSubject: document.getElementById('badge-subject'),
   badgeDate: document.getElementById('badge-date'),
   badgeYear: document.getElementById('badge-year'),
-  modeStatusBadge: document.getElementById('mode-status-badge'),
+  modeBadge: document.getElementById('mode-badge'),
 
   questionText: document.getElementById('question-text'),
   optionsContainer: document.getElementById('options-container'),
+  legendBox: document.getElementById('legend-box'),
   paletteGrid: document.getElementById('palette-grid'),
   paletteStats: document.getElementById('palette-stats'),
 
@@ -41,12 +37,10 @@ var el = {
   filterSubject: document.getElementById('filter-subject'),
   filterYear: document.getElementById('filter-year'),
   btnRestart: document.getElementById('btn-restart'),
-  modeRadios: document.querySelectorAll('input[name="test-mode"]'),
 
   btnPrev: document.getElementById('btn-prev'),
   btnNext: document.getElementById('btn-next'),
   btnClear: document.getElementById('btn-clear'),
-  btnMark: document.getElementById('btn-mark'),
   btnSubmitExam: document.getElementById('btn-submit-exam'),
 
   timerBox: document.getElementById('timer-box'),
@@ -67,7 +61,7 @@ var el = {
 };
 
 // ==============================================================
-// 1. MONTHLY JSON MANIFEST & DYNAMIC LOADER
+// 1. DATA INITIALIZATION & MONTHLY REGISTRY
 // ==============================================================
 async function initAppData() {
   try {
@@ -77,12 +71,10 @@ async function initAppData() {
       populateMonthDropdown(state.monthsIndex);
       await loadMonthlyData(state.selectedMonth);
     } else {
-      console.warn('data/index.json not found. Attempting direct fallback.');
-      el.questionText.textContent = 'Failed to load data/index.json. Ensure the data directory exists.';
+      el.questionText.textContent = 'Could not find data/index.json. Please check your data folder.';
     }
   } catch (err) {
-    console.error('Initialization error:', err);
-    el.questionText.textContent = 'Error connecting to data repository. If viewing locally, use a local server or GitHub Pages.';
+    el.questionText.textContent = 'Error connecting to data files. Ensure you are running on a server or GitHub Pages.';
   }
 }
 
@@ -91,7 +83,7 @@ function populateMonthDropdown(months) {
 
   var allOpt = document.createElement('option');
   allOpt.value = 'all';
-  allOpt.textContent = 'All Months (Cumulative)';
+  allOpt.textContent = 'All Batches';
   el.filterMonth.appendChild(allOpt);
 
   months.forEach(function (m) {
@@ -102,7 +94,6 @@ function populateMonthDropdown(months) {
   });
 }
 
-// Fetch single or multiple monthly JSON files
 async function loadMonthlyData(monthId) {
   var filesToFetch = [];
 
@@ -119,22 +110,19 @@ async function loadMonthlyData(monthId) {
     }
   }
 
-  // Fetch missing months concurrently
   var promises = filesToFetch.map(async function (item) {
     try {
       var res = await fetch(item.file);
       if (res.ok) {
-        var data = await res.json();
-        state.loadedMonthData[item.id] = data;
+        state.loadedMonthData[item.id] = await res.json();
       }
     } catch (e) {
-      console.error('Failed to load file: ' + item.file, e);
+      console.error('Failed to load: ' + item.file, e);
     }
   });
 
   await Promise.all(promises);
 
-  // Compile active raw pool based on month filter
   var combined = [];
   if (monthId === 'all') {
     state.monthsIndex.forEach(function (m) {
@@ -148,7 +136,7 @@ async function loadMonthlyData(monthId) {
 
   state.rawQuestions = combined;
   populateSubjectAndYearFilters(state.rawQuestions);
-  applyFiltersAndResetSession();
+  startMockTest();
 }
 
 function populateSubjectAndYearFilters(questions) {
@@ -178,9 +166,9 @@ function populateSubjectAndYearFilters(questions) {
 }
 
 // ==============================================================
-// 2. SESSION & PASSAGE VISIBILITY CONTROLLER
+// 2. MOCK TEST & REVIEW MODES
 // ==============================================================
-function applyFiltersAndResetSession() {
+function startMockTest() {
   var selSubject = el.filterSubject.value;
   var selYear = el.filterYear.value;
 
@@ -192,63 +180,61 @@ function applyFiltersAndResetSession() {
 
   state.currentIndex = 0;
   state.userResponses = {};
-  state.markedForReview.clear();
-  state.visitedIndices.clear();
   state.isReviewMode = false;
 
-  var activeModeRadio = document.querySelector('input[name="test-mode"]:checked');
-  state.mode = activeModeRadio ? activeModeRadio.value : 'practice';
+  // View: Mock Mode (Passage Hidden, Layout Single)
+  el.passageContainer.classList.add('hidden');
+  el.mainLayout.className = 'test-layout layout-single';
+  el.modeBadge.textContent = 'MOCK MODE';
+  el.modeBadge.className = 'badge badge-accent';
+  el.btnSubmitExam.classList.remove('hidden');
+  el.btnClear.classList.remove('hidden');
 
-  updateLayoutViewMode();
   setupTimer();
+  renderLegend();
   renderPalette();
   loadQuestion(state.currentIndex);
 }
 
-// Controls whether passage is displayed or hidden
-function updateLayoutViewMode() {
-  var showPassage = (state.mode === 'practice') || state.isReviewMode;
+function activateReviewMode() {
+  state.isReviewMode = true;
+  clearInterval(state.timerInterval);
 
-  if (showPassage) {
-    el.passageContainer.classList.remove('hidden');
-    el.mainLayout.className = 'test-layout layout-dual';
-    el.modeStatusBadge.textContent = state.isReviewMode ? 'REVIEW MODE (PASSAGES ON)' : 'PRACTICE MODE';
-    el.modeStatusBadge.className = state.isReviewMode ? 'badge badge-accent' : 'badge';
-  } else {
-    // Exam mode (Mock test): Hide passage completely
-    el.passageContainer.classList.add('hidden');
-    el.mainLayout.className = 'test-layout layout-single';
-    el.modeStatusBadge.textContent = 'MOCK EXAM (PASSAGE HIDDEN)';
-    el.modeStatusBadge.className = 'badge badge-accent';
-  }
+  el.timerBox.classList.add('hidden');
+  el.btnSubmitExam.classList.add('hidden');
+  el.btnClear.classList.add('hidden');
+
+  // View: Review Mode (Passage Visible on Left, Layout Dual)
+  el.passageContainer.classList.remove('hidden');
+  el.mainLayout.className = 'test-layout layout-dual';
+  el.modeBadge.textContent = 'REVIEW MODE';
+  el.modeBadge.className = 'badge badge-review';
+
+  renderLegend();
+  renderPalette();
+  loadQuestion(0);
 }
 
 // ==============================================================
-// 3. EXAM TIMER
+// 3. TIMER
 // ==============================================================
 function setupTimer() {
   clearInterval(state.timerInterval);
+  el.timerBox.classList.remove('hidden');
+  
+  // 1.2 min (72s) per question as per GS standards
+  state.timerSecondsRemaining = Math.max(state.activeQuestions.length * 72, 120);
+  renderTimer();
 
-  if (state.mode === 'exam' && !state.isReviewMode) {
-    el.timerBox.classList.remove('hidden');
-    el.btnSubmitExam.classList.remove('hidden');
-    // UPSC GS standard: 1.2 minutes per question
-    state.timerSecondsRemaining = Math.max(state.activeQuestions.length * 72, 120);
+  state.timerInterval = setInterval(function () {
+    state.timerSecondsRemaining--;
     renderTimer();
-
-    state.timerInterval = setInterval(function () {
-      state.timerSecondsRemaining--;
-      renderTimer();
-      if (state.timerSecondsRemaining <= 0) {
-        clearInterval(state.timerInterval);
-        alert('Time is up! Your answers are being submitted.');
-        submitExam();
-      }
-    }, 1000);
-  } else {
-    el.timerBox.classList.add('hidden');
-    el.btnSubmitExam.classList.add('hidden');
-  }
+    if (state.timerSecondsRemaining <= 0) {
+      clearInterval(state.timerInterval);
+      alert('Time is up! Your test is being submitted.');
+      submitExam();
+    }
+  }, 1000);
 }
 
 function renderTimer() {
@@ -258,35 +244,29 @@ function renderTimer() {
 }
 
 // ==============================================================
-// 4. QUESTION & PASSAGE RENDERING
+// 4. QUESTION & OPTIONS RENDERING
 // ==============================================================
 function loadQuestion(index) {
   if (state.activeQuestions.length === 0) {
-    el.questionText.textContent = 'No questions match the selected filters. Please adjust month, subject, or year.';
-    el.passageContent.textContent = 'No passage available.';
+    el.questionText.textContent = 'No questions found matching your filter selection.';
+    el.passageContent.textContent = 'No passage.';
     el.optionsContainer.innerHTML = '';
     return;
   }
 
   state.currentIndex = index;
-  state.visitedIndices.add(index);
-
   var q = state.activeQuestions[index];
 
-  // Set Metadata Badges
   el.badgeQno.textContent = 'Q ' + (index + 1) + ' of ' + state.activeQuestions.length;
   el.badgeSubject.textContent = q.subject || 'General Studies';
   el.badgeDate.textContent = q.date || 'Current Affairs';
   el.badgeYear.textContent = q.year || '2026';
 
-  // Left Column: Inject Passage
-  if (q.passage && q.passage.trim() !== '') {
-    el.passageContent.textContent = q.passage;
-  } else {
-    el.passageContent.textContent = 'No source passage attached for this item.';
+  // Left Column Passage (only visible in review mode)
+  if (state.isReviewMode) {
+    el.passageContent.textContent = q.passage || 'No source passage provided for this item.';
   }
 
-  // Question Stem
   el.questionText.textContent = q.question;
   el.optionsContainer.innerHTML = '';
 
@@ -301,9 +281,8 @@ function loadQuestion(index) {
       card.classList.add('selected');
     }
 
-    // Correct / Incorrect evaluation (In practice mode or review mode)
-    var isEvalMode = (state.mode === 'practice' && selectedAnswer !== undefined) || state.isReviewMode;
-    if (isEvalMode) {
+    // Review Mode: Highlight Correct / Incorrect
+    if (state.isReviewMode) {
       if (optIdx === q.answer) {
         card.classList.add('correct');
       } else if (optIdx === selectedAnswer) {
@@ -323,7 +302,8 @@ function loadQuestion(index) {
 
     card.addEventListener('click', function () {
       if (state.isReviewMode) return; // Locked during review
-      handleOptionSelect(index, optIdx);
+      state.userResponses[index] = optIdx;
+      loadQuestion(index);
     });
 
     el.optionsContainer.appendChild(card);
@@ -331,30 +311,14 @@ function loadQuestion(index) {
 
   el.btnPrev.disabled = (index === 0);
   el.btnNext.disabled = (index === state.activeQuestions.length - 1);
-  el.btnMark.textContent = state.markedForReview.has(index) ? 'Unmark Review' : 'Mark for Review';
 
   renderPalette();
 }
 
-function handleOptionSelect(qIndex, optIndex) {
-  state.userResponses[qIndex] = optIndex;
-  loadQuestion(qIndex);
-}
-
-// Clear response
+// Clear Response
 el.btnClear.addEventListener('click', function () {
   if (state.isReviewMode) return;
   delete state.userResponses[state.currentIndex];
-  loadQuestion(state.currentIndex);
-});
-
-// Mark for Review
-el.btnMark.addEventListener('click', function () {
-  if (state.markedForReview.has(state.currentIndex)) {
-    state.markedForReview.delete(state.currentIndex);
-  } else {
-    state.markedForReview.add(state.currentIndex);
-  }
   loadQuestion(state.currentIndex);
 });
 
@@ -367,13 +331,30 @@ el.btnNext.addEventListener('click', function () {
 });
 
 // ==============================================================
-// 5. QUESTION PALETTE
+// 5. LEGEND & PALETTE COLOR LOGIC
 // ==============================================================
+function renderLegend() {
+  el.legendBox.innerHTML = '';
+
+  if (!state.isReviewMode) {
+    // Mock Mode Legend: Green for Attempted, White for Unattempted
+    el.legendBox.innerHTML = 
+      '<div class="legend-item"><span class="bullet bullet-green"></span> Attempted</div>' +
+      '<div class="legend-item"><span class="bullet bullet-white"></span> Unattempted</div>';
+  } else {
+    // Review Mode Legend: Green for Correct, Red for Wrong, White for Unattempted
+    el.legendBox.innerHTML = 
+      '<div class="legend-item"><span class="bullet bullet-green"></span> Correct</div>' +
+      '<div class="legend-item"><span class="bullet bullet-red"></span> Wrong</div>' +
+      '<div class="legend-item" style="grid-column: span 2;"><span class="bullet bullet-white"></span> Unattempted (No color)</div>';
+  }
+}
+
 function renderPalette() {
   el.paletteGrid.innerHTML = '';
   el.paletteStats.textContent = 'Total: ' + state.activeQuestions.length;
 
-  state.activeQuestions.forEach(function (_, idx) {
+  state.activeQuestions.forEach(function (q, idx) {
     var btn = document.createElement('button');
     btn.className = 'q-btn';
     btn.textContent = idx + 1;
@@ -382,32 +363,43 @@ function renderPalette() {
       btn.classList.add('current');
     }
 
-    var hasAnswer = (state.userResponses[idx] !== undefined);
-    var isMarked = state.markedForReview.has(idx);
-    var isVisited = state.visitedIndices.has(idx);
+    var userChoice = state.userResponses[idx];
 
-    if (isMarked) {
-      btn.classList.add('state-marked');
-    } else if (hasAnswer) {
-      btn.classList.add('state-answered');
-    } else if (isVisited) {
-      btn.classList.add('state-visited');
+    if (!state.isReviewMode) {
+      // --- MOCK MODE ---
+      // Green for attempted, no color (white) for unattempted
+      if (userChoice !== undefined) {
+        btn.classList.add('state-green');
+      } else {
+        btn.classList.add('state-unattempted');
+      }
+    } else {
+      // --- REVIEW MODE ---
+      // Green for correct, Red for wrong, no color for unattempted
+      if (userChoice === undefined) {
+        btn.classList.add('state-unattempted');
+      } else if (userChoice === q.answer) {
+        btn.classList.add('state-green');
+      } else {
+        btn.classList.add('state-red');
+      }
     }
 
     btn.addEventListener('click', function () {
       loadQuestion(idx);
     });
+
     el.paletteGrid.appendChild(btn);
   });
 }
 
 // ==============================================================
-// 6. UPSC CSE SCORING & EXAM SUBMISSION
+// 6. SUBMISSION & UPSC SCORING
 // ==============================================================
 el.btnSubmitExam.addEventListener('click', function () {
-  var answeredCount = Object.keys(state.userResponses).length;
+  var attempted = Object.keys(state.userResponses).length;
   var total = state.activeQuestions.length;
-  var msg = 'You have answered ' + answeredCount + ' of ' + total + ' questions. Are you sure you want to finish the mock test?';
+  var msg = 'You have attempted ' + attempted + ' of ' + total + ' questions. Are you sure you want to submit?';
   if (confirm(msg)) {
     submitExam();
   }
@@ -415,8 +407,6 @@ el.btnSubmitExam.addEventListener('click', function () {
 
 function submitExam() {
   clearInterval(state.timerInterval);
-  el.timerBox.classList.add('hidden');
-  el.btnSubmitExam.classList.add('hidden');
 
   var correct = 0;
   var incorrect = 0;
@@ -433,7 +423,7 @@ function submitExam() {
     }
   });
 
-  // Official UPSC GS Formula: +2 per correct, -0.66 per incorrect
+  // Official UPSC GS: +2.00 for correct, -0.66 for incorrect
   var rawScore = (correct * 2.0) - (incorrect * 0.66);
   var attempted = correct + incorrect;
   var accuracy = attempted > 0 ? ((correct / attempted) * 100).toFixed(1) : '0';
@@ -454,37 +444,29 @@ function submitExam() {
   el.scorecardModal.classList.remove('hidden');
 }
 
-// Scorecard Modal actions
 el.btnCloseScorecard.addEventListener('click', function () {
   el.scorecardModal.classList.add('hidden');
 });
 
 el.btnReviewAnswers.addEventListener('click', function () {
   el.scorecardModal.classList.add('hidden');
-  // Enable Review Mode: activates passage pane and marks answers
-  state.isReviewMode = true;
-  updateLayoutViewMode();
-  loadQuestion(0);
+  activateReviewMode();
 });
 
 el.btnRetakeTest.addEventListener('click', function () {
   el.scorecardModal.classList.add('hidden');
-  applyFiltersAndResetSession();
+  startMockTest();
 });
 
-// Filter & Mode Change Listeners
+// Filters
 el.filterMonth.addEventListener('change', function () {
   state.selectedMonth = el.filterMonth.value;
   loadMonthlyData(state.selectedMonth);
 });
 
-el.btnRestart.addEventListener('click', applyFiltersAndResetSession);
+el.btnRestart.addEventListener('click', startMockTest);
 
-el.modeRadios.forEach(function (r) {
-  r.addEventListener('change', applyFiltersAndResetSession);
-});
-
-// Initialization
+// Initialize on DOM ready
 window.addEventListener('DOMContentLoaded', function () {
   initAppData();
 });
