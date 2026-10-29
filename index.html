@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>UPSC CSE Prelims Mock Test</title>
+  <title>UPSC Prelims DND</title>
   <link rel="stylesheet" href="style.css" />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -14,11 +14,16 @@
   <!-- Minimal Top Toolbar -->
   <header class="app-topbar">
     <div class="topbar-left">
-      <span class="compact-brand">UPSC CSE GS-I</span>
+      <span class="compact-brand">UPSC CSE GSP</span>
       <span id="mode-badge" class="badge badge-accent">MOCK MODE</span>
     </div>
 
     <div class="topbar-center">
+      <!-- Total Available Questions Badge -->
+      <div class="filter-item">
+        <span class="badge badge-aq" title="Total Available Questions in Pool">AQ: <span id="badge-total-pool">0</span></span>
+      </div>
+
       <div class="filter-item">
         <label for="filter-month">Batch:</label>
         <select id="filter-month" class="compact-input">
