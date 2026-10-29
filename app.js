@@ -23,6 +23,7 @@ var el = {
   passageContainer: document.getElementById('passage-container'),
   passageContent: document.getElementById('passage-content'),
 
+  badgeTotalPool: document.getElementById('badge-total-pool'),
   badgeQno: document.getElementById('badge-qno'),
   badgeSubject: document.getElementById('badge-subject'),
   badgeDate: document.getElementById('badge-date'),
@@ -139,6 +140,12 @@ async function loadMonthlyData(monthId) {
   }
 
   state.rawQuestions = combined;
+
+  // Display Total Available Questions in Pool for the selected batch / all batches
+  if (el.badgeTotalPool) {
+    el.badgeTotalPool.textContent = state.rawQuestions.length;
+  }
+
   populateFiltersAndDateBounds(state.rawQuestions);
   startMockTest();
 }
@@ -323,7 +330,7 @@ function loadQuestion(index) {
   el.badgeSubject.textContent = q.subject || 'General Studies';
   el.badgeDate.textContent = q.date || 'Current Affairs';
   
-  // Display actual question number from the source data file
+  // Display original question number from the JSON data file
   var actualQno = (q.qno !== undefined && q.qno !== null) ? q.qno : (index + 1);
   el.badgeOrigQno.textContent = 'Ref #' + actualQno;
 
