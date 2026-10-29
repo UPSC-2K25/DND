@@ -4,7 +4,7 @@
  */
 
 var state = {
-  monthsIndex: [],        // Manifest of month files loaded from data/index.json
+  monthsIndex: [],       // Manifest of month files loaded from data/index.json
   loadedMonthData: {},    // Cache of fetched json per month
   selectedMonth: 'all',
   rawQuestions: [],
