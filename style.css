@@ -63,7 +63,7 @@ body {
 .topbar-center {
   display: flex;
   align-items: center;
-  gap: 0.5rem;
+  gap: 0.55rem;
   font-size: 0.78rem;
   flex-wrap: wrap;
 }
@@ -240,6 +240,22 @@ body {
   background: #f1f5f9;
   color: #475569;
   border: 1px solid var(--border-color);
+}
+
+/* Available Questions (AQ) Topbar Badge */
+.badge-aq {
+  background: rgba(255, 255, 255, 0.12);
+  color: #fef08a;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  font-family: monospace;
+  font-size: 0.75rem;
+  letter-spacing: 0.03em;
+  white-space: nowrap;
+}
+
+.badge-aq #badge-total-pool {
+  font-weight: 700;
+  color: #ffffff;
 }
 
 .question-text {
