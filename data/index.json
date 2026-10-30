@@ -10,6 +10,11 @@
     "file": "data/2026-06.json"
   },
   {
+    "id": "2026-07",
+    "label": "Jul 2026",
+    "file": "data/2026-07.json"
+  },
+  {
     "id": "2026-08",
     "label": "Aug 2026",
     "file": "data/2026-08.json"
