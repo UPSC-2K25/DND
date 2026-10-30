@@ -1,0 +1,2242 @@
+[
+  {
+    "year": 2026,
+    "subject": "Geography & Environment",
+    "passage": "The India Meteorological Department (IMD) projected below-normal rainfall for July 2026, with precipitation expected to remain below 94 per cent of the long-period average. The rainfall deficit during June had raised concerns about the progress of the southwest monsoon. Climate variability, including El Niño conditions in the Pacific Ocean, can influence the Indian monsoon through changes in atmospheric circulation and sea-surface temperatures. The southwest monsoon is critical for agricultural production, groundwater recharge, reservoir levels and rural demand. However, the spatial and temporal distribution of rainfall is as important as the seasonal aggregate, since excessive rainfall in certain regions can coexist with drought-like conditions elsewhere.",
+    "date": "2026-07-01",
+    "qno": 1,
+    "source": "Standard Newspapers",
+    "question": "With reference to the Indian monsoon and El Niño, consider the following statements:\n1. El Niño is generally associated with the warming of the central and eastern equatorial Pacific Ocean.\n2. El Niño invariably results in deficient rainfall throughout the entire Indian subcontinent.\n3. The Indian Ocean Dipole can influence the Indian summer monsoon independently of El Niño.\n4. The long-period average is used as a reference for assessing rainfall departures.\n\nHow many of the statements given above are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 2
+  },
+  {
+    "year": 2026,
+    "subject": "Indian Economy",
+    "passage": "India's remittance inflows from Gulf countries remained significant despite geopolitical tensions in West Asia. According to information reported by the Union Finance Ministry, net remittances from the region to India increased substantially in April 2026 compared with the corresponding period of the previous year. Remittances constitute an important component of India's external sector and provide foreign exchange to the economy. They support household consumption, education, healthcare and investment. However, excessive dependence on a limited number of destination countries exposes the Indian economy to geopolitical instability, employment disruptions and changes in migration policies. Remittance flows also influence the current account position of the balance of payments.",
+    "date": "2026-07-01",
+    "qno": 2,
+    "source": "Standard Newspapers",
+    "question": "With reference to remittances and India's Balance of Payments, consider the following statements:\n1. Personal remittances received from overseas Indians are generally recorded under secondary income in the current account.\n2. Remittances received from abroad directly constitute foreign direct investment.\n3. Remittance inflows can help finance a deficit in the merchandise trade balance.\n4. Remittances are necessarily classified as external commercial borrowings.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 3 only",
+      "2 and 4 only",
+      "1, 2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Environment & Ecology",
+    "passage": "The Delhi Government's proposed Electric Vehicle Policy 2.0 seeks to move beyond purchase incentives and establish a structural framework for clean mobility. The transition towards electric vehicles is considered important for reducing urban air pollution, lowering dependence on imported fossil fuels and supporting India's climate commitments. However, the environmental benefits of electric mobility depend on the electricity generation mix, battery manufacturing processes, mineral sourcing and end-of-life battery management. Lithium-ion batteries require critical minerals such as lithium, cobalt, nickel and graphite. Establishing effective recycling systems and developing domestic battery technologies are essential for reducing the environmental footprint of the electric mobility transition.",
+    "date": "2026-07-01",
+    "qno": 3,
+    "source": "Standard Newspapers",
+    "question": "With reference to electric vehicles and battery technologies, consider the following statements:\n1. Electric vehicles have zero tailpipe emissions.\n2. The overall lifecycle emissions of electric vehicles are necessarily zero irrespective of the electricity source.\n3. Lithium-ion batteries may require lithium, cobalt, nickel and graphite.\n4. Battery recycling can contribute to the recovery of critical minerals and reduce dependence on primary extraction.\n\nHow many of the statements given above are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 2
+  },
+  {
+    "year": 2026,
+    "subject": "Polity & Governance",
+    "passage": "The debate surrounding the three-language formula under the National Education Policy 2020 highlights the relationship between linguistic diversity, educational accessibility and national integration. The policy promotes multilingualism and encourages the use of the mother tongue or regional language as a medium of instruction, particularly in the foundational years. It also provides flexibility regarding the selection of languages, subject to the principle that no language should be imposed on any state. Language policy in India operates within the constitutional framework, which recognises multiple languages and provides safeguards for linguistic minorities. The Eighth Schedule of the Constitution currently recognises 22 languages, while Article 343 provides for Hindi in Devanagari script as the official language of the Union.",
+    "date": "2026-07-01",
+    "qno": 4,
+    "source": "Standard Newspapers",
+    "question": "With reference to the constitutional provisions relating to languages in India, consider the following statements:\n1. The Eighth Schedule of the Constitution contains 22 languages.\n2. Article 343 provides for Hindi in Devanagari script as the official language of the Union.\n3. English is constitutionally prohibited from being used for official purposes of the Union after 1965.\n4. Article 350A directs states and local authorities to provide adequate facilities for instruction in the mother tongue at the primary stage to children belonging to linguistic minority groups.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 4 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Science & Technology",
+    "passage": "The growing strategic importance of Artificial Intelligence has brought the concept of sovereign AI into policy discussions. Sovereign AI refers broadly to a country's ability to develop, deploy and govern AI systems using infrastructure, datasets, computing resources and institutional capabilities under its own jurisdiction and strategic control. Dependence on foreign computing infrastructure and advanced AI models can create vulnerabilities relating to data security, technological dependence and national security. High-performance computing infrastructure, semiconductor manufacturing, data centres, skilled human resources and indigenous research capabilities are important components of a sovereign AI ecosystem. However, technological sovereignty does not necessarily imply complete isolation from international collaboration or global innovation networks.",
+    "date": "2026-07-01",
+    "qno": 5,
+    "source": "Standard Newspapers",
+    "question": "With reference to Artificial Intelligence and sovereign computing, consider the following statements:\n1. Graphics Processing Units are widely used for parallel computation in AI training.\n2. Sovereign AI necessarily requires complete technological isolation from other countries.\n3. Access to high-performance computing infrastructure is an important component of AI development.\n4. Data governance and cybersecurity are relevant considerations in sovereign AI frameworks.\n\nHow many of the statements given above are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 2
+  },
+  {
+    "year": 2026,
+    "subject": "Indian Economy",
+    "passage": "India's industrial output recorded growth of 5.1 per cent in the latest reported industrial production data, while discussions emerged regarding the adoption of a Producer Price Index in the revised statistical framework. The Index of Industrial Production measures changes in the volume of industrial production over time. It is an important short-term indicator of economic activity and includes sectors such as mining, manufacturing and electricity. A Producer Price Index measures changes in prices received by producers for their output. Unlike the Consumer Price Index, which measures changes in prices paid by consumers, the Producer Price Index focuses on prices at the producer level. Changes in statistical methodology and base years can affect the comparability of economic indicators across different periods.",
+    "date": "2026-07-01",
+    "qno": 6,
+    "source": "Standard Newspapers",
+    "question": "With reference to India's industrial and price indices, consider the following statements:\n1. The Index of Industrial Production measures changes in industrial output.\n2. The Consumer Price Index primarily measures changes in prices received by producers.\n3. The Wholesale Price Index measures price changes at the wholesale level.\n4. Revision of the base year of an index may improve its representativeness of the current economic structure.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 2
+  },
+  {
+    "year": 2026,
+    "subject": "Environment & Ecology",
+    "passage": "The growing frequency and intensity of heatwaves have highlighted the need to integrate climate considerations into occupational health policies. Municipal sanitation workers, construction workers and other outdoor labourers are particularly vulnerable to extreme heat exposure. Climate adaptation strategies may include heat action plans, access to drinking water, shaded rest areas, modified working hours and early warning systems. Urban heat islands can intensify local temperatures due to concrete surfaces, reduced vegetation and anthropogenic heat emissions. Integrating occupational safety with climate adaptation is important for protecting vulnerable workers and ensuring the resilience of urban infrastructure and public services.",
+    "date": "2026-07-01",
+    "qno": 7,
+    "source": "Standard Newspapers",
+    "question": "With reference to heatwaves and urban climate, consider the following statements:\n1. Urban heat island effects are partly caused by the replacement of natural vegetation with built-up surfaces.\n2. Trees and urban green spaces can help moderate local temperatures through shading and evapotranspiration.\n3. Heatwaves are exclusively caused by the greenhouse effect and cannot occur due to natural climate variability.\n4. Heat action plans may include early warnings and public health preparedness measures.\n\nHow many of the statements given above are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 2
+  },
+  {
+    "year": 2026,
+    "subject": "Indian Economy & Federalism",
+    "passage": "The fiscal position of state governments has become an important subject of discussion due to rising expenditure commitments and debt servicing requirements. States finance their expenditure through own-tax revenue, non-tax revenue, transfers from the Union Government and market borrowings. The Goods and Services Tax has significantly changed India's indirect taxation framework by introducing a destination-based system of taxation. State governments receive their share of GST revenue through the State GST and the settlement mechanism under the dual GST structure. Fiscal sustainability requires states to balance developmental expenditure, welfare commitments, capital investment and debt obligations. Excessive revenue expenditure financed through borrowings can constrain future fiscal space.",
+    "date": "2026-07-01",
+    "qno": 8,
+    "source": "Standard Newspapers",
+    "question": "With reference to fiscal federalism and GST in India, consider the following statements:\n1. GST is primarily a destination-based tax.\n2. The GST Council is a constitutional body established under Article 279A.\n3. States have no role in the administration of State GST.\n4. State governments can raise resources through market borrowings subject to applicable constitutional and statutory restrictions.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 4 only",
+      "2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Polity & Governance",
+    "passage": "India's criminal justice administration is increasingly moving towards digital integration through the Inter-Operable Criminal Justice System and associated technological platforms. The initiative seeks to connect different components of the criminal justice ecosystem, including police, courts, prisons, prosecution and forensic institutions. Digitalisation can improve information sharing, investigation efficiency, case monitoring and institutional coordination. The broader framework of criminal justice reforms also includes the implementation of new criminal laws and the adoption of electronic records and digital evidence. However, technological integration must be accompanied by safeguards relating to privacy, data security, access to justice and procedural fairness.",
+    "date": "2026-07-01",
+    "qno": 9,
+    "source": "Standard Newspapers",
+    "question": "With reference to digitalisation of India's criminal justice system, consider the following statements:\n1. The Inter-Operable Criminal Justice System seeks to facilitate integration among different criminal justice institutions.\n2. Electronic records and digital evidence can be relevant in criminal proceedings, subject to applicable legal requirements.\n3. Digitalisation automatically eliminates the need for procedural safeguards in criminal investigations.\n4. Data protection and cybersecurity are important considerations in the digital criminal justice ecosystem.\n\nHow many of the statements given above are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 2
+  },
+  {
+    "year": 2026,
+    "subject": "Polity & Governance",
+    "passage": "The Union Government launched an upgraded Foreign Contribution Regulation Act portal alongside an electronic Overseas Citizen of India card initiative. The Foreign Contribution Regulation Act regulates the acceptance and utilisation of foreign contributions by specified individuals, associations and organisations in India. Its regulatory framework seeks to ensure transparency and accountability in the receipt and utilisation of foreign funds. Foreign contributions are subject to statutory conditions and reporting requirements. The Ministry of Home Affairs administers the FCRA framework. The regulation of foreign contributions is linked to concerns relating to national security, financial transparency and the independence of civil society organisations.",
+    "date": "2026-07-01",
+    "qno": 10,
+    "source": "Standard Newspapers",
+    "question": "With reference to the Foreign Contribution Regulation Act, consider the following statements:\n1. The FCRA is administered by the Ministry of Home Affairs.\n2. Political parties are permitted to receive foreign contributions without any statutory restrictions under the FCRA.\n3. Organisations receiving foreign contributions are subject to statutory compliance and reporting requirements.\n4. The FCRA regulates the acceptance and utilisation of foreign contributions by specified entities.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 3 and 4 only",
+      "2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Environment & Ecology",
+    "passage": "An assessment reported the addition of hundreds of newly recorded species and taxa to India's fauna and flora databases. Documentation of biodiversity is an important component of conservation planning, ecological research and environmental governance. India is recognised as one of the world's megadiverse countries because of its diverse climatic conditions, ecosystems and species richness. Taxonomy provides the scientific basis for identifying, describing and classifying organisms. The discovery or documentation of new species can have important implications for protected-area management, habitat conservation and the identification of ecological threats. Biodiversity databases also support international reporting under conventions such as the Convention on Biological Diversity.",
+    "date": "2026-07-01",
+    "qno": 11,
+    "source": "Standard Newspapers",
+    "question": "With reference to biodiversity and taxonomy, consider the following statements:\n1. Taxonomy deals with the identification, naming and classification of organisms.\n2. Endemic species are naturally restricted to a particular geographical region.\n3. All endemic species are necessarily classified as critically endangered by the IUCN.\n4. The Convention on Biological Diversity is an international legally binding treaty.\n\nHow many of the statements given above are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 2
+  },
+  {
+    "year": 2026,
+    "subject": "Indian Economy",
+    "passage": "The Union Government extended customs duty exemptions on certain petrochemical imports in response to changing global supply conditions. Petrochemicals are chemical products derived primarily from petroleum and natural gas. They serve as important raw materials for industries producing plastics, synthetic fibres, fertilisers, pharmaceuticals and other manufactured goods. Customs duties influence import costs, domestic industrial competitiveness and government revenue. Changes in customs tariffs can be used as instruments of trade policy and industrial support. However, excessive dependence on imported petrochemical inputs can expose domestic industries to international price volatility and geopolitical disruptions in global energy markets.",
+    "date": "2026-07-01",
+    "qno": 12,
+    "source": "Standard Newspapers",
+    "question": "With reference to customs duties and international trade, consider the following statements:\n1. Customs duties are indirect taxes imposed on goods imported into or exported from a country.\n2. The Central Government has constitutional authority over customs duties.\n3. Customs duty exemptions can influence the cost of imported industrial inputs.\n4. Customs duties are included in the definition of direct taxes.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "International Relations & Geography",
+    "passage": "The Strait of Hormuz has assumed considerable geopolitical significance amid tensions in West Asia. The narrow waterway connects the Persian Gulf with the Gulf of Oman and the Arabian Sea, making it a critical route for international energy transportation. A significant share of global petroleum trade passes through this maritime chokepoint. Any disruption to shipping through the strait can affect crude oil prices, insurance costs, global supply chains and the energy security of importing countries such as India. The importance of maritime security has also featured in India's diplomatic engagement with countries in the Gulf region. Safe and uninterrupted navigation through international waterways is an important element of global economic stability.",
+    "date": "2026-07-01",
+    "qno": 13,
+    "source": "Standard Newspapers",
+    "question": "With reference to the Strait of Hormuz, consider the following statements:\n1. It connects the Persian Gulf with the Gulf of Oman.\n2. It is strategically important for international petroleum transportation.\n3. The Strait of Hormuz lies entirely within the territorial waters of Saudi Arabia.\n4. Disruption of navigation through the strait can affect India's energy security.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 2
+  },
+  {
+    "year": 2026,
+    "subject": "International Relations & Environment",
+    "passage": "International health organisations have expressed concern over disease outbreaks in Venezuela amid post-earthquake relief operations. Natural disasters can disrupt healthcare infrastructure, sanitation systems, drinking water supplies and vaccination programmes, thereby increasing the risk of infectious disease transmission. Humanitarian emergencies require coordinated interventions involving national governments, international agencies and local communities. The World Health Organization plays a central role in international public health coordination, disease surveillance and emergency response. Its International Health Regulations provide a framework for managing public health events that may have international implications. Disaster preparedness therefore requires the integration of public health surveillance, emergency medical services and resilient sanitation infrastructure.",
+    "date": "2026-07-01",
+    "qno": 14,
+    "source": "Standard Newspapers",
+    "question": "With reference to the World Health Organization and International Health Regulations, consider the following statements:\n1. The WHO is a specialised agency of the United Nations.\n2. The International Health Regulations are legally binding on their States Parties.\n3. The WHO has the authority to directly legislate and enforce domestic public health laws in all member countries.\n4. International disease surveillance is an important component of global health security.\n\nHow many of the statements given above are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 2
+  },
+  {
+    "year": 2026,
+    "subject": "International Relations & Polity",
+    "passage": "A major constitutional debate in the United States concerned the interpretation of birthright citizenship under the Fourteenth Amendment. The amendment, adopted after the American Civil War, establishes citizenship for persons born or naturalised in the United States and subject to its jurisdiction. The debate highlights the importance of constitutional interpretation and judicial review in federal democracies. India follows a different constitutional and statutory framework for determining citizenship. The Indian Constitution contains provisions relating to citizenship at the commencement of the Constitution, while Parliament has the power to regulate citizenship through legislation under Article 11.",
+    "date": "2026-07-01",
+    "qno": 15,
+    "source": "Standard Newspapers",
+    "question": "With reference to citizenship provisions under the Indian Constitution, consider the following statements:\n1. Articles 5 to 11 deal with citizenship provisions in Part II of the Constitution.\n2. Article 11 empowers Parliament to make provisions regarding acquisition and termination of citizenship.\n3. Citizenship is included in the State List under the Seventh Schedule.\n4. India provides for single citizenship.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 4 only",
+      "2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "International Relations",
+    "passage": "The Indo-Pacific has emerged as a major geopolitical and economic region due to its significance for global trade, maritime connectivity, technological cooperation and strategic competition. India's Indo-Pacific policy emphasises a free, open, inclusive and rules-based regional order. The region includes important maritime routes connecting the Indian and Pacific Oceans. India's engagement with regional partners takes place through bilateral relations as well as multilateral platforms such as the Quad and the Association of Southeast Asian Nations. Maritime security, freedom of navigation, resilient supply chains and respect for international law are important dimensions of the regional framework.",
+    "date": "2026-07-01",
+    "qno": 16,
+    "source": "Standard Newspapers",
+    "question": "With reference to the Indo-Pacific region and regional groupings, consider the following statements:\n1. The Quad comprises India, Australia, Japan and the United States.\n2. ASEAN is a regional organisation established in Southeast Asia.\n3. The United Nations Convention on the Law of the Sea provides the international legal framework for maritime zones and navigation rights.\n4. India is not a member of the Quad.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 4 only",
+      "1, 2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 2
+  },
+  {
+    "year": 2026,
+    "subject": "Environment & Geography",
+    "passage": "The Great Nicobar infrastructure development project has generated debate regarding economic development, ecological conservation and the rights of indigenous communities. Great Nicobar Island is the southernmost island of the Nicobar group and occupies a strategically important position in the eastern Indian Ocean near the approaches to the Strait of Malacca. The island contains tropical evergreen forests, coastal ecosystems and habitats of several endemic species. Development activities in ecologically sensitive island regions require environmental impact assessment, sustainable land-use planning and safeguards for indigenous communities. The Shompen and Nicobarese are among the indigenous communities associated with the Nicobar Islands.",
+    "date": "2026-07-01",
+    "qno": 17,
+    "source": "Standard Newspapers",
+    "question": "With reference to Great Nicobar Island, consider the following statements:\n1. It is part of the Nicobar group of islands in the Andaman and Nicobar Islands.\n2. Indira Point, the southernmost point of India's territory, is located on Great Nicobar Island.\n3. The Shompen are an indigenous community associated with Great Nicobar Island.\n4. Great Nicobar Island is situated in the Arabian Sea.\n\nHow many of the statements given above are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 2
+  },
+  {
+    "year": 2026,
+    "subject": "International Relations & Indian Economy",
+    "passage": "India and Japan have expanded their cooperation in technology, trade, infrastructure and strategic affairs amid global economic disruptions. Japan is an important partner in India's infrastructure development, including high-speed rail projects, industrial corridors and urban transport systems. Both countries participate in the Quad and have developed cooperation in areas such as maritime security, supply-chain resilience and advanced technologies. Japan's role in the Indo-Pacific is significant due to its economic strength, technological capabilities and strategic location. India-Japan cooperation also contributes to broader efforts aimed at diversifying supply chains and reducing excessive dependence on concentrated manufacturing networks.",
+    "date": "2026-07-01",
+    "qno": 18,
+    "source": "Standard Newspapers",
+    "question": "With reference to India-Japan relations, consider the following statements:\n1. India and Japan are members of the Quad.\n2. Japan is a member of ASEAN.\n3. The Mumbai-Ahmedabad High-Speed Rail project is being developed with Japanese cooperation.\n4. Japan is a permanent member of the United Nations Security Council.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Indian Economy & Environment",
+    "passage": "Water security has emerged as an important element of India's development strategy, with policy discussions emphasising the creation of water buffers and improved water management. Climate change, groundwater depletion, irregular rainfall and growing urbanisation have increased pressure on freshwater resources. Water buffers can include reservoirs, restored wetlands, groundwater recharge structures and decentralised rainwater harvesting systems. Integrated water resource management seeks to coordinate the use of surface water and groundwater while considering ecological sustainability. River basin planning, watershed management and community participation are important components of sustainable water governance. Wetlands also provide ecosystem services such as flood moderation, water purification and biodiversity conservation.",
+    "date": "2026-07-01",
+    "qno": 19,
+    "source": "Standard Newspapers",
+    "question": "With reference to water resources and wetland ecosystems, consider the following statements:\n1. Wetlands can help in flood moderation and groundwater recharge.\n2. Groundwater is classified as a renewable resource under all circumstances, irrespective of its rate of extraction.\n3. Watershed management can improve soil and water conservation.\n4. The Ramsar Convention is an international treaty concerned with the conservation and wise use of wetlands.\n\nHow many of the statements given above are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 2
+  },
+  {
+    "year": 2026,
+    "subject": "Polity & Governance",
+    "passage": "The replacement of the Mahatma Gandhi National Rural Employment Guarantee Act framework by the Viksit Bharat-Guarantee for Rozgar and Ajeevika Mission (Gramin) Act, 2025, became an important subject of discussion with the commencement of the new framework on 1 July 2026. Rural employment guarantee programmes are intended to provide livelihood security through wage employment and the creation of productive rural assets. The earlier MGNREGA framework provided a statutory guarantee of at least 100 days of wage employment in a financial year to eligible rural households whose adult members volunteered for unskilled manual work. The relationship between employment guarantees, fiscal federalism, decentralised planning and rural development remains important for understanding India's social protection architecture.",
+    "date": "2026-07-01",
+    "qno": 20,
+    "source": "Standard Newspapers",
+    "question": "With reference to the Mahatma Gandhi National Rural Employment Guarantee Act, 2005, consider the following statements:\n1. It provided a statutory guarantee of at least 100 days of wage employment per financial year to eligible rural households.\n2. Employment under the Act was available only to households below the poverty line.\n3. Gram Sabhas have an important role in social audits under the Act.\n4. The programme is demand-driven in nature.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 3 and 4 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Indian Economy",
+    "passage": "India's Goods and Services Tax collections increased by 14 per cent in June 2026, with imports contributing significantly to the revenue growth. GST is an indirect tax introduced through the 101st Constitutional Amendment Act, 2016. It replaced several central and state indirect taxes and established a dual taxation framework comprising Central GST, State GST and Integrated GST. The GST Council, constituted under Article 279A, recommends tax rates, exemptions and other important policy measures. Import transactions attract IGST, while exports are generally treated as zero-rated supplies. The increasing contribution of imports to GST collections also highlights the relationship between international trade, domestic consumption and indirect tax revenues.",
+    "date": "2026-07-02",
+    "qno": 1,
+    "source": "Standard Newspapers",
+    "question": "With reference to Goods and Services Tax in India, consider the following statements:\n1. GST is primarily a destination-based consumption tax.\n2. The GST Council is a constitutional body established under Article 279A.\n3. Imports into India are generally subject to Integrated GST.\n4. The GST Council has the power to independently impose taxes without any legislative action by Parliament or State Legislatures.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Polity & Governance",
+    "passage": "The Union Government notified wage rates under the Viksit Bharat-Guarantee for Rozgar and Ajeevika Mission (Gramin), popularly known as VB-G RAM G. The new rural employment framework has attracted attention because of its implications for livelihood security, rural development and Centre-State financial relations. Rural employment guarantee programmes seek to provide wage employment to eligible rural households while creating productive community assets. The implementation of such programmes involves local planning, wage payments, monitoring and social audits. The role of Gram Sabhas and local self-government institutions is particularly important in ensuring transparency and accountability. The financial responsibilities of Union and State Governments also influence the effectiveness of rural employment programmes.",
+    "date": "2026-07-02",
+    "qno": 2,
+    "source": "Standard Newspapers",
+    "question": "With reference to rural employment guarantee programmes and decentralised governance, consider the following statements:\n1. Social audits are an important mechanism for ensuring accountability in rural employment programmes.\n2. Gram Sabhas have an important role in identifying local development priorities.\n3. The Constitution mandates that all rural employment programmes must be implemented exclusively by the Union Government.\n4. Rural employment programmes can contribute to the creation of durable community assets.\n\nHow many of the statements given above are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 2
+  },
+  {
+    "year": 2026,
+    "subject": "Environment & International Relations",
+    "passage": "The position adopted by the United States administration regarding international climate finance has raised concerns about the ability of multilateral institutions to meet their climate-related funding targets. The World Bank plays an important role in financing development projects, including renewable energy, climate adaptation, disaster resilience and sustainable infrastructure. Developing countries require substantial financial and technological support to transition towards low-carbon development pathways while adapting to the effects of climate change. Climate finance includes funding for mitigation and adaptation activities. The Paris Agreement recognises the importance of financial support from developed countries to developing countries, reflecting the principle of common but differentiated responsibilities and respective capabilities.",
+    "date": "2026-07-02",
+    "qno": 3,
+    "source": "Standard Newspapers",
+    "question": "With reference to international climate finance, consider the following statements:\n1. Climate finance can support both mitigation and adaptation activities.\n2. The Paris Agreement recognises the principle of common but differentiated responsibilities and respective capabilities.\n3. The World Bank is a specialised agency of the United Nations.\n4. Climate adaptation includes measures to reduce vulnerability to the adverse impacts of climate change.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 4 only",
+      "2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Environment & Ecology",
+    "passage": "An indigenous community in Arunachal Pradesh initiated conservation efforts for endangered ray-finned fish while attempting to preserve its traditional ecological knowledge. Freshwater ecosystems in the Himalayan and northeastern regions support considerable biodiversity and provide livelihoods to local communities. Ray-finned fishes constitute the largest class of living fishes and are characterised by fins supported by bony rays. Habitat degradation, pollution, overfishing, invasive species and alterations in river flow can threaten freshwater biodiversity. Community-based conservation initiatives can help integrate traditional knowledge with scientific biodiversity management. Protecting freshwater ecosystems also contributes to the conservation of aquatic food chains and the ecological integrity of river systems.",
+    "date": "2026-07-02",
+    "qno": 4,
+    "source": "Standard Newspapers",
+    "question": "With reference to freshwater biodiversity, consider the following statements:\n1. Ray-finned fishes belong to the class Actinopterygii.\n2. Freshwater ecosystems are generally unaffected by changes in river flow.\n3. Invasive alien species can threaten native aquatic biodiversity.\n4. Community participation can contribute to biodiversity conservation.\n\nHow many of the statements given above are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 2
+  },
+  {
+    "year": 2026,
+    "subject": "Indian Economy & Science and Technology",
+    "passage": "India's coal chemistry capabilities have gained importance in discussions on industrial development and energy security. Coal is not merely a fuel for electricity generation but also a source of carbon-based chemical compounds that can be used in the production of synthetic fuels, fertilisers, chemicals and industrial materials. Coal gasification is one of the technologies that converts coal into synthesis gas, primarily consisting of carbon monoxide and hydrogen. This gas can serve as a feedstock for producing several industrial products. However, conventional coal-based processes can generate substantial greenhouse gas emissions. Cleaner technologies, carbon capture and utilisation, and improved efficiency are therefore important considerations in developing a sustainable coal chemistry industry.",
+    "date": "2026-07-02",
+    "qno": 5,
+    "source": "Standard Newspapers",
+    "question": "With reference to coal gasification, consider the following statements:\n1. Coal gasification converts coal into a gaseous mixture known as synthesis gas or syngas.\n2. Syngas primarily contains carbon monoxide and hydrogen.\n3. Coal gasification necessarily produces zero greenhouse gas emissions.\n4. Syngas can be used as a feedstock for producing chemicals and synthetic fuels.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 4 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Energy & Environment",
+    "passage": "The need for a unified energy policy architecture has become increasingly important for India due to rising energy demand, geopolitical uncertainty and climate commitments. India's energy transition involves balancing energy security, affordability, accessibility and environmental sustainability. Renewable energy sources such as solar and wind are important for reducing dependence on fossil fuels, but their variable generation requires improvements in energy storage, transmission infrastructure and grid management. Green hydrogen, pumped-storage hydropower and battery storage can support the integration of renewable electricity. Diversification of energy sources and greater domestic manufacturing capacity are also important for reducing vulnerability to external supply disruptions.",
+    "date": "2026-07-02",
+    "qno": 6,
+    "source": "Standard Newspapers",
+    "question": "With reference to India's energy transition, consider the following statements:\n1. Solar and wind power are variable renewable energy sources.\n2. Pumped-storage hydropower can help balance electricity supply and demand.\n3. Green hydrogen is generally produced through electrolysis using renewable electricity.\n4. Expansion of renewable energy eliminates the need for electricity transmission infrastructure.\n\nHow many of the statements given above are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 2
+  },
+  {
+    "year": 2026,
+    "subject": "Polity & Governance",
+    "passage": "The Union Government notified a new set of telecom rules aimed at addressing emerging challenges in the digital communications ecosystem. Telecommunications have become an essential component of economic activity, public service delivery, national security and digital inclusion. The Telecommunications Act, 2023, provides a legislative framework for the regulation of telecommunications in India and replaces earlier colonial-era legislation. Modern telecom regulation covers spectrum allocation, authorisation of telecom services, network security and the protection of users. The increasing use of digital communication platforms has also raised concerns relating to privacy, cybercrime, data security and the balance between national security and individual freedoms.",
+    "date": "2026-07-02",
+    "qno": 7,
+    "source": "Standard Newspapers",
+    "question": "With reference to the Telecommunications Act, 2023, consider the following statements:\n1. It replaced the Indian Telegraph Act, 1885, as part of the modernisation of India's telecommunications framework.\n2. It provides a framework relating to authorisation of telecommunication services.\n3. Spectrum allocation and management are among the matters addressed by the Act.\n4. The Act completely removes the role of the Central Government in telecommunications regulation.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Polity & Governance",
+    "passage": "The Centre's demographic panel proposed seeking information from State Governments through a structured questionnaire to assess demographic trends and related policy requirements. Demographic information is essential for public administration, welfare delivery, urban planning, employment policy and the allocation of public resources. Population data is collected through different mechanisms, including the Census of India and the Civil Registration System. The Census provides comprehensive demographic information at specified intervals, whereas the Civil Registration System continuously records vital events such as births and deaths. Reliable demographic data is important for understanding population growth, migration, fertility, mortality and regional inequalities.",
+    "date": "2026-07-02",
+    "qno": 8,
+    "source": "Standard Newspapers",
+    "question": "With reference to population data collection in India, consider the following statements:\n1. The Census of India is conducted under the Census Act, 1948.\n2. The Civil Registration System is concerned with the registration of births and deaths.\n3. The Registrar General of India functions under the Ministry of Home Affairs.\n4. The Census and the Civil Registration System perform exactly the same function and collect identical information.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Defence & Security",
+    "passage": "The Indian Army unveiled a roadmap titled VIJAY to develop a future-ready military force capable of operating in a technologically complex and multi-domain security environment. Modern warfare increasingly involves the integration of land, air, maritime, cyber and space capabilities. The adoption of artificial intelligence, unmanned aerial systems, advanced surveillance, precision-guided weapons and secure communication networks has transformed military operations. India's defence modernisation strategy also emphasises indigenous manufacturing, jointness among the armed forces and technological self-reliance. The Defence Research and Development Organisation and domestic defence industries play important roles in developing indigenous military technologies.",
+    "date": "2026-07-02",
+    "qno": 9,
+    "source": "Standard Newspapers",
+    "question": "With reference to India's defence technology ecosystem, consider the following statements:\n1. The Defence Research and Development Organisation functions under the Ministry of Defence.\n2. Artificial intelligence can support intelligence, surveillance and reconnaissance activities.\n3. Cyber warfare is recognised as an important dimension of modern military operations.\n4. The Indian Armed Forces comprise only the Army and the Air Force.\n\nHow many of the statements given above are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 2
+  },
+  {
+    "year": 2026,
+    "subject": "Polity & Governance",
+    "passage": "Official data indicated that more than 99 per cent of births and deaths had been registered in India during 2024. Registration of births and deaths is an important component of civil registration and vital statistics systems. Birth registration establishes legal identity and supports access to education, welfare schemes and other public services. Death registration provides information essential for mortality statistics, public health planning and demographic analysis. The Registration of Births and Deaths Act, 1969, provides the statutory framework for registration in India and was amended in 2023 to strengthen digital registration and the use of birth certificates as a common document for specified purposes.",
+    "date": "2026-07-02",
+    "qno": 10,
+    "source": "Standard Newspapers",
+    "question": "With reference to the registration of births and deaths in India, consider the following statements:\n1. The Registration of Births and Deaths Act was originally enacted in 1969.\n2. Birth and death registration contributes to the generation of vital statistics.\n3. Birth registration can help establish an individual's legal identity.\n4. Registration of births and deaths is exclusively a subject in the Union List.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "International Relations",
+    "passage": "India and the European Union have continued discussions regarding the conclusion of a Free Trade Agreement, with Ireland expressing optimism about progress towards a possible agreement. A free trade agreement generally seeks to reduce or eliminate tariffs and other trade barriers between participating countries or economic blocs. India-EU trade relations cover goods, services, investment, technology and intellectual property. The European Union operates as a customs union with a common external tariff and a single market framework. An agreement between India and the EU could influence market access, investment flows, regulatory cooperation and supply-chain integration. However, negotiations often involve difficult issues such as agricultural protection, industrial tariffs, labour standards and intellectual property rights.",
+    "date": "2026-07-02",
+    "qno": 11,
+    "source": "Standard Newspapers",
+    "question": "With reference to the European Union and free trade agreements, consider the following statements:\n1. The European Union has a common external tariff as part of its customs union.\n2. The European Union has a single market framework that facilitates the movement of goods, services, capital and persons.\n3. Ireland is a member of the European Union.\n4. A free trade agreement necessarily requires participating countries to adopt a common currency.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Science & Technology",
+    "passage": "A United Nations panel warned about the potential risks associated with the unchecked development and deployment of Artificial Intelligence. AI technologies can improve productivity, scientific research, healthcare and public service delivery, but they can also create challenges relating to misinformation, discrimination, privacy, employment and security. Generative AI systems can produce text, images, audio and other forms of synthetic content. The growing capabilities of advanced AI systems have generated discussions regarding transparency, accountability, human oversight and international governance. Effective AI regulation requires balancing technological innovation with safeguards to protect fundamental rights and public interest.",
+    "date": "2026-07-02",
+    "qno": 12,
+    "source": "Standard Newspapers",
+    "question": "With reference to Artificial Intelligence, consider the following statements:\n1. Generative AI can produce new content based on patterns learned from training data.\n2. Algorithmic bias can arise from biased training data or system design.\n3. Explainable AI seeks to make the decision-making processes of AI systems more understandable.\n4. Artificial Intelligence systems are necessarily free from errors because they are based on mathematical models.\n\nHow many of the statements given above are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 2
+  },
+  {
+    "year": 2026,
+    "subject": "International Relations",
+    "passage": "India and Japan announced their intention to deepen strategic and economic cooperation during the visit of Japanese Prime Minister Sanae Takaichi to India. The discussions covered investment, defence cooperation, semiconductors, artificial intelligence, energy and resilient supply chains. India and Japan share a Special Strategic and Global Partnership and are members of the Quadrilateral Security Dialogue along with Australia and the United States. Japan has been an important development partner of India, particularly in infrastructure, high-speed rail and industrial investment. Their cooperation also reflects shared interests in maintaining a free, open and rules-based Indo-Pacific region.",
+    "date": "2026-07-02",
+    "qno": 13,
+    "source": "Standard Newspapers",
+    "question": "With reference to India-Japan relations, consider the following statements:\n1. India and Japan are members of the Quadrilateral Security Dialogue.\n2. Japan is a permanent member of the United Nations Security Council.\n3. Japan has been an important partner in India's high-speed rail development.\n4. India and Japan participate in the East Asia Summit.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 3 and 4 only",
+      "2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Polity & Governance",
+    "passage": "A parliamentary committee's deliberations on a proposed constitutional provision concerning the removal of ministers detained in custody for 30 consecutive days have attracted considerable attention. The proposal raises important questions about ministerial accountability, constitutional morality, criminal justice and the principle of presumption of innocence. Under the existing constitutional framework, the appointment and tenure of Union and State ministers are governed by Articles 75 and 164 respectively. The Council of Ministers is collectively responsible to the Lok Sabha at the Union level and to the Legislative Assembly at the State level. Any constitutional amendment affecting ministerial tenure must be examined in the context of parliamentary democracy and the basic structure doctrine.",
+    "date": "2026-07-02",
+    "qno": 14,
+    "source": "Standard Newspapers",
+    "question": "With reference to the constitutional position of the Council of Ministers in India, consider the following statements:\n1. Article 75 deals with the appointment and other provisions relating to Union ministers.\n2. Article 164 deals with the Council of Ministers in States.\n3. The Union Council of Ministers is collectively responsible to the Rajya Sabha.\n4. The basic structure doctrine limits Parliament's power to amend the Constitution.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 4 only",
+      "2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Indian Economy & Social Security",
+    "passage": "The Government notified a revised framework for the Employees' Provident Fund scheme while retaining several of its core provisions. The Employees' Provident Fund Organisation is responsible for administering important social security schemes for workers in the organised sector. Provident fund contributions create long-term retirement savings, while pension and insurance arrangements provide additional social protection. The Employees' Provident Funds and Miscellaneous Provisions Act, 1952, provides the statutory basis for the EPF framework. The EPFO functions under the Ministry of Labour and Employment. Expanding formal employment, improving compliance and extending social security coverage remain important policy objectives in India's labour market.",
+    "date": "2026-07-02",
+    "qno": 15,
+    "source": "Standard Newspapers",
+    "question": "With reference to the Employees' Provident Fund Organisation, consider the following statements:\n1. EPFO functions under the Ministry of Labour and Employment.\n2. The Employees' Provident Funds and Miscellaneous Provisions Act was enacted in 1952.\n3. The Employees' Pension Scheme is administered through the EPFO framework.\n4. EPFO is a constitutional body established under Article 280.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Science & Technology & Internal Security",
+    "passage": "The Government reportedly asked WhatsApp to postpone the rollout of its username feature amid concerns regarding impersonation, digital fraud and cybersecurity. The increasing use of digital messaging platforms has created new opportunities for communication and commerce but has also expanded the scope for identity theft, phishing and financial fraud. Digital identity verification, encryption, platform accountability and user privacy are important elements of digital governance. End-to-end encryption is designed to ensure that message content can be read only by the communicating users and not by the service provider during transmission. However, encryption does not automatically eliminate risks arising from compromised devices, fraudulent identities or social engineering attacks.",
+    "date": "2026-07-02",
+    "qno": 16,
+    "source": "Standard Newspapers",
+    "question": "With reference to cybersecurity and digital communications, consider the following statements:\n1. End-to-end encryption is designed to prevent intermediaries, including service providers, from reading message content during transmission.\n2. Phishing is a form of cyberattack involving deceptive attempts to obtain sensitive information.\n3. Multi-factor authentication can improve the security of digital accounts.\n4. End-to-end encryption makes users completely immune to social engineering attacks.\n\nHow many of the statements given above are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 2
+  },
+  {
+    "year": 2026,
+    "subject": "International Relations",
+    "passage": "Changing United States strategic priorities in Asia have generated discussions about India's role in the evolving balance of power in the Indo-Pacific. The intensifying strategic competition between the United States and China has implications for trade, technology, regional security and diplomatic partnerships. India follows a policy of strategic autonomy, seeking to protect its national interests while maintaining partnerships with different countries. India's relations with the United States, China, Japan, ASEAN members and other regional actors are shaped by a combination of economic and security considerations. Strategic autonomy does not necessarily imply neutrality or the absence of international partnerships; rather, it reflects independent decision-making based on national interests.",
+    "date": "2026-07-02",
+    "qno": 17,
+    "source": "Standard Newspapers",
+    "question": "With reference to India's foreign policy and strategic autonomy, consider the following statements:\n1. Strategic autonomy implies independent foreign policy decision-making based on national interests.\n2. Strategic autonomy necessarily requires India to remain outside all multilateral groupings.\n3. India is a member of both BRICS and the Shanghai Cooperation Organisation.\n4. ASEAN is a regional organisation comprising countries of Southeast Asia.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 3 and 4 only",
+      "2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Indian Economy & Governance",
+    "passage": "The Insurance Regulatory and Development Authority of India has taken steps to address the problem of dark patterns in digital insurance distribution. Dark patterns refer to deceptive or manipulative user-interface designs that influence consumers into making decisions that may not reflect their genuine preferences. Examples include forced action, disguised advertisements, false urgency and subscription traps. In the insurance sector, such practices can contribute to mis-selling and undermine consumer confidence. IRDAI is a statutory regulatory authority established under the IRDA Act, 1999. Consumer protection in digital financial services requires transparent disclosures, informed consent, effective grievance redressal and accountability of intermediaries.",
+    "date": "2026-07-02",
+    "qno": 18,
+    "source": "Standard Newspapers",
+    "question": "With reference to IRDAI and consumer protection, consider the following statements:\n1. IRDAI is a statutory body established under the IRDA Act, 1999.\n2. IRDAI regulates the insurance sector in India.\n3. Dark patterns are deceptive design practices that may manipulate consumer choices.\n4. IRDAI is directly responsible for regulating the entire banking sector in India.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Science & Technology & Space",
+    "passage": "NASA's consideration of repurposing a backup Mars rover for exploration of the Moon's south polar region highlights the growing importance of technological flexibility in space exploration. The lunar south pole is of particular scientific and strategic interest because permanently shadowed regions may contain water ice. Water resources on the Moon could potentially support life-support systems, scientific operations and the production of rocket propellants. Nuclear power systems, including radioisotope power sources, can provide electricity to spacecraft operating in environments with limited sunlight. Lunar exploration is also an important component of international efforts to establish long-term human presence beyond Earth.",
+    "date": "2026-07-02",
+    "qno": 19,
+    "source": "Standard Newspapers",
+    "question": "With reference to lunar exploration, consider the following statements:\n1. Permanently shadowed regions near the lunar poles may contain water ice.\n2. The Moon has a substantial global atmosphere comparable to that of Earth.\n3. Radioisotope power systems can provide electricity to spacecraft.\n4. The lunar south pole is of scientific interest for understanding the availability of water resources.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 3 and 4 only",
+      "2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Polity & Governance & Science and Technology",
+    "passage": "The Supreme Court of India expressed concern over the use of fabricated and AI-generated judicial precedents in legal proceedings. The development has highlighted the importance of verifying legal authorities and maintaining professional standards in the administration of justice. Generative AI systems can sometimes produce plausible but factually incorrect information, commonly described as AI hallucinations. In the judicial system, reliance on fabricated case citations can undermine the rule of law, judicial integrity and public confidence. The Supreme Court has emphasised the need for caution and verification while using AI-generated material. Technology can assist legal research, but judicial reasoning and professional accountability remain essential.",
+    "date": "2026-07-02",
+    "qno": 20,
+    "source": "Standard Newspapers",
+    "question": "With reference to the Indian judiciary and the use of Artificial Intelligence, consider the following statements:\n1. The Supreme Court of India is a constitutional court established under Part V of the Constitution.\n2. Article 141 provides that the law declared by the Supreme Court is binding on all courts within the territory of India.\n3. AI-generated information is necessarily accurate because it is produced through advanced computational models.\n4. The use of AI in legal research does not remove the responsibility of advocates to verify legal authorities.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 4 only",
+      "2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "International Relations",
+    "passage": "The 16th India-Japan Annual Summit provided an opportunity to strengthen the Special Strategic and Global Partnership between the two countries. Discussions covered economic security, defence cooperation, critical minerals, semiconductors, artificial intelligence, clean energy and resilient supply chains. Both countries emphasised the importance of a free, open and inclusive Indo-Pacific region. Japan has been an important development partner of India, particularly in high-speed rail, industrial corridors and infrastructure. India and Japan are also members of the Quadrilateral Security Dialogue along with Australia and the United States. Their cooperation reflects shared interests in maintaining regional stability and diversifying strategic supply chains.",
+    "date": "2026-07-03",
+    "qno": 1,
+    "source": "Standard Newspapers",
+    "question": "With reference to India-Japan relations, consider the following statements:\n1. India and Japan are members of the Quadrilateral Security Dialogue.\n2. Japan is a permanent member of the United Nations Security Council.\n3. Japan has supported India's high-speed rail development.\n4. Both countries are members of the G20.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 3 and 4 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Science & Technology",
+    "passage": "India and Japan identified Artificial Intelligence as an important area of bilateral cooperation during their annual summit. Cooperation in AI can contribute to industrial automation, healthcare, agriculture, disaster management and scientific research. However, the rapid development of advanced AI systems has raised concerns relating to algorithmic bias, privacy, misinformation, cybersecurity and accountability. Generative AI systems can create text, images, audio and other forms of synthetic content. International discussions on AI governance increasingly emphasise transparency, safety testing, human oversight and responsible innovation. Developing countries also seek equitable access to computing infrastructure, datasets and technological capabilities.",
+    "date": "2026-07-03",
+    "qno": 2,
+    "source": "Standard Newspapers",
+    "question": "With reference to Artificial Intelligence, consider the following statements:\n1. Generative AI systems can generate new content based on patterns learned from training data.\n2. Algorithmic bias can arise from the datasets used to train AI systems.\n3. Explainable AI seeks to improve the interpretability of AI-generated decisions.\n4. Human oversight is irrelevant in high-risk AI applications once a model has been trained.\n\nHow many of the statements given above are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 2
+  },
+  {
+    "year": 2026,
+    "subject": "Energy & Environment",
+    "passage": "Energy resilience emerged as a significant dimension of India-Japan cooperation. Both countries recognise the importance of diversified energy supplies, renewable energy technologies, critical minerals and resilient supply chains. India has been expanding its renewable energy capacity while exploring green hydrogen as an alternative energy carrier. Japan possesses advanced technologies in hydrogen production, fuel cells and energy efficiency. Green hydrogen is generally produced by splitting water through electrolysis using renewable electricity. Its applications include fertiliser production, refining, steel manufacturing and heavy transport. However, its economic viability depends on production costs, availability of renewable electricity, water resources, transportation and storage infrastructure.",
+    "date": "2026-07-03",
+    "qno": 3,
+    "source": "Standard Newspapers",
+    "question": "With reference to green hydrogen, consider the following statements:\n1. Green hydrogen can be produced through electrolysis using renewable electricity.\n2. Green hydrogen production necessarily involves the combustion of coal.\n3. Hydrogen can be used as a feedstock in fertiliser production.\n4. Storage and transportation are important challenges in developing a hydrogen economy.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 3 and 4 only",
+      "2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "International Relations & Internal Security",
+    "passage": "The Indian Navy's INS Trikand responded to a piracy attempt involving a merchant vessel in the Gulf of Aden. Maritime piracy remains a significant challenge to international trade and freedom of navigation, particularly in strategically important shipping corridors. The Gulf of Aden connects the Arabian Sea with the Red Sea through the Bab-el-Mandeb Strait. It is an important route for vessels travelling between Asia and Europe through the Suez Canal. India has deployed naval assets for maritime security operations and protection of merchant shipping. International cooperation through information sharing, naval patrols and coordinated maritime surveillance is essential for addressing piracy and other maritime threats.",
+    "date": "2026-07-03",
+    "qno": 4,
+    "source": "Standard Newspapers",
+    "question": "With reference to the Gulf of Aden and maritime geography, consider the following statements:\n1. The Gulf of Aden connects the Arabian Sea with the Red Sea through the Bab-el-Mandeb Strait.\n2. The Gulf of Aden is strategically important for maritime trade between Asia and Europe.\n3. The Gulf of Aden lies between the Arabian Peninsula and the Horn of Africa.\n4. The Strait of Hormuz connects the Gulf of Aden with the Mediterranean Sea.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Indian Economy & Social Justice",
+    "passage": "The Union Government approved the supply of improved-quality rice under the Pradhan Mantri Garib Kalyan Anna Yojana. Food security programmes in India aim to ensure access to adequate quantities of food grains for vulnerable sections of society. The National Food Security Act, 2013, provides a statutory framework for subsidised food grain distribution through the Targeted Public Distribution System. The programme covers eligible households identified under the Act and provides nutritional support to priority households and Antyodaya Anna Yojana beneficiaries. Food security is not limited to the availability of food grains; nutritional quality, affordability, accessibility and stability of supply are also important dimensions.",
+    "date": "2026-07-03",
+    "qno": 5,
+    "source": "Standard Newspapers",
+    "question": "With reference to the National Food Security Act, 2013, consider the following statements:\n1. It provides a legal entitlement to subsidised food grains for eligible households.\n2. Pregnant women and lactating mothers are covered under specific nutritional entitlements.\n3. The Act provides for coverage of up to 75 per cent of the rural population and 50 per cent of the urban population.\n4. The Act is implemented exclusively through private food distribution companies.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Environment & Energy",
+    "passage": "India's National Green Hydrogen Mission seeks to establish the country as a global hub for the production, utilisation and export of green hydrogen. The mission is intended to reduce dependence on fossil fuel imports, promote industrial decarbonisation and create domestic manufacturing capabilities. Green hydrogen can be used in sectors such as fertilisers, petroleum refining, steel and long-distance transport. The production process generally involves electrolysis of water using renewable electricity. Green hydrogen development also requires electrolyser manufacturing, renewable power capacity, water management, storage infrastructure and international cooperation. Its wider adoption could contribute to India's long-term net-zero emissions objective.",
+    "date": "2026-07-03",
+    "qno": 6,
+    "source": "Standard Newspapers",
+    "question": "With reference to the National Green Hydrogen Mission, consider the following statements:\n1. It seeks to promote domestic production and utilisation of green hydrogen.\n2. It aims to reduce dependence on fossil fuel imports.\n3. Electrolysers are used in the production of hydrogen through electrolysis.\n4. Green hydrogen can be used in hard-to-abate industrial sectors.\n\nHow many of the statements given above are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 3
+  },
+  {
+    "year": 2026,
+    "subject": "Polity & Governance",
+    "passage": "The Sixteenth Finance Commission's recommendations have important implications for the financial empowerment of Panchayati Raj Institutions. Local governments require adequate financial resources to perform their constitutional responsibilities relating to sanitation, drinking water, rural infrastructure and local development. The Constitution provides for State Finance Commissions under Articles 243-I and 243-Y to review the financial position of Panchayats and Municipalities. The Union Finance Commission, constituted under Article 280, recommends the distribution of financial resources between the Union and States and may recommend measures to augment the resources of local bodies. Effective fiscal decentralisation is essential for strengthening grassroots democracy.",
+    "date": "2026-07-03",
+    "qno": 7,
+    "source": "Standard Newspapers",
+    "question": "With reference to the financial administration of Panchayati Raj Institutions, consider the following statements:\n1. Article 280 provides for the constitution of a Finance Commission by the President.\n2. Article 243-I provides for the constitution of a State Finance Commission.\n3. The State Finance Commission reviews the financial position of Panchayats and recommends measures for improving their finances.\n4. The Union Finance Commission has no role whatsoever in recommending measures to augment the resources of local bodies.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Science & Technology & Health",
+    "passage": "India's efforts to develop Ayurveda as a globally recognised system of healthcare have highlighted the importance of scientific validation, standardisation and quality assurance. Ayurveda is one of the traditional systems of medicine recognised under India's healthcare framework. The Ministry of AYUSH promotes research, education, standardisation and international cooperation in traditional medicine. The World Health Organization has also undertaken initiatives relating to traditional, complementary and integrative medicine. Integrating traditional knowledge with modern scientific research requires clinical evidence, pharmacovigilance, quality control and appropriate regulatory oversight. International recognition of traditional medicine should be based on safety, efficacy and reliable scientific documentation.",
+    "date": "2026-07-03",
+    "qno": 8,
+    "source": "Standard Newspapers",
+    "question": "With reference to traditional medicine and healthcare regulation, consider the following statements:\n1. The Ministry of AYUSH deals with traditional systems of medicine including Ayurveda.\n2. Pharmacovigilance involves monitoring and evaluation of adverse effects associated with medicines.\n3. Traditional medicine systems are automatically exempt from all safety and quality requirements.\n4. The WHO has undertaken initiatives concerning traditional medicine.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 4 only",
+      "2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Polity & Governance & Social Justice",
+    "passage": "The National Human Rights Commission took suo motu cognisance of an incident involving alleged assault and exploitation of bonded labourers. Bonded labour represents a serious violation of human dignity and fundamental rights. The Bonded Labour System (Abolition) Act, 1976, abolished the bonded labour system and extinguished the obligations arising from bonded labour agreements. Article 23 of the Constitution prohibits trafficking in human beings, begar and other similar forms of forced labour. The National Human Rights Commission is a statutory body established under the Protection of Human Rights Act, 1993. It can inquire into human rights violations and recommend remedial measures.",
+    "date": "2026-07-03",
+    "qno": 9,
+    "source": "Standard Newspapers",
+    "question": "With reference to bonded labour and human rights institutions, consider the following statements:\n1. Article 23 prohibits trafficking in human beings and forced labour.\n2. The Bonded Labour System (Abolition) Act was enacted in 1976.\n3. The National Human Rights Commission is a constitutional body established directly under Article 338.\n4. The NHRC can inquire into complaints of human rights violations, subject to the provisions of its governing law.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 4 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Indian Economy & Governance",
+    "passage": "The Ministry of Coal permitted the acceptance of insurance surety bonds for certain obligations relating to coal blocks under the Mines and Minerals (Development and Regulation) framework. Insurance surety bonds can serve as an alternative to traditional bank guarantees and may reduce the immediate financial burden on businesses. Such financial instruments are intended to provide assurance that contractual or statutory obligations will be fulfilled. The use of surety bonds can improve liquidity and facilitate investment in infrastructure and mining projects. However, appropriate risk assessment, underwriting standards and regulatory oversight are essential to ensure that such instruments provide adequate financial protection.",
+    "date": "2026-07-03",
+    "qno": 10,
+    "source": "Standard Newspapers",
+    "question": "With reference to insurance surety bonds, consider the following statements:\n1. They can provide financial assurance for the fulfilment of contractual obligations.\n2. They can serve as an alternative to certain traditional bank guarantees.\n3. They necessarily involve the transfer of ownership of the underlying project to the insurer.\n4. They may help reduce the immediate collateral requirements of businesses.\n\nHow many of the statements given above are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 2
+  },
+  {
+    "year": 2026,
+    "subject": "Indian Economy",
+    "passage": "The buoyancy in India's Goods and Services Tax collections has generated discussions regarding the strength of domestic consumption and the sustainability of indirect tax revenues. GST collections are influenced by economic growth, formalisation of economic activity, compliance levels, import volumes and changes in tax administration. The GST system operates through a dual structure involving the Centre and States. The GST Council recommends important policy measures relating to rates, exemptions and administrative arrangements. Although rising GST collections can indicate improving economic activity, their interpretation must account for inflation, changes in tax rates, refunds and the expansion of the formal economy.",
+    "date": "2026-07-03",
+    "qno": 11,
+    "source": "Standard Newspapers",
+    "question": "With reference to GST collections and India's taxation system, consider the following statements:\n1. Rising GST collections may reflect increased economic activity and improved tax compliance.\n2. GST is a direct tax imposed on personal income.\n3. IGST is applicable to inter-State supplies, subject to the GST framework.\n4. GST refunds can influence the net revenue collections reported by the government.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 3 and 4 only",
+      "2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Science & Technology & Health",
+    "passage": "The Ministry of Health amended the Drugs Rules, 1945, to provide a more uniform regulatory framework for advanced cell and gene therapies. These therapies have the potential to treat certain genetic disorders, cancers and other serious diseases. Cell therapy involves the administration of living cells to achieve a therapeutic effect, while gene therapy involves modifying or introducing genetic material to treat or prevent disease. Advanced therapies require stringent standards for manufacturing, clinical evaluation, safety monitoring and quality assurance. Regulatory harmonisation can facilitate research and innovation while ensuring that patients are protected against unsafe or ineffective treatments.",
+    "date": "2026-07-03",
+    "qno": 12,
+    "source": "Standard Newspapers",
+    "question": "With reference to cell and gene therapies, consider the following statements:\n1. Gene therapy may involve introducing, removing or modifying genetic material in cells.\n2. Cell therapy can involve the administration of living cells for therapeutic purposes.\n3. Advanced therapies do not require clinical evaluation or safety monitoring.\n4. Regulatory oversight is important for ensuring the quality and safety of advanced therapies.\n\nHow many of the statements given above are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 2
+  },
+  {
+    "year": 2026,
+    "subject": "Indian Economy & Social Security",
+    "passage": "The Labour Ministry clarified that contributions to the Employees' Provident Fund beyond the prescribed statutory wage ceiling would be voluntary under the applicable framework. The Employees' Provident Fund Organisation administers social security schemes for employees in covered establishments. The EPF framework promotes retirement savings through contributions from employees and employers. The Employees' Pension Scheme provides pension-related benefits, while the Employees' Deposit Linked Insurance Scheme provides insurance coverage to eligible members. Expanding formal employment and strengthening social security coverage are important for improving labour welfare and financial inclusion. The EPFO functions under the administrative control of the Ministry of Labour and Employment.",
+    "date": "2026-07-03",
+    "qno": 13,
+    "source": "Standard Newspapers",
+    "question": "With reference to the Employees' Provident Fund framework, consider the following statements:\n1. EPFO functions under the Ministry of Labour and Employment.\n2. The Employees' Pension Scheme is part of the EPFO social security framework.\n3. The Employees' Deposit Linked Insurance Scheme provides insurance benefits to eligible employees.\n4. EPFO is a constitutional body established under Article 280.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "International Relations & Geography",
+    "passage": "Iran issued warnings to oil tankers regarding navigation through designated routes in the Strait of Hormuz amid tensions in West Asia. The Strait of Hormuz is one of the world's most important maritime chokepoints because a significant proportion of global petroleum trade passes through it. It connects the Persian Gulf with the Gulf of Oman and the Arabian Sea. Any disruption in this region can affect crude oil prices, maritime insurance, shipping costs and the energy security of importing countries. India is particularly sensitive to developments in the region due to its dependence on imported crude oil and its strategic interests in the Gulf region.",
+    "date": "2026-07-03",
+    "qno": 14,
+    "source": "Standard Newspapers",
+    "question": "With reference to the Strait of Hormuz, consider the following statements:\n1. It connects the Persian Gulf with the Gulf of Oman.\n2. It is an important route for global petroleum transportation.\n3. It lies between Iran and the Arabian Peninsula.\n4. It connects the Mediterranean Sea directly with the Red Sea.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Science & Technology & Space",
+    "passage": "India's private space industry is expanding with the development of Vikram-1, an orbital-class launch vehicle developed by Skyroot Aerospace. The growth of private participation in space activities represents a major shift in India's space ecosystem. The Indian Space Policy 2023 seeks to encourage greater participation by non-governmental entities in the space sector. The Indian National Space Promotion and Authorisation Centre acts as an interface for promoting and authorising private space activities. Private launch vehicles can support satellite deployment, commercial space services and the development of a competitive domestic space industry. However, orbital launches require sophisticated propulsion systems, guidance technologies and stringent safety procedures.",
+    "date": "2026-07-03",
+    "qno": 15,
+    "source": "Standard Newspapers",
+    "question": "With reference to India's private space sector, consider the following statements:\n1. Skyroot Aerospace is a private Indian space technology company.\n2. Vikram-1 is being developed as an orbital-class launch vehicle.\n3. IN-SPACe promotes and authorises activities of non-governmental entities in the space sector.\n4. The Indian Space Policy 2023 seeks to restrict all private participation in space activities.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Polity & Governance & Science and Technology",
+    "passage": "The Supreme Court expressed serious concern regarding the use of fabricated AI-generated judicial precedents in legal proceedings and set aside an order of the National Company Law Tribunal that relied on fictitious legal authorities. The incident highlighted the risks of relying on generative AI without independent verification. AI hallucinations refer to instances where an AI system produces information that appears plausible but is factually incorrect or unsupported. Judicial decision-making requires accurate legal research, adherence to precedents and procedural fairness. While artificial intelligence can assist in legal research and document analysis, the responsibility for verifying legal authorities remains with legal professionals and adjudicating institutions.",
+    "date": "2026-07-03",
+    "qno": 16,
+    "source": "Standard Newspapers",
+    "question": "With reference to the Supreme Court and judicial precedents in India, consider the following statements:\n1. Article 141 provides that the law declared by the Supreme Court is binding on all courts within India.\n2. The National Company Law Tribunal is a statutory adjudicatory body.\n3. AI-generated legal information is automatically admissible as a binding judicial precedent.\n4. The use of AI tools does not remove the responsibility of advocates to verify legal citations.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 4 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "International Relations & Indian Economy",
+    "passage": "Sri Lanka's elevation to the upper-middle-income category in the World Bank's income classification highlighted the importance of economic recovery and structural reforms. The World Bank classifies economies according to gross national income per capita using the Atlas method. The classification is revised periodically to account for changes in income levels and global economic conditions. Income classification does not necessarily capture the complete development status of a country, since indicators such as inequality, poverty, health, education and environmental sustainability also matter. Sri Lanka's economic experience has highlighted the importance of fiscal management, foreign exchange reserves, debt sustainability and structural economic reforms.",
+    "date": "2026-07-03",
+    "qno": 17,
+    "source": "Standard Newspapers",
+    "question": "With reference to the World Bank's income classification, consider the following statements:\n1. The classification is based on gross national income per capita.\n2. The Atlas method is used for converting national income into a comparable measure.\n3. Income classification alone provides a complete measure of human development.\n4. The World Bank periodically revises income thresholds for country classification.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 4 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Polity & Governance",
+    "passage": "A demographic panel initiated consultations with State Governments to understand changes in population patterns following the 2011 Census. Reliable demographic information is essential for public policy, welfare distribution, constituency delimitation, urban planning and economic development. The Census is conducted under the Census Act, 1948, and provides detailed population information at regular intervals. The Civil Registration System records vital events such as births and deaths on a continuous basis. Demographic trends include fertility, mortality, migration, age structure and population distribution. Population data also influences discussions relating to federal representation and the allocation of public resources among States.",
+    "date": "2026-07-03",
+    "qno": 18,
+    "source": "Standard Newspapers",
+    "question": "With reference to demographic data and the Indian Census, consider the following statements:\n1. The Census of India is conducted under the Census Act, 1948.\n2. The Registrar General and Census Commissioner of India functions under the Ministry of Home Affairs.\n3. The Civil Registration System continuously records births and deaths.\n4. Population data has no relevance to public resource allocation or development planning.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Polity & Governance",
+    "passage": "The Public Accounts Committee examined issues concerning accountability and administrative conduct within the education sector. Parliamentary committees play an important role in ensuring executive accountability and examining government expenditure and policy implementation. The Public Accounts Committee is one of the important financial committees of Parliament. It examines the appropriation accounts and finance accounts of the Union Government, along with reports of the Comptroller and Auditor General of India. Its recommendations help strengthen financial discipline, transparency and accountability in public administration. The committee is generally chaired by a member of the Opposition in the Lok Sabha by convention.",
+    "date": "2026-07-03",
+    "qno": 19,
+    "source": "Standard Newspapers",
+    "question": "With reference to the Public Accounts Committee, consider the following statements:\n1. It examines the reports of the Comptroller and Auditor General of India.\n2. It is a parliamentary financial committee.\n3. A minister cannot be elected as a member of the Public Accounts Committee.\n4. It has the power to directly impose criminal punishment on government officials found guilty of financial irregularities.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Science & Technology & International Relations",
+    "passage": "A submarine cable system connecting India, Malaysia and Singapore was unveiled to strengthen regional digital connectivity. Submarine communication cables carry the overwhelming majority of international data traffic and form a critical part of the global digital infrastructure. They support financial transactions, cloud computing, international communication and data centre connectivity. Increasing demand from artificial intelligence applications and digital services has created a need for greater undersea bandwidth and network resilience. Submarine cables are vulnerable to accidental damage, natural disasters and deliberate interference. Protecting these systems requires maritime surveillance, international cooperation, redundancy and effective repair arrangements.",
+    "date": "2026-07-03",
+    "qno": 20,
+    "source": "Standard Newspapers",
+    "question": "With reference to submarine communication cables, consider the following statements:\n1. They carry a substantial majority of international data traffic.\n2. They are important for global internet connectivity and financial transactions.\n3. They are entirely immune to damage caused by natural disasters and human activities.\n4. Protection of submarine cables is relevant to national security and digital infrastructure resilience.\n\nHow many of the statements given above are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 2
+  },
+  {
+    "year": 2026,
+    "subject": "Polity & Governance",
+    "passage": "The Union government is considering a customised self-governance framework for Ladakh. The debate has brought attention to constitutional safeguards for tribal communities, local representation and the balance between regional autonomy and national administration.",
+    "date": "2026-07-04",
+    "qno": 1,
+    "question": "Which of the following constitutional provisions specifically provides for the administration of tribal areas in certain northeastern states?",
+    "options": [
+      "Fifth Schedule",
+      "Sixth Schedule",
+      "Article 280",
+      "Article 356"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "International Relations",
+    "passage": "India's approach towards investment proposals involving firms linked to neighbouring countries reflects the need to balance economic openness with national security. Restrictions introduced in 2020 subjected investments from countries sharing a land border with India to government approval.",
+    "date": "2026-07-04",
+    "qno": 2,
+    "question": "The government approval requirement for investments from countries sharing a land border with India was introduced through which policy instrument?",
+    "options": [
+      "Press Note 3 of 2020",
+      "Press Note 1 of 2018",
+      "Foreign Trade Policy 2015",
+      "Companies Act, 2013"
+    ],
+    "answer": 0,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Environment and Ecology",
+    "passage": "Radio telemetry has emerged as an important tool in wildlife conservation. By attaching tracking devices to animals, researchers can monitor their movements, identify threats and improve emergency responses for endangered species such as vultures.",
+    "date": "2026-07-04",
+    "qno": 3,
+    "question": "Which of the following best describes radio telemetry in wildlife conservation?",
+    "options": [
+      "A method of artificially increasing wildlife populations",
+      "A technique for tracking animals using transmitted radio signals",
+      "A method of preventing all forms of animal migration",
+      "A process of genetic modification of endangered species"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "International Relations",
+    "passage": "The Indus Waters Treaty of 1960 is an important water-sharing arrangement between India and Pakistan. It classifies the Indus river system into eastern and western rivers and establishes mechanisms for cooperation and dispute resolution.",
+    "date": "2026-07-04",
+    "qno": 4,
+    "question": "Under the Indus Waters Treaty, which of the following rivers are classified as the eastern rivers?",
+    "options": [
+      "Indus, Jhelum and Chenab",
+      "Ravi, Beas and Sutlej",
+      "Chenab, Ravi and Jhelum",
+      "Indus, Ravi and Beas"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Polity and Governance",
+    "passage": "The Places of Worship (Special Provisions) Act, 1991 seeks to preserve the religious character of places of worship as it existed on 15 August 1947, subject to specified exceptions. Recent legal discussions have also examined the distinction between changing the religious character of a site and acquiring land for a legitimate public purpose.",
+    "date": "2026-07-04",
+    "qno": 5,
+    "question": "The principal objective of the Places of Worship Act, 1991 is to:",
+    "options": [
+      "Transfer the management of all religious institutions to the Union government",
+      "Preserve the religious character of places of worship as it existed on 15 August 1947",
+      "Prohibit the construction of all new places of worship",
+      "Provide constitutional status to religious trusts"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Science and Technology",
+    "passage": "Battery-management systems are increasingly used in electric vehicles to monitor battery performance, temperature, charging and safety. However, remotely connected systems can also create cybersecurity risks if unauthorised entities gain control over critical vehicle functions.",
+    "date": "2026-07-04",
+    "qno": 6,
+    "question": "Which of the following is a primary function of a Battery Management System (BMS)?",
+    "options": [
+      "Monitoring battery health and regulating charging conditions",
+      "Replacing the vehicle's electric motor",
+      "Generating electricity from atmospheric moisture",
+      "Controlling road traffic signals"
+    ],
+    "answer": 0,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Economy",
+    "passage": "The services sector is a major contributor to India's gross domestic product and employment. Purchasing Managers' Indices are widely used to assess business activity and provide an indication of changing economic conditions in sectors such as services and manufacturing.",
+    "date": "2026-07-04",
+    "qno": 7,
+    "question": "A Services Purchasing Managers' Index (PMI) reading above 50 generally indicates:",
+    "options": [
+      "Contraction in services-sector activity",
+      "Expansion in services-sector activity compared with the previous month",
+      "A decline in the overall price level",
+      "An increase in the fiscal deficit"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Environment and Ecology",
+    "passage": "The Nameri Tiger Reserve in Assam is an important protected area in the Eastern Himalayan landscape. Tiger conservation requires habitat protection, prey-base management, ecological connectivity and cooperation with local communities.",
+    "date": "2026-07-04",
+    "qno": 8,
+    "question": "Which of the following statements about tiger conservation in India is correct?",
+    "options": [
+      "The National Tiger Conservation Authority is a statutory body under the Wildlife (Protection) Act, 1972",
+      "The National Tiger Conservation Authority is a constitutional body",
+      "Tiger reserves can be notified only by the Supreme Court",
+      "Project Tiger is administered by the Ministry of External Affairs"
+    ],
+    "answer": 0,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Geography",
+    "passage": "The Teesta river is important for the water and energy requirements of the eastern Himalayan region. Its management involves concerns relating to river flows, hydropower, irrigation, ecological sustainability and cooperation between riparian regions.",
+    "date": "2026-07-04",
+    "qno": 9,
+    "question": "The Teesta river is a tributary of which major river?",
+    "options": [
+      "Ganga",
+      "Brahmaputra",
+      "Mahanadi",
+      "Godavari"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Environment and Ecology",
+    "passage": "Water security has become a major policy concern due to groundwater depletion, irregular rainfall, urbanisation and competing demands from agriculture, industry and households. Integrated water-resource management seeks to improve conservation, allocation and efficient use of water.",
+    "date": "2026-07-04",
+    "qno": 10,
+    "question": "Which of the following is an example of a demand-side water management measure?",
+    "options": [
+      "Promoting micro-irrigation to reduce water consumption",
+      "Constructing additional reservoirs without improving efficiency",
+      "Increasing extraction of groundwater without regulation",
+      "Diverting all river water to urban areas"
+    ],
+    "answer": 0,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "International Relations",
+    "passage": "India-Japan relations have expanded across infrastructure, maritime security, technology, investment and the Indo-Pacific. Both countries participate in regional arrangements that seek to promote a free, open and rules-based Indo-Pacific.",
+    "date": "2026-07-04",
+    "qno": 11,
+    "question": "Which of the following countries, along with India and Japan, is a member of the Quadrilateral Security Dialogue (Quad)?",
+    "options": [
+      "Russia and France",
+      "Australia and the United States",
+      "Germany and Indonesia",
+      "South Korea and Vietnam"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Defence and Security",
+    "passage": "India has continued to focus on modernising its armed forces through the acquisition of advanced platforms, surveillance systems and military technologies. Defence procurement is also linked to domestic manufacturing, indigenisation and strategic autonomy.",
+    "date": "2026-07-04",
+    "qno": 12,
+    "question": "The Defence Acquisition Council (DAC) is chaired by:",
+    "options": [
+      "The Prime Minister",
+      "The Defence Minister",
+      "The Chief of Defence Staff",
+      "The National Security Adviser"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Polity and Governance",
+    "passage": "Digital platforms have become important intermediaries in the dissemination of information and online advertising. Concerns relating to child safety, harmful content and intermediary accountability have increased the importance of effective regulation and grievance-redress mechanisms.",
+    "date": "2026-07-04",
+    "qno": 13,
+    "question": "Under the Information Technology Act, 2000, Section 79 primarily deals with:",
+    "options": [
+      "Intermediary liability and conditional safe-harbour protection",
+      "The establishment of the Election Commission",
+      "Regulation of monetary policy",
+      "Appointment of High Court judges"
+    ],
+    "answer": 0,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Economy",
+    "passage": "The insurance regulator has been examining measures to improve transparency in the distribution of insurance products. Disclosure of commissions and better consumer information can help address mis-selling and improve trust in financial services.",
+    "date": "2026-07-04",
+    "qno": 14,
+    "question": "Which of the following is the principal statutory regulator of the insurance sector in India?",
+    "options": [
+      "SEBI",
+      "IRDAI",
+      "RBI",
+      "PFRDA"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Economy",
+    "passage": "India's middle class is an important driver of consumption-led growth. Rising household incomes and purchasing power can stimulate demand for goods and services, while also influencing savings, investment and the expansion of domestic markets.",
+    "date": "2026-07-04",
+    "qno": 15,
+    "question": "Which of the following components is included in the expenditure method of calculating GDP?",
+    "options": [
+      "Private final consumption expenditure",
+      "Only the value of exports",
+      "Only government tax revenue",
+      "The total value of financial transactions in stock markets"
+    ],
+    "answer": 0,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Agriculture and Economy",
+    "passage": "Climate variability and the possibility of El Niño conditions can affect monsoon rainfall and agricultural production in India. Farmers may respond by adopting short-duration crop varieties, efficient irrigation and climate-resilient agricultural practices.",
+    "date": "2026-07-04",
+    "qno": 16,
+    "question": "El Niño is generally associated with which of the following phenomena?",
+    "options": [
+      "Unusual warming of the central and eastern equatorial Pacific Ocean",
+      "Cooling of the entire Indian Ocean throughout the year",
+      "Permanent reversal of the Earth's rotation",
+      "Formation of tropical cyclones exclusively in the Arabian Sea"
+    ],
+    "answer": 0,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Environment and Ecology",
+    "passage": "The National Water Awards recognise efforts in water conservation and management. Such initiatives encourage rainwater harvesting, restoration of water bodies, efficient irrigation and community participation in improving water security.",
+    "date": "2026-07-04",
+    "qno": 17,
+    "question": "The National Water Awards are associated with which Union Ministry?",
+    "options": [
+      "Ministry of Agriculture and Farmers Welfare",
+      "Ministry of Jal Shakti",
+      "Ministry of Environment, Forest and Climate Change",
+      "Ministry of Rural Development"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Science and Technology",
+    "passage": "Artificial intelligence tools are increasingly being used in legal research and document preparation. However, AI-generated information can contain fabricated references or inaccurate legal propositions, making independent verification essential in judicial and professional work.",
+    "date": "2026-07-04",
+    "qno": 18,
+    "question": "The term 'AI hallucination' generally refers to:",
+    "options": [
+      "An AI system generating plausible but false or unsupported information",
+      "An AI system becoming permanently self-aware",
+      "A computer losing its internet connection",
+      "A software programme automatically encrypting all files"
+    ],
+    "answer": 0,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "International Relations",
+    "passage": "India's engagement with West Asian countries is shaped by energy security, trade, diaspora welfare, maritime connectivity and regional stability. Developments in the region can influence oil prices, shipping routes and India's broader economic interests.",
+    "date": "2026-07-04",
+    "qno": 19,
+    "question": "The Strait of Hormuz is strategically important because it connects the Persian Gulf with the:",
+    "options": [
+      "Red Sea",
+      "Gulf of Oman",
+      "Mediterranean Sea",
+      "Black Sea"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Culture and Heritage",
+    "passage": "The annual Amarnath pilgrimage is an important religious event in Jammu and Kashmir. The pilgrimage takes place in the Himalayan region and involves challenging terrain and high-altitude conditions, requiring arrangements for safety, health and environmental management.",
+    "date": "2026-07-04",
+    "qno": 20,
+    "question": "The Amarnath cave shrine is located in which Union Territory?",
+    "options": [
+      "Ladakh",
+      "Jammu and Kashmir",
+      "Himachal Pradesh",
+      "Uttarakhand"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Science and Technology",
+    "passage": "India's semiconductor ambitions involve developing domestic capabilities in chip fabrication, assembly, testing and packaging. Semiconductor manufacturing is strategically important because chips are essential inputs for automobiles, telecommunications, defence systems, consumer electronics and artificial intelligence.",
+    "date": "2026-07-05",
+    "qno": 1,
+    "question": "Which of the following best describes semiconductor fabrication?",
+    "options": [
+      "The process of manufacturing integrated circuits on semiconductor wafers",
+      "The process of converting crude oil into petroleum products",
+      "The process of transmitting electricity through optical fibres",
+      "The process of assembling finished automobiles"
+    ],
+    "answer": 0,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "International Relations",
+    "passage": "India's approach towards Chinese investment reflects the challenge of balancing economic engagement with national security. Investment screening mechanisms are used by several countries to examine whether foreign investments could affect critical infrastructure, sensitive technologies or strategic assets.",
+    "date": "2026-07-05",
+    "qno": 2,
+    "question": "Which of the following is the principal objective of investment screening?",
+    "options": [
+      "To prohibit all foreign direct investment",
+      "To assess potential national security risks associated with foreign investments",
+      "To replace domestic taxation with customs duties",
+      "To ensure that foreign companies own all critical infrastructure"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Health",
+    "passage": "The National List of Essential Medicines (NLEM) helps guide public procurement, availability and pricing of medicines in India. Essential medicines are selected based on public-health relevance, evidence of safety and efficacy, and comparative cost-effectiveness.",
+    "date": "2026-07-05",
+    "qno": 3,
+    "question": "Which of the following statements about the National List of Essential Medicines is correct?",
+    "options": [
+      "It is prepared exclusively for medicines used in veterinary treatment",
+      "It helps promote access to medicines considered essential for public-health needs",
+      "It automatically prohibits the import of all medicines not included in the list",
+      "It is maintained by the Reserve Bank of India"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Polity and Internal Security",
+    "passage": "The Unlawful Activities (Prevention) Act, 1967 provides a legal framework to deal with unlawful activities and terrorism. It contains provisions relating to the designation of individuals as terrorists and the investigation and prosecution of specified offences.",
+    "date": "2026-07-05",
+    "qno": 4,
+    "question": "Which of the following amendments introduced provisions for designating individuals as terrorists under the UAPA?",
+    "options": [
+      "2004 Amendment",
+      "2008 Amendment",
+      "2012 Amendment",
+      "2019 Amendment"
+    ],
+    "answer": 3,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Polity and Governance",
+    "passage": "Digital messaging platforms have become important intermediaries in the online information ecosystem. Their responsibilities include complying with applicable laws, addressing unlawful content through prescribed procedures and maintaining grievance-redress mechanisms.",
+    "date": "2026-07-05",
+    "qno": 5,
+    "question": "The Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules were originally notified in:",
+    "options": [
+      "2015",
+      "2018",
+      "2021",
+      "2024"
+    ],
+    "answer": 2,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Polity and Governance",
+    "passage": "The Representation of the People Act, 1951 provides for the conduct of elections and related matters. When a seat in Parliament or a State Legislature becomes vacant, a by-election may be required, subject to constitutional and statutory conditions.",
+    "date": "2026-07-05",
+    "qno": 6,
+    "question": "Under Section 151A of the Representation of the People Act, 1951, a by-election to fill a casual vacancy is generally required to be held within:",
+    "options": [
+      "Three months from the date of vacancy",
+      "Six months from the date of vacancy",
+      "Nine months from the date of vacancy",
+      "One year from the date of vacancy"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Environment and Ecology",
+    "passage": "The Great Nicobar Island development project has generated debate over infrastructure expansion, biodiversity conservation and the rights of indigenous communities. The island is part of a biologically rich region with tropical forests, coastal ecosystems and sensitive marine habitats.",
+    "date": "2026-07-05",
+    "qno": 7,
+    "question": "Which of the following indigenous communities is associated with Great Nicobar Island?",
+    "options": [
+      "Toda",
+      "Shompen",
+      "Bhotia",
+      "Gaddi"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Polity and Governance",
+    "passage": "The proposal for simultaneous elections to the Lok Sabha and State Legislative Assemblies has raised questions about federalism, electoral expenditure, legislative continuity and constitutional amendments. India's parliamentary system currently permits elections to take place at different times as legislative terms vary.",
+    "date": "2026-07-05",
+    "qno": 8,
+    "question": "Which of the following constitutional provisions deals with the duration of the Lok Sabha?",
+    "options": [
+      "Article 75",
+      "Article 83",
+      "Article 110",
+      "Article 123"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Economy and Environment",
+    "passage": "Green shipbuilding involves the development of vessels that reduce greenhouse gas emissions and environmental impacts. Alternative fuels, energy-efficient propulsion systems, improved hull designs and shore-side electricity can contribute to cleaner maritime transport.",
+    "date": "2026-07-05",
+    "qno": 9,
+    "question": "Which of the following fuels is considered a potential low-carbon alternative for shipping, depending on its production pathway?",
+    "options": [
+      "Green methanol",
+      "High-sulphur fuel oil",
+      "Petroleum coke",
+      "Coal tar"
+    ],
+    "answer": 0,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "International Trade and Economy",
+    "passage": "Rules of origin determine the economic nationality of goods in international trade. They are important in free trade agreements because preferential tariff treatment is generally available only to goods satisfying specified origin criteria.",
+    "date": "2026-07-05",
+    "qno": 10,
+    "question": "What is the principal purpose of rules of origin in a free trade agreement?",
+    "options": [
+      "To determine the nationality of ships carrying goods",
+      "To establish whether goods qualify for preferential tariff treatment",
+      "To fix the exchange rate between two currencies",
+      "To prohibit trade in all intermediate goods"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Science and Technology",
+    "passage": "The European Organization for Nuclear Research, commonly known as CERN, operates the Large Hadron Collider. Particle accelerators help scientists investigate fundamental particles and the forces governing matter and the universe.",
+    "date": "2026-07-05",
+    "qno": 11,
+    "question": "The Large Hadron Collider is located primarily in which region?",
+    "options": [
+      "Near Geneva, on the France-Switzerland border",
+      "Near Tokyo, Japan",
+      "Near Cape Town, South Africa",
+      "Near Canberra, Australia"
+    ],
+    "answer": 0,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Economy",
+    "passage": "The production of green ammonia and green methanol is gaining importance in the global transition towards cleaner energy and industrial processes. These products can be manufactured using renewable electricity and green hydrogen, subject to the production technology employed.",
+    "date": "2026-07-05",
+    "qno": 12,
+    "question": "Green hydrogen is generally produced through:",
+    "options": [
+      "Coal gasification without carbon capture",
+      "Electrolysis of water using renewable electricity",
+      "Refining crude oil",
+      "Combustion of natural gas in conventional thermal plants"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Science and Technology",
+    "passage": "Gene and cell therapies are advanced medical interventions that may involve modifying genetic material or using living cells to treat diseases. Their development requires careful evaluation of safety, efficacy, manufacturing quality and long-term outcomes.",
+    "date": "2026-07-05",
+    "qno": 13,
+    "question": "Which of the following best distinguishes gene therapy from conventional drug therapy?",
+    "options": [
+      "Gene therapy seeks to modify or introduce genetic material to achieve a therapeutic effect",
+      "Gene therapy exclusively uses antibiotics",
+      "Gene therapy is limited to treating bacterial infections",
+      "Gene therapy does not require clinical evaluation"
+    ],
+    "answer": 0,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Environment and Ecology",
+    "passage": "The proposed Mamallan freshwater reservoir near Chennai has prompted discussion about the ecological importance of the Kovalam-Nemmeli Coastal Wetland Complex. Coastal wetlands provide habitat for birds, support fisheries, store carbon and help reduce the impacts of floods and storms.",
+    "date": "2026-07-05",
+    "qno": 14,
+    "question": "Which of the following is an important ecological function of coastal wetlands?",
+    "options": [
+      "Increasing seawater salinity in all coastal regions",
+      "Providing habitat for biodiversity and acting as natural buffers against coastal hazards",
+      "Preventing all forms of sediment deposition",
+      "Eliminating the need for groundwater recharge"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Agriculture and Economy",
+    "passage": "Farmer Producer Organisations (FPOs) enable farmers to aggregate produce, access markets, obtain inputs and improve bargaining power. Collective institutions can also support food processing, value addition and better integration with agricultural supply chains.",
+    "date": "2026-07-05",
+    "qno": 15,
+    "question": "Which of the following is a major potential benefit of Farmer Producer Organisations?",
+    "options": [
+      "Eliminating the need for agricultural markets",
+      "Improving farmers' collective bargaining power and market access",
+      "Replacing all State agricultural departments",
+      "Making agricultural credit unavailable to small farmers"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Science and Technology",
+    "passage": "The James Webb Space Telescope observes the universe primarily in infrared wavelengths. Its observations help scientists study early galaxies, star formation, exoplanet atmospheres and objects obscured by cosmic dust.",
+    "date": "2026-07-05",
+    "qno": 16,
+    "question": "Why is infrared observation particularly useful for studying the early universe?",
+    "options": [
+      "Cosmic expansion shifts light from distant objects towards longer wavelengths",
+      "Infrared radiation travels faster than visible light",
+      "Infrared telescopes can observe only objects within the Solar System",
+      "Infrared radiation is not affected by matter"
+    ],
+    "answer": 0,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "International Relations",
+    "passage": "The Strait of Hormuz is a major maritime chokepoint for international energy trade. Disruptions in this narrow waterway can affect crude oil and liquefied natural gas supplies, shipping costs and global energy prices.",
+    "date": "2026-07-05",
+    "qno": 17,
+    "question": "Which two bodies of water are connected by the Strait of Hormuz?",
+    "options": [
+      "Red Sea and Gulf of Aden",
+      "Persian Gulf and Gulf of Oman",
+      "Arabian Sea and Bay of Bengal",
+      "Mediterranean Sea and Black Sea"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Science and Technology",
+    "passage": "ISRO's Gaganyaan programme aims to demonstrate India's capability for human spaceflight. The mission requires a human-rated launch vehicle, crew escape systems, life-support systems and recovery arrangements to ensure astronaut safety.",
+    "date": "2026-07-05",
+    "qno": 18,
+    "question": "Which launch vehicle has been selected for India's Gaganyaan human spaceflight mission?",
+    "options": [
+      "PSLV",
+      "LVM3",
+      "SSLV",
+      "ASLV"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Polity and Social Justice",
+    "passage": "Social media platforms face increasing scrutiny over advertisements and content that may expose children to exploitation or harmful material. Effective regulation requires cooperation between government agencies, digital intermediaries and independent oversight mechanisms.",
+    "date": "2026-07-05",
+    "qno": 19,
+    "question": "Which of the following constitutional provisions is most directly associated with the State's responsibility to protect children from exploitation?",
+    "options": [
+      "Article 23",
+      "Article 24",
+      "Article 32",
+      "Article 51A"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "International Relations",
+    "passage": "India's relations with West Asian countries involve energy imports, maritime security, trade, investment and the welfare of Indian citizens working in the region. India's diplomatic engagement during regional crises is influenced by the need to safeguard its national interests and maintain constructive relations with multiple partners.",
+    "date": "2026-07-05",
+    "qno": 20,
+    "question": "Which of the following best describes India's approach of maintaining relations with competing regional powers while protecting its strategic interests?",
+    "options": [
+      "Permanent military alignment with one regional bloc",
+      "Strategic autonomy and issue-based diplomatic engagement",
+      "Complete withdrawal from regional diplomacy",
+      "Exclusive dependence on one country for energy imports"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Polity and Governance",
+    "passage": "The debate over the legal status of citizenship has highlighted the distinction between proof of identity, travel documentation and proof of citizenship. An Indian passport is an important travel document issued under the Passports Act, 1967, but citizenship itself is governed by constitutional and statutory provisions.",
+    "date": "2026-07-06",
+    "qno": 1,
+    "question": "Which of the following Articles of the Constitution deals with citizenship at the commencement of the Constitution?",
+    "options": [
+      "Articles 5 to 11",
+      "Articles 12 to 18",
+      "Articles 19 to 22",
+      "Articles 25 to 30"
+    ],
+    "answer": 0,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "International Relations",
+    "passage": "India and Japan have expanded cooperation in maritime security, infrastructure, technology and energy. Their engagement in the Indo-Pacific is often associated with the objective of maintaining a free, open and rules-based regional order.",
+    "date": "2026-07-06",
+    "qno": 2,
+    "question": "Which of the following is a common strategic objective of India and Japan in the Indo-Pacific?",
+    "options": [
+      "Establishment of exclusive colonial control over sea routes",
+      "Promotion of freedom of navigation and a rules-based maritime order",
+      "Abolition of all regional multilateral institutions",
+      "Restriction of international maritime trade"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "International Relations",
+    "passage": "The Strait of Hormuz is a critical maritime chokepoint for global energy supplies. Any disruption in shipping through this route can affect crude oil and liquefied natural gas supplies, insurance costs and the energy security of import-dependent countries such as India.",
+    "date": "2026-07-06",
+    "qno": 3,
+    "question": "The Strait of Hormuz connects the Persian Gulf with which of the following?",
+    "options": [
+      "Red Sea",
+      "Gulf of Oman",
+      "Mediterranean Sea",
+      "Black Sea"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Environment and Ecology",
+    "passage": "The Asiatic lion is one of India's important flagship species. Its population is concentrated largely in and around the Gir landscape of Gujarat. Conservation discussions increasingly emphasise the need for additional habitats to reduce the risks associated with concentrating a species in a single geographical region.",
+    "date": "2026-07-06",
+    "qno": 4,
+    "question": "Which of the following statements about the Asiatic lion is correct?",
+    "options": [
+      "It is naturally distributed across all Indian states",
+      "Its principal wild population is found in Gujarat",
+      "It is endemic to the Western Ghats",
+      "It is found only in the Himalayan region"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Polity and Governance",
+    "passage": "The Tenth Schedule of the Constitution was introduced to address political defections by legislators. However, disputes concerning mergers, splits, resignations and the role of the presiding officer have raised questions about the effectiveness and interpretation of anti-defection provisions.",
+    "date": "2026-07-06",
+    "qno": 5,
+    "question": "The Tenth Schedule was added to the Constitution by which Constitutional Amendment Act?",
+    "options": [
+      "42nd Amendment Act",
+      "44th Amendment Act",
+      "52nd Amendment Act",
+      "61st Amendment Act"
+    ],
+    "answer": 2,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Economy",
+    "passage": "A State may report a revenue surplus even when it is unable to utilise a substantial part of its budgeted expenditure. Revenue surplus occurs when revenue receipts exceed revenue expenditure, but it does not by itself indicate the quality of public spending or the overall fiscal health of the State.",
+    "date": "2026-07-06",
+    "qno": 6,
+    "question": "A revenue surplus occurs when:",
+    "options": [
+      "Revenue expenditure exceeds revenue receipts",
+      "Revenue receipts exceed revenue expenditure",
+      "Capital expenditure is equal to borrowings",
+      "Fiscal deficit becomes equal to zero"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Polity and Governance",
+    "passage": "The Special Intensive Revision of electoral rolls is intended to improve the accuracy of voter lists. Such exercises involve verification of eligible electors and removal of duplicate or otherwise ineligible entries, while ensuring that eligible citizens are not arbitrarily excluded.",
+    "date": "2026-07-06",
+    "qno": 7,
+    "question": "Which constitutional body is responsible for the superintendence, direction and control of elections in India?",
+    "options": [
+      "Union Public Service Commission",
+      "Election Commission of India",
+      "Finance Commission",
+      "National Human Rights Commission"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Economy and Social Security",
+    "passage": "The Employees' Provident Fund Organisation administers important social-security schemes for organised-sector workers. The Employees' Provident Fund, Employees' Pension Scheme and Employees' Deposit Linked Insurance Scheme address different dimensions of retirement savings, pension and insurance protection.",
+    "date": "2026-07-06",
+    "qno": 8,
+    "question": "Which of the following schemes administered by EPFO provides pension benefits to eligible members?",
+    "options": [
+      "Employees' Pension Scheme",
+      "Atal Pension Yojana",
+      "National Social Assistance Programme",
+      "Pradhan Mantri Jeevan Jyoti Bima Yojana"
+    ],
+    "answer": 0,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Rural Development",
+    "passage": "The Viksit Bharat–Guarantee for Rozgar and Ajeevika Mission (Gramin) has brought attention to rural employment guarantees, public works and decentralised planning. Rural employment programmes are also relevant to livelihood security, creation of durable assets and the resilience of rural households.",
+    "date": "2026-07-06",
+    "qno": 9,
+    "question": "Which of the following was a central feature of the Mahatma Gandhi National Rural Employment Guarantee Act, 2005?",
+    "options": [
+      "Guaranteed 100 days of wage employment in a financial year to eligible rural households",
+      "Guaranteed government employment to every graduate",
+      "Provided universal pension to all rural citizens",
+      "Guaranteed free electricity to all agricultural households"
+    ],
+    "answer": 0,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Polity and Governance",
+    "passage": "Online advertisements and digital platforms can be misused to distribute or promote child sexual abuse material. Intermediary obligations, prompt grievance redressal and effective enforcement of laws are important components of protecting children in the digital environment.",
+    "date": "2026-07-06",
+    "qno": 10,
+    "question": "Which of the following provisions of the Information Technology Act, 2000 specifically addresses publishing or transmitting material depicting children in sexually explicit acts in electronic form?",
+    "options": [
+      "Section 43",
+      "Section 66",
+      "Section 67B",
+      "Section 79"
+    ],
+    "answer": 2,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Economy",
+    "passage": "Liquefied natural gas is transported in specially designed vessels at very low temperatures. The availability of LNG shipments can influence domestic gas supplies, industrial production, fertiliser manufacturing and electricity generation.",
+    "date": "2026-07-06",
+    "qno": 11,
+    "question": "At approximately what temperature is natural gas liquefied for transportation as LNG?",
+    "options": [
+      "0°C",
+      "-50°C",
+      "-162°C",
+      "-273°C"
+    ],
+    "answer": 2,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Science and Technology",
+    "passage": "ISRO's Gaganyaan programme requires extensive testing of crew safety systems. These include launch escape arrangements, parachutes and recovery systems designed to protect astronauts during different phases of a human spaceflight mission.",
+    "date": "2026-07-06",
+    "qno": 12,
+    "question": "What is the principal purpose of a crew escape system in a human spaceflight mission?",
+    "options": [
+      "To increase the satellite's communication bandwidth",
+      "To separate the crew module from the launch vehicle during an emergency",
+      "To generate electricity for ground stations",
+      "To increase the payload capacity of a launch vehicle"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "International Relations",
+    "passage": "BRICS cooperation has expanded into areas such as economic development, financial cooperation and security-related dialogue. Cooperation against narcotics trafficking requires information sharing, law-enforcement coordination and attention to the transnational nature of illicit drug networks.",
+    "date": "2026-07-06",
+    "qno": 13,
+    "question": "Which of the following countries was a founding member of BRICS?",
+    "options": [
+      "Argentina",
+      "South Africa",
+      "Indonesia",
+      "Egypt"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Agriculture and Environment",
+    "passage": "Direct-seeded rice is being considered as an alternative to conventional puddled transplanted rice. It can reduce water and labour requirements under suitable conditions, although weed management, soil conditions and rainfall remain important determinants of success.",
+    "date": "2026-07-06",
+    "qno": 14,
+    "question": "Which of the following is a potential advantage of direct-seeded rice cultivation?",
+    "options": [
+      "It always eliminates the need for irrigation",
+      "It can reduce water and labour requirements compared with conventional transplanting",
+      "It prevents all weed growth",
+      "It can be cultivated only in desert regions"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Agriculture and Economy",
+    "passage": "Ethanol blending in petrol is an important component of India's efforts to reduce dependence on imported fossil fuels and lower emissions from road transport. However, the choice of feedstock can have implications for food security, water use and agricultural markets.",
+    "date": "2026-07-06",
+    "qno": 15,
+    "question": "Which of the following is a potential concern associated with large-scale diversion of food grains for ethanol production?",
+    "options": [
+      "Competition with food and feed uses",
+      "Elimination of all agricultural employment",
+      "Permanent reduction in atmospheric oxygen",
+      "Prevention of all crop diversification"
+    ],
+    "answer": 0,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Environment and Ecology",
+    "passage": "Marine fisheries face pressures from overfishing, habitat degradation, destructive fishing practices and climate change. Sustainable fisheries management requires scientific stock assessment, regulation of fishing effort and protection of important breeding and nursery habitats.",
+    "date": "2026-07-06",
+    "qno": 16,
+    "question": "What is meant by overfishing?",
+    "options": [
+      "Harvesting fish at a rate that exceeds the capacity of stocks to replenish",
+      "Fishing exclusively in deep-sea waters",
+      "Using traditional fishing equipment",
+      "Cultivating fish in controlled freshwater ponds"
+    ],
+    "answer": 0,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Environment and Climate Change",
+    "passage": "Rising temperatures can adversely affect livestock productivity. Heat stress in dairy animals can reduce feed intake, alter metabolic processes and lower milk production. Climate-resilient livestock management therefore requires shade, ventilation, adequate water and improved animal-health services.",
+    "date": "2026-07-06",
+    "qno": 17,
+    "question": "Which of the following is a likely physiological response of dairy animals to heat stress?",
+    "options": [
+      "Increased feed intake in all circumstances",
+      "Reduced feed intake and lower milk production",
+      "Complete immunity to infectious diseases",
+      "Permanent increase in reproductive efficiency"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Security and Science and Technology",
+    "passage": "Artificial intelligence is increasingly being integrated into military applications such as surveillance, intelligence analysis, logistics and autonomous systems. While these technologies can improve speed and precision, they also raise questions about accountability, human control and the laws of armed conflict.",
+    "date": "2026-07-06",
+    "qno": 18,
+    "question": "Which principle is particularly important in discussions concerning the use of autonomous weapons?",
+    "options": [
+      "Eliminating all human responsibility from military decisions",
+      "Ensuring meaningful human oversight and accountability",
+      "Allowing algorithms to override international humanitarian law",
+      "Prohibiting all forms of military communication"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Economy and Urbanisation",
+    "passage": "Informal employment remains a major feature of India's urban economy. Workers in informal establishments may face irregular earnings, limited social-security coverage and inadequate access to formal credit, even though their activities contribute significantly to urban services and livelihoods.",
+    "date": "2026-07-06",
+    "qno": 19,
+    "question": "Which of the following best characterises informal employment?",
+    "options": [
+      "Employment that always provides a written contract and full social-security benefits",
+      "Employment that may lack formal contracts, social-security coverage or regulated working conditions",
+      "Employment restricted exclusively to government departments",
+      "Employment available only to workers with postgraduate qualifications"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Polity and Governance",
+    "passage": "The Right to Information Act, 2005 seeks to promote transparency and accountability in the functioning of public authorities. Questions concerning the applicability of the Act to institutions and bodies receiving public funds have frequently arisen in public debate.",
+    "date": "2026-07-06",
+    "qno": 20,
+    "question": "Under the Right to Information Act, 2005, which of the following is included in the definition of a public authority?",
+    "options": [
+      "Only ministries of the Union government",
+      "Bodies established or constituted by the Constitution, a law made by Parliament or a State Legislature, or government notification or order",
+      "Every private company irrespective of public funding or control",
+      "Only institutions involved in national security"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "International Relations",
+    "passage": "India has continued to seek a greater role in global decision-making institutions, including the United Nations Security Council. India argues that the structure of the Security Council should reflect contemporary geopolitical realities and provide greater representation to developing countries.",
+    "date": "2026-07-07",
+    "qno": 1,
+    "question": "Which of the following statements about India's membership of the United Nations Security Council is correct?",
+    "options": [
+      "India has been a permanent member since 1945",
+      "India has never served as a non-permanent member",
+      "India has served as a non-permanent member on multiple occasions",
+      "India has veto power in the Security Council"
+    ],
+    "answer": 2,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Polity and Governance",
+    "passage": "Preparations for the next Census have renewed discussions about caste enumeration. Census data is an important source for policy formulation, demographic analysis and the distribution of public resources. The collection of caste-related information also raises questions about methodology, classification and data privacy.",
+    "date": "2026-07-07",
+    "qno": 2,
+    "question": "Which of the following statements about the Census of India is correct?",
+    "options": [
+      "The Census is conducted by the Election Commission of India",
+      "The Census is conducted under the authority of the Census Act, 1948",
+      "The Census is conducted exclusively by State governments",
+      "The Census is a constitutional body under Article 324"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Environment and Ecology",
+    "passage": "The proposed Mamallan Reservoir project in Tamil Nadu has raised concerns about the Coastal Regulation Zone framework. Coastal ecosystems are vulnerable to infrastructure development, pollution and changes in land use. Environmental clearances seek to balance development requirements with ecological protection.",
+    "date": "2026-07-07",
+    "qno": 3,
+    "question": "The Coastal Regulation Zone (CRZ) notifications in India are primarily issued under which legislation?",
+    "options": [
+      "Water (Prevention and Control of Pollution) Act, 1974",
+      "Environment (Protection) Act, 1986",
+      "Wildlife (Protection) Act, 1972",
+      "Biological Diversity Act, 2002"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Health and Agriculture",
+    "passage": "Aquaculture has become an important component of India's fisheries economy. However, disease outbreaks in farmed fish and shrimp can cause economic losses, reduce productivity and affect livelihoods. Disease surveillance, water-quality management and biosecurity are essential for sustainable aquaculture.",
+    "date": "2026-07-07",
+    "qno": 4,
+    "question": "Which of the following is an important biosecurity measure in aquaculture?",
+    "options": [
+      "Maintaining water quality and controlling the introduction of pathogens",
+      "Increasing stocking density without monitoring",
+      "Using untreated wastewater in all fish ponds",
+      "Avoiding disease surveillance"
+    ],
+    "answer": 0,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "International Relations",
+    "passage": "India and Indonesia have strengthened cooperation in maritime security, defence, trade and regional connectivity. Indonesia occupies a strategically important position in Southeast Asia and is a key member of ASEAN. Both countries have interests in maintaining stability in the Indo-Pacific.",
+    "date": "2026-07-07",
+    "qno": 5,
+    "question": "Which of the following geographical features is particularly important to Indonesia's strategic location?",
+    "options": [
+      "Its location between the Indian and Pacific Oceans",
+      "Its location entirely within the Mediterranean basin",
+      "Its land border with India",
+      "Its location in the Arctic region"
+    ],
+    "answer": 0,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Environment and Geography",
+    "passage": "El Niño is a climate phenomenon involving unusual warming of sea-surface temperatures in the central and eastern equatorial Pacific Ocean. It can influence atmospheric circulation and rainfall patterns across different parts of the world, including the Indian monsoon.",
+    "date": "2026-07-07",
+    "qno": 6,
+    "question": "Which of the following statements about El Niño is correct?",
+    "options": [
+      "It is caused by permanent cooling of the Arctic Ocean",
+      "It involves abnormal warming of the central and eastern equatorial Pacific Ocean",
+      "It occurs only in the Indian Ocean",
+      "It always results in identical rainfall conditions across India"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Economy and Environment",
+    "passage": "El Niño conditions may affect India's agricultural production, hydropower generation and electricity demand. Lower rainfall can reduce water availability, while higher temperatures may increase cooling requirements. Climate-related risks therefore require coordination between agriculture, water and power-sector authorities.",
+    "date": "2026-07-07",
+    "qno": 7,
+    "question": "Which of the following is a possible impact of El Niño on India's power sector?",
+    "options": [
+      "Automatic elimination of electricity demand",
+      "Reduced cooling demand during heatwaves",
+      "Pressure on hydropower generation due to reduced water availability",
+      "Permanent increase in coal reserves"
+    ],
+    "answer": 2,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Environment and Disaster Management",
+    "passage": "Urban flooding has become a major challenge in Indian cities due to intense rainfall, concretisation, encroachment of natural drainage systems and inadequate stormwater infrastructure. Climate-resilient urban planning increasingly emphasises rainwater absorption, restoration of wetlands and protection of natural drainage channels.",
+    "date": "2026-07-07",
+    "qno": 8,
+    "question": "Which of the following measures can help reduce urban flooding?",
+    "options": [
+      "Increasing the area covered by impermeable concrete surfaces",
+      "Restoring urban wetlands and protecting natural drainage channels",
+      "Encroaching upon floodplains",
+      "Filling lakes for infrastructure expansion"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "International Relations",
+    "passage": "India's campaign for a non-permanent seat in the United Nations Security Council reflects its efforts to strengthen multilateral diplomacy. The Security Council has primary responsibility for maintaining international peace and security under the UN Charter.",
+    "date": "2026-07-07",
+    "qno": 9,
+    "question": "How many non-permanent members are elected to the United Nations Security Council?",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Defence and Security",
+    "passage": "INS Mahendragiri is an indigenous stealth frigate developed under Project 17A. The project reflects India's efforts to strengthen domestic defence manufacturing, improve naval capabilities and reduce dependence on foreign suppliers for advanced warship technologies.",
+    "date": "2026-07-07",
+    "qno": 10,
+    "question": "Project 17A is associated with the construction of which type of naval vessel?",
+    "options": [
+      "Aircraft carriers",
+      "Stealth frigates",
+      "Nuclear-powered submarines",
+      "Amphibious assault ships"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Science and Technology",
+    "passage": "India's private space sector is expanding into launch vehicles, satellite manufacturing and space-based services. Vikram-1, developed by Skyroot Aerospace, represents the growing role of private enterprises in India's space ecosystem.",
+    "date": "2026-07-07",
+    "qno": 11,
+    "question": "Which of the following statements about Vikram-1 is correct?",
+    "options": [
+      "It is a privately developed orbital-class launch vehicle",
+      "It is a nuclear-powered deep-sea submarine",
+      "It is India's first human-rated lunar lander",
+      "It is a weather satellite developed by NASA"
+    ],
+    "answer": 0,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Science and Technology",
+    "passage": "Synthetic cells are artificial systems designed to imitate selected functions of biological cells. Research in this field may contribute to drug development, biotechnology, synthetic biology and the understanding of fundamental processes of life.",
+    "date": "2026-07-07",
+    "qno": 12,
+    "question": "Which of the following best describes synthetic biology?",
+    "options": [
+      "The study of geological formations using satellite images",
+      "The design or modification of biological systems using engineering principles",
+      "The study of planetary motion",
+      "The process of converting all biological organisms into fossils"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Environment and Agriculture",
+    "passage": "Climate change can affect livestock productivity through increased temperatures, altered rainfall and changes in fodder availability. Heat stress in dairy animals can reduce feed intake and milk production, making climate adaptation important for India's dairy sector.",
+    "date": "2026-07-07",
+    "qno": 13,
+    "question": "Which of the following is a likely consequence of heat stress in dairy cattle?",
+    "options": [
+      "Reduced feed intake and lower milk yield",
+      "Permanent immunity against infections",
+      "Elimination of water requirements",
+      "Unrestricted increase in reproductive efficiency"
+    ],
+    "answer": 0,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Economy and Energy",
+    "passage": "India's ethanol blending programme seeks to reduce dependence on imported petroleum, support agricultural incomes and lower certain transport-related emissions. However, large-scale ethanol production also raises questions about feedstock availability, water consumption and food security.",
+    "date": "2026-07-07",
+    "qno": 14,
+    "question": "Which of the following is a potential concern associated with large-scale ethanol production from food crops?",
+    "options": [
+      "Competition between food and fuel uses of agricultural produce",
+      "Elimination of all fossil-fuel consumption immediately",
+      "Permanent reduction in agricultural productivity",
+      "Complete prevention of groundwater recharge"
+    ],
+    "answer": 0,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Polity and Governance",
+    "passage": "The debate over voting rights in India involves the distinction between constitutional provisions and fundamental rights. Article 326 provides for elections to the Lok Sabha and State Legislative Assemblies on the basis of adult suffrage, subject to constitutional and statutory qualifications.",
+    "date": "2026-07-07",
+    "qno": 15,
+    "question": "The minimum voting age in India was reduced from 21 years to 18 years by which Constitutional Amendment?",
+    "options": [
+      "42nd Amendment Act",
+      "44th Amendment Act",
+      "61st Amendment Act",
+      "73rd Amendment Act"
+    ],
+    "answer": 2,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Polity and Governance",
+    "passage": "The right to privacy has gained importance in discussions concerning digital media, personal information and freedom of expression. In the Puttaswamy judgment, the Supreme Court recognised privacy as a constitutionally protected right.",
+    "date": "2026-07-07",
+    "qno": 16,
+    "question": "The Supreme Court in the Justice K.S. Puttaswamy case recognised the right to privacy primarily as part of:",
+    "options": [
+      "Article 14 only",
+      "Article 19 only",
+      "Article 21 and the broader fundamental-rights framework",
+      "Article 300A only"
+    ],
+    "answer": 2,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Economy and Infrastructure",
+    "passage": "Electric three-wheelers are an important component of India's urban mobility transition. Their wider adoption depends on affordable vehicles, reliable charging infrastructure, battery safety, financing and integration with public transport systems.",
+    "date": "2026-07-07",
+    "qno": 17,
+    "question": "Which of the following is a major infrastructure requirement for large-scale adoption of electric three-wheelers?",
+    "options": [
+      "Expansion of accessible and reliable charging facilities",
+      "Complete removal of electricity distribution networks",
+      "Prohibition of battery recycling",
+      "Replacement of all roads with railway tracks"
+    ],
+    "answer": 0,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "Environment and Ecology",
+    "passage": "The Great Nicobar Island development project has raised concerns about coastal ecosystems and biodiversity. Indira Point, located on Great Nicobar Island, is an important geographical feature of India's island territory.",
+    "date": "2026-07-07",
+    "qno": 18,
+    "question": "Which of the following statements about Indira Point is correct?",
+    "options": [
+      "It is the northernmost point of mainland India",
+      "It is India's southernmost point and is located on Great Nicobar Island",
+      "It is located in Lakshadweep",
+      "It lies in the Gulf of Kutch"
+    ],
+    "answer": 1,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "International Relations",
+    "passage": "The BRICS grouping has increasingly emphasised cooperation against transnational crimes, including narcotics trafficking. Such cooperation may involve intelligence sharing, border management, financial investigation and coordinated law-enforcement action.",
+    "date": "2026-07-07",
+    "qno": 19,
+    "question": "Which of the following countries was among the original BRIC members before South Africa joined?",
+    "options": [
+      "Brazil",
+      "Egypt",
+      "Indonesia",
+      "Saudi Arabia"
+    ],
+    "answer": 0,
+    "source": "Standard Newspapers"
+  },
+  {
+    "year": 2026,
+    "subject": "International Relations and Security",
+    "passage": "NATO is a military alliance based on collective defence. Its members have debated defence spending, burden-sharing and military preparedness in response to changing geopolitical and security conditions.",
+    "date": "2026-07-07",
+    "qno": 20,
+    "question": "Which article of the North Atlantic Treaty contains the collective-defence commitment of NATO members?",
+    "options": [
+      "Article 2",
+      "Article 4",
+      "Article 5",
+      "Article 10"
+    ],
+    "answer": 2,
+    "source": "Standard Newspapers"
+  }
+]
