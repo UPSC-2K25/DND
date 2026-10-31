@@ -298,9 +298,7 @@
       "None"
     ],
     "answer": 2
-  }
-]
-[
+  },
   {
     "year": 2026,
     "subject": "Economy",
@@ -600,9 +598,7 @@
       "None"
     ],
     "answer": 1
-  }
-]
-[
+  },
   {
     "year": 2026,
     "subject": "Polity & Governance",
@@ -902,9 +898,7 @@
       "None"
     ],
     "answer": 1
-  }
-]
-[
+  },
   {
     "year": 2026,
     "subject": "Polity & Governance",
@@ -1204,13 +1198,10 @@
       "None"
     ],
     "answer": 1
-  }
-]
-[
+  },
   {
     "year": 2026,
     "subject": "Polity & Governance",
-    "source": "Standard Newspapers",
     "passage": "The ordinance-making power of the President enables the Union executive to address circumstances requiring immediate legislative action when Parliament is not in session. An ordinance has the same force and effect as an Act of Parliament, but it must be laid before both Houses and ordinarily ceases to operate six weeks after Parliament reassembles, unless approved earlier. The power is subject to constitutional limitations and judicial review.",
     "date": "2026-06-05",
     "qno": 1,
@@ -1226,7 +1217,6 @@
   {
     "year": 2026,
     "subject": "Polity & Governance",
-    "source": "Standard Newspapers",
     "passage": "The Attorney General of India is the highest law officer of the Union Government. The office is provided for under the Constitution and involves advising the Government of India on legal matters and performing other legal duties assigned by the President. The Attorney General has the right to participate in the proceedings of Parliament but does not have the right to vote.",
     "date": "2026-06-05",
     "qno": 2,
@@ -1242,7 +1232,6 @@
   {
     "year": 2026,
     "subject": "Polity & Governance",
-    "source": "Standard Newspapers",
     "passage": "The Constitution provides a procedure for its amendment under Article 368. Depending on the subject matter, an amendment may require a special majority in Parliament and, in certain cases, ratification by at least half of the State Legislatures. The President is required to give assent to a Constitution Amendment Bill duly passed under the prescribed procedure.",
     "date": "2026-06-05",
     "qno": 3,
@@ -1258,7 +1247,6 @@
   {
     "year": 2026,
     "subject": "Economy",
-    "source": "Standard Newspapers",
     "passage": "Foreign direct investment (FDI) is generally associated with a lasting interest and significant influence by a foreign investor in an enterprise operating in another economy. FDI can take the form of establishing a new business, acquiring an existing enterprise or reinvesting earnings. It differs from portfolio investment, which typically involves financial assets without the same degree of managerial influence.",
     "date": "2026-06-05",
     "qno": 4,
@@ -1274,7 +1262,6 @@
   {
     "year": 2026,
     "subject": "Economy",
-    "source": "Standard Newspapers",
     "passage": "A capital account transaction in the balance of payments involves changes in the ownership of assets and liabilities between residents and non-residents. Capital flows may include foreign investment, external borrowing and the acquisition of financial assets. Such flows can provide financing for investment but may also expose an economy to volatility when international financial conditions change.",
     "date": "2026-06-05",
     "qno": 5,
@@ -1290,7 +1277,6 @@
   {
     "year": 2026,
     "subject": "Economy",
-    "source": "Standard Newspapers",
     "passage": "A carbon market assigns a monetary value to greenhouse gas emissions or their reduction. Under a cap-and-trade system, regulated entities may trade emission allowances within a prescribed limit. In credit-based systems, eligible projects may generate credits for verified emission reductions or removals. The environmental integrity of such markets depends on credible measurement, reporting and verification.",
     "date": "2026-06-05",
     "qno": 6,
@@ -1306,7 +1292,6 @@
   {
     "year": 2026,
     "subject": "Environment & Ecology",
-    "source": "Standard Newspapers",
     "passage": "Wildlife corridors connect separated habitats and allow animals to move between them. They can support gene flow, seasonal migration and access to food or breeding areas. Infrastructure development and land-use change may fragment corridors, increasing the isolation of wildlife populations. Conservation planning increasingly considers connectivity alongside the protection of individual habitats.",
     "date": "2026-06-05",
     "qno": 7,
@@ -1322,7 +1307,6 @@
   {
     "year": 2026,
     "subject": "Environment & Ecology",
-    "source": "Standard Newspapers",
     "passage": "Invasive alien species are organisms introduced outside their natural range that may establish and spread, causing ecological, economic or health-related harm. They can compete with native species, alter food webs and change habitat conditions. Their impacts may be particularly serious on islands and in ecosystems with species that evolved without certain predators or competitors.",
     "date": "2026-06-05",
     "qno": 8,
@@ -1338,7 +1322,6 @@
   {
     "year": 2026,
     "subject": "Environment & Ecology",
-    "source": "Standard Newspapers",
     "passage": "Peatlands are wetlands in which partially decomposed plant material accumulates over long periods. They store substantial quantities of carbon and help regulate water flows. Drainage, fires and land conversion can release stored carbon into the atmosphere. Peatland restoration may therefore contribute to climate mitigation while also supporting biodiversity and hydrological functions.",
     "date": "2026-06-05",
     "qno": 9,
@@ -1354,7 +1337,6 @@
   {
     "year": 2026,
     "subject": "Science & Technology",
-    "source": "Standard Newspapers",
     "passage": "Quantum computing uses quantum-mechanical properties such as superposition and entanglement to process information. Quantum bits, or qubits, differ from classical bits in how they represent and manipulate information. Some quantum algorithms may offer advantages for particular tasks, but building reliable large-scale quantum computers remains challenging because quantum states are highly susceptible to noise and errors.",
     "date": "2026-06-05",
     "qno": 10,
@@ -1370,7 +1352,6 @@
   {
     "year": 2026,
     "subject": "Science & Technology",
-    "source": "Standard Newspapers",
     "passage": "Gene therapy seeks to treat or prevent disease by modifying genetic material in a patient's cells. Approaches may include introducing a functional copy of a gene, altering gene expression or editing a specific DNA sequence. Delivery of genetic material to target cells and the assessment of safety, durability and unintended effects remain important challenges.",
     "date": "2026-06-05",
     "qno": 11,
@@ -1386,7 +1367,6 @@
   {
     "year": 2026,
     "subject": "Science & Technology",
-    "source": "Standard Newspapers",
     "passage": "A digital twin is a virtual representation of a physical object, process or system that may be updated using data from its real-world counterpart. Digital twins can be used to monitor performance, simulate scenarios and support maintenance decisions. Their usefulness depends on data quality, appropriate models and the ability to represent changing real-world conditions.",
     "date": "2026-06-05",
     "qno": 12,
@@ -1402,7 +1382,6 @@
   {
     "year": 2026,
     "subject": "History & Culture",
-    "source": "Standard Newspapers",
     "passage": "The Civil Disobedience Movement began in 1930 with the Salt March led by Mahatma Gandhi. It involved the deliberate violation of selected colonial laws and the mobilisation of people through protests, boycotts and refusal to cooperate with certain government measures. The movement formed a major phase of the Indian national struggle against British rule.",
     "date": "2026-06-05",
     "qno": 13,
@@ -1418,7 +1397,6 @@
   {
     "year": 2026,
     "subject": "History & Culture",
-    "source": "Standard Newspapers",
     "passage": "Sangam literature is associated with early Tamil literary traditions. The texts provide information about social life, political authority, trade, warfare and landscapes of ancient Tamilakam. They include poetic works that are commonly grouped according to themes and conventions, offering valuable evidence for the study of early South Indian history.",
     "date": "2026-06-05",
     "qno": 14,
@@ -1434,7 +1412,6 @@
   {
     "year": 2026,
     "subject": "History & Culture",
-    "source": "Standard Newspapers",
     "passage": "The teachings of the Buddha emphasised the Four Noble Truths and the Eightfold Path as a way to understand suffering and its cessation. Buddhist traditions developed across different regions and periods, giving rise to diverse schools, monastic institutions and artistic forms. Buddhist councils are traditionally associated with the preservation and organisation of teachings.",
     "date": "2026-06-05",
     "qno": 15,
@@ -1450,7 +1427,6 @@
   {
     "year": 2026,
     "subject": "Geography",
-    "source": "Standard Newspapers",
     "passage": "Earthquakes occur when accumulated stress in the Earth's crust is released, commonly along faults. Their effects depend not only on magnitude but also on depth, distance from the epicentre, local geology and the vulnerability of buildings and infrastructure. Seismic waves travel through the Earth and can be recorded by instruments known as seismographs.",
     "date": "2026-06-05",
     "qno": 16,
@@ -1466,7 +1442,6 @@
   {
     "year": 2026,
     "subject": "Geography",
-    "source": "Standard Newspapers",
     "passage": "Tropical cyclones develop over warm ocean waters when atmospheric conditions support the organisation of thunderstorms and the development of a low-pressure system. They are characterised by strong winds and heavy rainfall. The Coriolis effect helps impart rotation, which is why tropical cyclones rarely form directly at the Equator.",
     "date": "2026-06-05",
     "qno": 17,
@@ -1482,7 +1457,6 @@
   {
     "year": 2026,
     "subject": "International Relations",
-    "source": "Standard Newspapers",
     "passage": "The World Trade Organization provides a multilateral framework for rules governing international trade. Its functions include administering trade agreements, providing a forum for negotiations and addressing disputes between members. The WTO's dispute settlement system is designed to help resolve trade disagreements through agreed procedures.",
     "date": "2026-06-05",
     "qno": 18,
@@ -1498,7 +1472,6 @@
   {
     "year": 2026,
     "subject": "Agriculture",
-    "source": "Standard Newspapers",
     "passage": "Crop diversification involves shifting from a narrow concentration of crops towards a wider range of crops or agricultural activities. It can help manage production risks, improve soil health and reduce dependence on a single market. The feasibility of diversification depends on factors such as water availability, local climate, infrastructure, market access and farm-level costs.",
     "date": "2026-06-05",
     "qno": 19,
@@ -1514,7 +1487,6 @@
   {
     "year": 2026,
     "subject": "Social Issues",
-    "source": "Standard Newspapers",
     "passage": "The Mahatma Gandhi National Rural Employment Guarantee Act provides a statutory framework for wage employment to rural households whose adult members volunteer to undertake unskilled manual work. The programme is demand-driven and includes provisions related to employment, wages and accountability. It also seeks to create durable assets and strengthen rural livelihoods.",
     "date": "2026-06-05",
     "qno": 20,
@@ -1526,13 +1498,10 @@
       "1, 2 and 3"
     ],
     "answer": 0
-  }
-]
-[
+  },
   {
     "year": 2026,
     "subject": "Polity & Governance",
-    "source": "Standard Newspapers",
     "passage": "The Comptroller and Auditor General of India is a constitutional authority responsible for auditing the accounts of the Union and State governments. The office plays an important role in ensuring legislative accountability over public expenditure. Reports of the CAG relating to the Union are submitted to the President, who causes them to be laid before each House of Parliament.",
     "date": "2026-06-06",
     "qno": 1,
@@ -1548,7 +1517,6 @@
   {
     "year": 2026,
     "subject": "Polity & Governance",
-    "source": "Standard Newspapers",
     "passage": "The Inter-State Council is a constitutional mechanism intended to facilitate coordination between the Union and States. It may discuss subjects of common interest, investigate disputes and make recommendations for better coordination of policy and action. Its establishment reflects the cooperative dimensions of Indian federalism.",
     "date": "2026-06-06",
     "qno": 2,
@@ -1564,7 +1532,6 @@
   {
     "year": 2026,
     "subject": "Polity & Governance",
-    "source": "Standard Newspapers",
     "passage": "The Public Accounts Committee examines government expenditure and the reports of the Comptroller and Auditor General. It scrutinises whether money granted by Parliament has been spent within the scope of the demands and for the purposes approved. Its work is an important instrument of legislative financial oversight.",
     "date": "2026-06-06",
     "qno": 3,
@@ -1580,7 +1547,6 @@
   {
     "year": 2026,
     "subject": "Economy",
-    "source": "Standard Newspapers",
     "passage": "A sovereign green bond is a debt instrument issued by a government to raise funds for eligible environmental or climate-related projects. Such projects may include renewable energy, clean transportation and climate adaptation. The credibility of green bonds depends on transparent selection of projects, monitoring of fund utilisation and reporting of environmental outcomes.",
     "date": "2026-06-06",
     "qno": 4,
@@ -1596,7 +1562,6 @@
   {
     "year": 2026,
     "subject": "Economy",
-    "source": "Standard Newspapers",
     "passage": "The term disinvestment refers to the sale of government equity in public sector enterprises. It may be undertaken to raise resources, improve efficiency or alter the government's ownership structure. Strategic disinvestment generally involves the transfer of management control along with the sale of a substantial shareholding.",
     "date": "2026-06-06",
     "qno": 5,
@@ -1612,7 +1577,6 @@
   {
     "year": 2026,
     "subject": "Economy",
-    "source": "Standard Newspapers",
     "passage": "The repo rate is the rate at which the Reserve Bank of India lends short-term funds to banks against eligible securities. Changes in the repo rate can influence borrowing costs, credit demand and inflationary pressures. Monetary policy decisions consider a range of macroeconomic indicators and the overall outlook for price stability and growth.",
     "date": "2026-06-06",
     "qno": 6,
@@ -1628,7 +1592,6 @@
   {
     "year": 2026,
     "subject": "Environment & Ecology",
-    "source": "Standard Newspapers",
     "passage": "The Convention on International Trade in Endangered Species of Wild Fauna and Flora regulates international trade in specimens of selected wild animal and plant species. It classifies species into appendices according to the level of protection required. The convention seeks to ensure that international trade does not threaten the survival of species in the wild.",
     "date": "2026-06-06",
     "qno": 7,
@@ -1644,7 +1607,6 @@
   {
     "year": 2026,
     "subject": "Environment & Ecology",
-    "source": "Standard Newspapers",
     "passage": "The Kunming-Montreal Global Biodiversity Framework was adopted under the Convention on Biological Diversity. It sets global targets for halting and reversing biodiversity loss, including the conservation of terrestrial and marine areas. The framework also emphasises sustainable use, equitable benefit-sharing and mobilisation of resources for biodiversity conservation.",
     "date": "2026-06-06",
     "qno": 8,
@@ -1660,7 +1622,6 @@
   {
     "year": 2026,
     "subject": "Environment & Ecology",
-    "source": "Standard Newspapers",
     "passage": "Seagrass meadows are underwater flowering plants found in shallow marine and coastal waters. They provide nursery habitats for fish and other marine organisms, stabilise sediments and store carbon in their biomass and underlying soils. Coastal development, pollution and warming waters can threaten these ecosystems.",
     "date": "2026-06-06",
     "qno": 9,
@@ -1676,7 +1637,6 @@
   {
     "year": 2026,
     "subject": "Science & Technology",
-    "source": "Standard Newspapers",
     "passage": "Small modular reactors are nuclear reactors designed with relatively smaller power capacities and modular construction approaches. Their proponents highlight the possibility of factory fabrication and deployment in different locations. However, issues relating to cost, regulatory approval, radioactive waste and public acceptance remain important considerations.",
     "date": "2026-06-06",
     "qno": 10,
@@ -1692,7 +1652,6 @@
   {
     "year": 2026,
     "subject": "Science & Technology",
-    "source": "Standard Newspapers",
     "passage": "The Internet of Things refers to networks of physical objects embedded with sensors, software and connectivity that enable them to collect and exchange data. Applications include smart agriculture, industrial monitoring, healthcare and urban infrastructure. Security, interoperability and privacy are among the important challenges associated with large-scale deployment.",
     "date": "2026-06-06",
     "qno": 11,
@@ -1708,7 +1667,6 @@
   {
     "year": 2026,
     "subject": "Science & Technology",
-    "source": "Standard Newspapers",
     "passage": "The mRNA vaccine platform uses messenger RNA to instruct cells to produce a specific protein or antigen that can stimulate an immune response. The platform can be adapted to different targets and has attracted interest for infectious diseases and certain cancer therapies. Stability, delivery and equitable access remain important considerations.",
     "date": "2026-06-06",
     "qno": 12,
@@ -1724,7 +1682,6 @@
   {
     "year": 2026,
     "subject": "History & Culture",
-    "source": "Standard Newspapers",
     "passage": "The Sanchi Stupa is among the most important surviving monuments associated with Buddhism in India. Its development took place over several centuries, with major construction activity traditionally associated with Emperor Ashoka. The site contains stupas, gateways and other structures that reflect the evolution of Buddhist art and architecture.",
     "date": "2026-06-06",
     "qno": 13,
@@ -1740,7 +1697,6 @@
   {
     "year": 2026,
     "subject": "History & Culture",
-    "source": "Standard Newspapers",
     "passage": "The Chola dynasty developed a powerful state in southern India, with its influence extending across parts of the Indian Ocean region. Chola rulers patronised temple construction, bronze sculpture and local institutions. Their inscriptions provide information about land grants, taxation, village assemblies and administrative arrangements.",
     "date": "2026-06-06",
     "qno": 14,
@@ -1756,7 +1712,6 @@
   {
     "year": 2026,
     "subject": "History & Culture",
-    "source": "Standard Newspapers",
     "passage": "The Permanent Settlement was introduced by the British East India Company in Bengal in 1793 under Governor-General Lord Cornwallis. It fixed the land revenue demand payable by zamindars to the colonial government. The arrangement aimed to create a stable revenue system but had significant consequences for cultivators and rural society.",
     "date": "2026-06-06",
     "qno": 15,
@@ -1772,7 +1727,6 @@
   {
     "year": 2026,
     "subject": "Geography",
-    "source": "Standard Newspapers",
     "passage": "The Indian Ocean Dipole is a climate phenomenon characterised by differences in sea-surface temperatures between the western and eastern tropical Indian Ocean. Its positive and negative phases can influence rainfall patterns in surrounding regions. The phenomenon may interact with El Niño and other climate drivers, affecting seasonal monsoon behaviour.",
     "date": "2026-06-06",
     "qno": 16,
@@ -1788,7 +1742,6 @@
   {
     "year": 2026,
     "subject": "Geography",
-    "source": "Standard Newspapers",
     "passage": "The Himalayas are geologically young fold mountains formed through the collision of the Indian and Eurasian tectonic plates. The ongoing convergence contributes to earthquakes and continuing uplift. The region also influences the climate of the Indian subcontinent by obstructing cold continental air and affecting monsoon circulation.",
     "date": "2026-06-06",
     "qno": 17,
@@ -1804,7 +1757,6 @@
   {
     "year": 2026,
     "subject": "International Relations",
-    "source": "Standard Newspapers",
     "passage": "The International Solar Alliance is an intergovernmental organisation that seeks to promote solar energy deployment and cooperation among its member countries. It focuses on mobilising investment, supporting technology and facilitating capacity-building for solar projects. The initiative highlights the role of international cooperation in expanding access to clean energy.",
     "date": "2026-06-06",
     "qno": 18,
@@ -1820,7 +1772,6 @@
   {
     "year": 2026,
     "subject": "Agriculture",
-    "source": "Standard Newspapers",
     "passage": "Integrated pest management combines biological, cultural, mechanical and chemical methods to control pests while minimising risks to human health and the environment. It emphasises monitoring pest populations and using pesticides judiciously when necessary. The approach aims to reduce excessive dependence on chemical pesticides and preserve beneficial organisms.",
     "date": "2026-06-06",
     "qno": 19,
@@ -1836,7 +1787,6 @@
   {
     "year": 2026,
     "subject": "Social Issues",
-    "source": "Standard Newspapers",
     "passage": "The Ayushman Bharat initiative includes the Pradhan Mantri Jan Arogya Yojana, which provides health insurance cover for eligible vulnerable families for secondary and tertiary hospitalisation. The programme seeks to reduce financial hardship arising from healthcare expenditure and improve access to hospital services. Its implementation involves coordination between the Union and State governments.",
     "date": "2026-06-06",
     "qno": 20,
@@ -1848,13 +1798,10 @@
       "1, 2 and 3"
     ],
     "answer": 0
-  }
-]
-[
+  },
   {
     "year": 2026,
     "subject": "Polity & Governance",
-    "source": "Standard Newspapers",
     "passage": "The Election Commission of India is a constitutional body responsible for the superintendence, direction and control of elections to Parliament, State Legislatures and the offices of the President and Vice-President. It supervises electoral rolls, election schedules and the conduct of elections. The Constitution also provides for a separate State Election Commission to conduct elections to local bodies.",
     "date": "2026-06-07",
     "qno": 1,
@@ -1870,7 +1817,6 @@
   {
     "year": 2026,
     "subject": "Polity & Governance",
-    "source": "Standard Newspapers",
     "passage": "The Finance Commission is constituted by the President under Article 280 of the Constitution. It recommends the distribution of certain tax revenues between the Union and the States and among the States. It also recommends principles governing grants-in-aid and may address other matters referred to it in the interests of sound public finance.",
     "date": "2026-06-07",
     "qno": 2,
@@ -1886,7 +1832,6 @@
   {
     "year": 2026,
     "subject": "Polity & Governance",
-    "source": "Standard Newspapers",
     "passage": "The writ jurisdiction of the Supreme Court under Article 32 and of High Courts under Article 226 plays an important role in protecting rights and ensuring legality of administrative action. High Courts may issue writs not only for enforcement of Fundamental Rights but also for other purposes, whereas the Supreme Court's jurisdiction under Article 32 is specifically linked to Fundamental Rights.",
     "date": "2026-06-07",
     "qno": 3,
@@ -1902,7 +1847,6 @@
   {
     "year": 2026,
     "subject": "Economy",
-    "source": "Standard Newspapers",
     "passage": "The fiscal deficit represents the excess of total government expenditure over total receipts excluding borrowings. It indicates the government's borrowing requirement during a financial year. A high fiscal deficit may increase public debt and influence interest rates, although its effects depend on the composition of expenditure, economic conditions and the availability of financing.",
     "date": "2026-06-07",
     "qno": 4,
@@ -1918,7 +1862,6 @@
   {
     "year": 2026,
     "subject": "Economy",
-    "source": "Standard Newspapers",
     "passage": "The Purchasing Managers' Index is an indicator based on surveys of purchasing managers in sectors such as manufacturing and services. It tracks changes in variables including new orders, output, employment and supplier delivery times. A reading above 50 generally indicates expansion compared with the previous month, while a reading below 50 indicates contraction.",
     "date": "2026-06-07",
     "qno": 5,
@@ -1934,7 +1877,6 @@
   {
     "year": 2026,
     "subject": "Economy",
-    "source": "Standard Newspapers",
     "passage": "The National Payments Corporation of India operates retail payment and settlement systems in India. Its initiatives include the Unified Payments Interface, which enables instant transfers between bank accounts through mobile applications and other channels. Such systems can support financial inclusion but require strong cybersecurity, consumer protection and reliable infrastructure.",
     "date": "2026-06-07",
     "qno": 6,
@@ -1950,7 +1892,6 @@
   {
     "year": 2026,
     "subject": "Environment & Ecology",
-    "source": "Standard Newspapers",
     "passage": "The Convention on Wetlands, commonly known as the Ramsar Convention, promotes the conservation and wise use of wetlands. Wetlands provide important ecosystem services, including flood moderation, water purification, groundwater recharge and habitat for biodiversity. Parties to the convention identify suitable wetlands for inclusion in the List of Wetlands of International Importance.",
     "date": "2026-06-07",
     "qno": 7,
@@ -1966,7 +1907,6 @@
   {
     "year": 2026,
     "subject": "Environment & Ecology",
-    "source": "Standard Newspapers",
     "passage": "The ozone layer in the stratosphere absorbs much of the Sun's harmful ultraviolet radiation. The Montreal Protocol was adopted to phase out the production and consumption of ozone-depleting substances. Its implementation has contributed to the gradual recovery of the ozone layer, although recovery varies by region and is expected to take several decades.",
     "date": "2026-06-07",
     "qno": 8,
@@ -1982,7 +1922,6 @@
   {
     "year": 2026,
     "subject": "Environment & Ecology",
-    "source": "Standard Newspapers",
     "passage": "The Convention on Biological Diversity recognises the importance of conserving biodiversity, ensuring its sustainable use and sharing benefits arising from genetic resources fairly and equitably. The Nagoya Protocol provides an international framework for access to genetic resources and the fair and equitable sharing of benefits arising from their utilisation.",
     "date": "2026-06-07",
     "qno": 9,
@@ -1998,7 +1937,6 @@
   {
     "year": 2026,
     "subject": "Science & Technology",
-    "source": "Standard Newspapers",
     "passage": "A fuel cell converts the chemical energy of a fuel directly into electrical energy through an electrochemical process. Hydrogen fuel cells typically combine hydrogen and oxygen to produce electricity, with water and heat as by-products. Their overall environmental impact depends partly on how the hydrogen is produced and how the fuel-cell system is manufactured and operated.",
     "date": "2026-06-07",
     "qno": 10,
@@ -2014,7 +1952,6 @@
   {
     "year": 2026,
     "subject": "Science & Technology",
-    "source": "Standard Newspapers",
     "passage": "Blockchain is a form of distributed ledger technology in which records are organised into linked blocks and maintained across a network. Cryptographic methods help secure transactions and make unauthorised alteration difficult. Applications may include supply-chain tracking, digital identity and financial services, though scalability, governance and energy consumption can pose challenges.",
     "date": "2026-06-07",
     "qno": 11,
@@ -2030,7 +1967,6 @@
   {
     "year": 2026,
     "subject": "Science & Technology",
-    "source": "Standard Newspapers",
     "passage": "Remote sensing involves collecting information about objects or areas without making physical contact, often through satellites, aircraft or drones. It is used in agriculture, disaster management, urban planning and environmental monitoring. Different sensors may detect visible, infrared or microwave radiation, allowing observations under varied conditions.",
     "date": "2026-06-07",
     "qno": 12,
@@ -2046,7 +1982,6 @@
   {
     "year": 2026,
     "subject": "History & Culture",
-    "source": "Standard Newspapers",
     "passage": "The Bhakti movement involved diverse devotional traditions that emphasised personal devotion to a chosen deity. Several Bhakti saints composed poetry in regional languages, making religious ideas accessible to wider sections of society. The movement included different philosophical approaches and social perspectives across regions and centuries.",
     "date": "2026-06-07",
     "qno": 13,
@@ -2062,7 +1997,6 @@
   {
     "year": 2026,
     "subject": "History & Culture",
-    "source": "Standard Newspapers",
     "passage": "The Vijayanagara Empire emerged in southern India in the fourteenth century. Its rulers patronised temple architecture, irrigation works, trade and literature. The capital city developed into a major political and commercial centre, with archaeological remains providing evidence of its urban planning and cultural achievements.",
     "date": "2026-06-07",
     "qno": 14,
@@ -2078,7 +2012,6 @@
   {
     "year": 2026,
     "subject": "History & Culture",
-    "source": "Standard Newspapers",
     "passage": "The Indian Councils Act of 1909, also known as the Morley-Minto Reforms, expanded the legislative councils and introduced separate electorates for Muslims. The reforms marked an important stage in the constitutional development of British India but did not establish responsible government at the central level.",
     "date": "2026-06-07",
     "qno": 15,
@@ -2094,7 +2027,6 @@
   {
     "year": 2026,
     "subject": "Geography",
-    "source": "Standard Newspapers",
     "passage": "The Coriolis force is an apparent deflection of moving objects when viewed from a rotating reference frame such as the Earth. It deflects moving air and water to the right in the Northern Hemisphere and to the left in the Southern Hemisphere. The effect is zero at the Equator and increases towards the poles.",
     "date": "2026-06-07",
     "qno": 16,
@@ -2110,7 +2042,6 @@
   {
     "year": 2026,
     "subject": "Geography",
-    "source": "Standard Newspapers",
     "passage": "The Deccan Plateau is a large physiographic region of peninsular India, bounded broadly by the Western and Eastern Ghats. Much of the plateau is composed of ancient crystalline rocks and extensive basaltic formations associated with the Deccan Traps. Its rivers generally flow towards the east, though important west-flowing rivers also occur.",
     "date": "2026-06-07",
     "qno": 17,
@@ -2126,7 +2057,6 @@
   {
     "year": 2026,
     "subject": "International Relations",
-    "source": "Standard Newspapers",
     "passage": "The United Nations Convention on the Law of the Sea provides a legal framework governing the use of the oceans and their resources. It defines maritime zones, including territorial seas, exclusive economic zones and the high seas. Coastal States exercise specific sovereign rights and jurisdiction in their exclusive economic zones, which extend up to 200 nautical miles from the baselines.",
     "date": "2026-06-07",
     "qno": 18,
@@ -2142,7 +2072,6 @@
   {
     "year": 2026,
     "subject": "Agriculture",
-    "source": "Standard Newspapers",
     "passage": "Micro-irrigation methods such as drip and sprinkler irrigation deliver water more efficiently than many conventional surface irrigation methods. Drip irrigation supplies water close to plant roots, potentially reducing evaporation and runoff. These systems can improve water-use efficiency, although their performance depends on maintenance, crop type and local conditions.",
     "date": "2026-06-07",
     "qno": 19,
@@ -2158,7 +2087,6 @@
   {
     "year": 2026,
     "subject": "Social Issues",
-    "source": "Standard Newspapers",
     "passage": "The Right of Children to Free and Compulsory Education Act, 2009 gives effect to the constitutional guarantee under Article 21A. It provides for free and compulsory education for children in the age group of six to fourteen years. The law also lays down responsibilities for governments and local authorities in ensuring access to elementary education.",
     "date": "2026-06-07",
     "qno": 20,
